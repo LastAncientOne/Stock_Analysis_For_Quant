@@ -10,4 +10,7 @@ Matlab R2016a
 
 Excel 2016
 
+## Authors
+* Tin Hang
+
 ## This is not get rich quick and is for researching and educational purposes.
