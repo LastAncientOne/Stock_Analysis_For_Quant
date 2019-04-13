@@ -2,4 +2,4 @@
 
 ## List of Technical Analysis
 ## List of different type of strategies
-## Project of Portfolio Stocks Ivnestment
+## Project of Portfolio Stocks Investtment
