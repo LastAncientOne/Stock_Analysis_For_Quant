@@ -48,8 +48,8 @@ ZigZag
 ## Will Add more indicators
 
 ## References
-https://www.investopedia.com/
-https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators
-https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/list-of-technical-indicators/
+https://www.investopedia.com/  
+https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators  
+https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/list-of-technical-indicators/  
 
 
