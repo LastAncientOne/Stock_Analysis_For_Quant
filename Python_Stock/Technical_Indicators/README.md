@@ -30,5 +30,19 @@ Relative Strength Index & BollinerBands
 Rainbow Charts  
 Relative Volatility Index  
 Smoothed Moving Average (SMMA)  
+Speed Resistance Lines  
+Standard Deviation Volatility  
+Stochastic RSI  
+Super Trend  
+T3 Moving AVerage  
+Triple Exponential Moving Average (TEMA)  
+Tirone Levels  
+Volume Accumulation Oscillator (VAO)  
+Volume Weighted Average Price (VWAP)  
+Volume Weighted Moving Average (VWMA)  
+Weighted Moving Average (WMA)
+Wilder's Smoothing Moving Average (WSMA)  
+Welles Wilder’s Smoothing Average (WWS)  
+ZigZag
 
-  
+## Will Add more indicators
