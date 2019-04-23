@@ -21,7 +21,8 @@ Martin Pring Speical K
 McClellan Oscillator  
 Median Price  
 Moving Average Ribbon  
-New Highs New Lows  
+New Highs New Lows 
+Decision Point Price Momentum Oscillator (PMO)  
 Price Channels  
 Qstick  
 Relative Strength Index (RSI)  
