@@ -21,6 +21,7 @@ Martin Pring Speical K
 McClellan Oscillator  
 Median Price  
 Moving Average Ribbon  
+Negative Volume Index (NVI)  
 New Highs New Lows 
 Decision Point Price Momentum Oscillator (PMO)  
 Price Channels  
