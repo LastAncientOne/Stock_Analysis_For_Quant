@@ -1,13 +1,10 @@
-# Stock Analysis for Quants
-This is Stock Analysis project in Python, R, Excel, and Matlab language with different types of analysis such as technical analysis, fundamental analysis, quantitative analysis, and different types of trading strategies. Many different types of technical indicators. Using timeseries, forecasting, machine learning, and deep learning for this research project. 
+# Stock Analysis for Quants  
+This is Stock Analysis project in Python, R, Excel, and Matlab language with different types of analysis such as data analysis, technical analysis, fundamental analysis, quantitative analysis, and different types of trading strategies. Many different types of technical indicators in python, R, and Excel. Using timeseries, forecasting, machine learning, and deep learning for this research project in different type of programming languages. 
 
 # Prerequistes
-Python 3.5+
-
-R 3.0.0 +
-
-Matlab R2016a
-
+Python 3.5+  
+R 3.0.0 +  
+Matlab R2016a  
 Excel 2016
 
 ## Authors
