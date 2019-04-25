@@ -14,6 +14,7 @@ GANN Lines Angles
 Guppy Multiple Moving Average (GMMA)  
 Heiken Ashi  
 Ichimoku  
+Know Sure Thing (KST)  
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
 Money Flow Index indicator (MFI)  
