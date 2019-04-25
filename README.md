@@ -3,8 +3,11 @@ This is Stock Analysis project in Python, R, Excel, and Matlab language with dif
 
 # Prerequistes
 Python 3.5+  
+
 R 3.0.0 +  
+
 Matlab R2016a  
+
 Excel 2016
 
 ## Authors
