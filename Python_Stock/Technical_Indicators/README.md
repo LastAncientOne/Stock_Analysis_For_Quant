@@ -7,6 +7,7 @@ Balance of Power
 Breadth Indicators  
 Chandelier Exit  
 Double Exponential Moving Average (DEMA)  
+Detrended Price Oscillator (DPO)  
 Dochain Channel  
 Ease of Movement  
 Envelopes  
