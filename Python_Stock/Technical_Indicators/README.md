@@ -40,7 +40,8 @@ Stochastic RSI
 Super Trend  
 T3 Moving AVerage  
 Triple Exponential Moving Average (TEMA)  
-Tirone Levels  
+Tirone Levels 
+Ulcer Index  
 Volume Accumulation Oscillator (VAO)  
 Volume Weighted Average Price (VWAP)  
 Volume Weighted Moving Average (VWMA)  
