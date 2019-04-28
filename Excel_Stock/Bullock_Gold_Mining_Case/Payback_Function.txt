@@ -1,0 +1,22 @@
+Function PAYBACK(invest, finflow) 
+    Dim x As Double, v As Double 
+    Dim c As Integer, i As Integer 
+    x = Abs(invest) 
+    i = 1 
+    c = finflow.Count 
+    Do 
+        x = x - v 
+        v = finflow.Cells(i).Value 
+        If x = v Then 
+            PAYBACK = i 
+            Exit Function 
+        ElseIf x < v Then 
+            P = i - 1 
+            Z = x / v 
+            PAYBACK = P + Z 
+            Exit Function 
+        End If 
+        i = i + 1 
+    Loop Until i > c 
+    PAYBACK = "no payback" 
+End Function 

@@ -1,0 +1,16 @@
+Function PaybackPeriod(Years As Range, CashFlow As Range) As Variant
+ 
+  Dim i As Long
+  Dim Total As Double
+ 
+  PaybackPeriod = CVErr(xlErrNA)
+  With Years
+    For i = 1 To .Cells.Count
+      Total = Total + CashFlow.Cells(i)
+      If Total > 0 Then
+        PaybackPeriod = .Cells(i).Value - Total / CashFlow(i) * (.Cells(i).Value - .Cells(i - 1).Value)
+        Exit Function
+      End If
+    Next i
+  End With
+End Function
