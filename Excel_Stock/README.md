@@ -8,6 +8,7 @@ This Excel project has technical analysis, fundamental analysis, quantitative an
 ### Fundamental Analysis (Statements)
 ### List of different type of strategies
 ### Project of Portfolio Stocks Investment
+### Project of Values in the Company (Cashflows)  
 ### Stock Data Analysis
 
 ### Author: Tin Hang
