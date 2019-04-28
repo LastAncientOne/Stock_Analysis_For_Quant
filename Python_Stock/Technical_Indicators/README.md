@@ -42,6 +42,7 @@ T3 Moving AVerage
 Triple Exponential Moving Average (TEMA)  
 Tirone Levels 
 Ulcer Index  
+Ultimate Oscillator  
 Volume Accumulation Oscillator (VAO)  
 Volume Weighted Average Price (VWAP)  
 Volume Weighted Moving Average (VWMA)  
