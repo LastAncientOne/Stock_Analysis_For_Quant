@@ -49,6 +49,7 @@ Volume Weighted Moving Average (VWMA)
 Weighted Moving Average (WMA)
 Wilder's Smoothing Moving Average (WSMA)  
 Welles Wilder’s Smoothing Average (WWS)  
+William %R
 ZigZag
 
 ## Will Add more indicators
