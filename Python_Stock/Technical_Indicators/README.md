@@ -9,6 +9,7 @@ Chandelier Exit
 Double Exponential Moving Average (DEMA)  
 Detrended Price Oscillator (DPO)  
 Dochain Channel  
+Exponential Moving Average (EMA)  
 Ease of Movement    
 GANN Lines Angles  
 Guppy Multiple Moving Average (GMMA)  
@@ -21,6 +22,7 @@ Money Flow Index indicator (MFI)
 Martin Pring Speical K  
 McClellan Oscillator  
 Median Price  
+Moving Average Envelopes  
 Moving Average Ribbon  
 Negative Volume Index (NVI)  
 New Highs New Lows 
@@ -32,6 +34,7 @@ Relative Strength Index 2 (RSI2)
 Relative Strength Index & BollinerBands  
 Rainbow Charts  
 Relative Volatility Index  
+Simple Moving Average (SMA)  
 Smoothed Moving Average (SMMA)  
 Speed Resistance Lines  
 Standard Deviation Volatility  
