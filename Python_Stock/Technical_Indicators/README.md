@@ -41,6 +41,7 @@ Super Trend
 T3 Moving AVerage  
 Triple Exponential Moving Average (TEMA)  
 Tirone Levels 
+True Strength Index  
 Ulcer Index  
 Ultimate Oscillator  
 Volume Accumulation Oscillator (VAO)  
