@@ -9,8 +9,7 @@ Chandelier Exit
 Double Exponential Moving Average (DEMA)  
 Detrended Price Oscillator (DPO)  
 Dochain Channel  
-Ease of Movement  
-Envelopes  
+Ease of Movement    
 GANN Lines Angles  
 Guppy Multiple Moving Average (GMMA)  
 Heiken Ashi  
