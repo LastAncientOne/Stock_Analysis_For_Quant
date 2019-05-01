@@ -46,8 +46,8 @@ Ultimate Oscillator
 Volume Accumulation Oscillator (VAO)  
 Volume Weighted Average Price (VWAP)  
 Volume Weighted Moving Average (VWMA)  
-Vortex Indicator
-Weighted Moving Average (WMA)
+Vortex Indicator  
+Weighted Moving Average (WMA)  
 Wilder's Smoothing Moving Average (WSMA)  
 Welles Wilder’s Smoothing Average (WWS)  
 William %R
