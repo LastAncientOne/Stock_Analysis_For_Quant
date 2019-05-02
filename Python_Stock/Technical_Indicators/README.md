@@ -1,15 +1,18 @@
 # List of Technial Analysis Indicators
 
 Average Directional Index (ADX)  
+Average True Range (ATR)  
 Alligators Gator Oscillator  
 B Indicator  
 Balance of Power  
+Bollinger Bands  
 Breadth Indicators  
 Chandelier Exit  
 Double Exponential Moving Average (DEMA)  
 Detrended Price Oscillator (DPO)  
 Dochain Channel  
 Exponential Moving Average (EMA)  
+Exponential Moving Averag Volume (EMAV)  
 Ease of Movement    
 GANN Lines Angles  
 Guppy Multiple Moving Average (GMMA)  
