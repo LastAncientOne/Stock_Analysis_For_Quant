@@ -44,7 +44,8 @@ Standard Deviation Volatility
 Stochastic RSI  
 Super Trend  
 T3 Moving AVerage  
-Triple Exponential Moving Average (TEMA)  
+Triple Exponential Moving Average (TEMA)
+TRIX indicator (TRIX)  
 Tirone Levels 
 True Strength Index  
 Ulcer Index  
