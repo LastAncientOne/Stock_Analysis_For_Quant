@@ -20,6 +20,7 @@ Guppy Multiple Moving Average (GMMA)
 Heiken Ashi  
 Ichimoku  
 Know Sure Thing (KST)  
+Keltners Channels  
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
 Money Flow Index indicator (MFI)  
