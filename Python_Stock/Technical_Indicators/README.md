@@ -4,6 +4,7 @@ Average Directional Index (ADX)
 Average True Range (ATR)  
 Alligators Gator Oscillator  
 Aroon  
+Aroon Oscillator  
 B Indicator  
 Balance of Power  
 Bollinger Bands  
