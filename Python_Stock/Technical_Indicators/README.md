@@ -20,6 +20,7 @@ GANN Lines Angles
 Guppy Multiple Moving Average (GMMA)  
 Heiken Ashi  
 Ichimoku  
+Kaufman's Adaptive Moving Average (KAMA)  
 Know Sure Thing (KST)  
 Keltners Channels  
 Moving Average Convergence Divergence (MACD)  
