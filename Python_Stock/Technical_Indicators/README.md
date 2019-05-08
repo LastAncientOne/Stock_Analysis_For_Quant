@@ -39,7 +39,7 @@ Price Channels
 Qstick  
 Relative Strength Index (RSI)  
 Relative Strength Index 2 (RSI2)  
-Relative Strength Index & BollinerBands  
+Relative Strength Index & Bollinger Bands  
 Rainbow Charts  
 Relative Volatility Index  
 Simple Moving Average (SMA)  
