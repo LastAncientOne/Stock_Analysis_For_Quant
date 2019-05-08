@@ -9,6 +9,7 @@ B Indicator
 Balance of Power  
 Bollinger Bands  
 Breadth Indicators  
+Chaikin Oscillator  
 Chandelier Exit  
 Double Exponential Moving Average (DEMA)  
 Detrended Price Oscillator (DPO)  
