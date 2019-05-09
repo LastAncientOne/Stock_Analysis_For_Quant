@@ -37,6 +37,7 @@ New Highs New Lows
 Decision Point Price Momentum Oscillator (PMO)  
 Price Channels  
 Qstick  
+Rate-of-Change (ROC)  
 Relative Strength Index (RSI)  
 Relative Strength Index 2 (RSI2)  
 Relative Strength Index & Bollinger Bands  
