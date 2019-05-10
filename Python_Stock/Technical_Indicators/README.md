@@ -73,7 +73,7 @@ ZigZag
 
 ## Will Add more indicators
 
-## I hope you enjoy learning stock stock indicators.
+## I hope you enjoy learning about stock indicators.
 
 ## References
 https://www.investopedia.com/  
