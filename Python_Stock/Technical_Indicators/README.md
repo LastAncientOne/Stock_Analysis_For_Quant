@@ -1,3 +1,5 @@
+<img src="Stock_Market01.png">
+
 # List of Technial Analysis Indicators
 
 Average Directional Index (ADX)  
