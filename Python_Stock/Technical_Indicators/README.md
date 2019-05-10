@@ -69,7 +69,11 @@ Welles Wilder’s Smoothing Average (WWS)
 William %R
 ZigZag
 
+<img src="StockIndicators.png">
+
 ## Will Add more indicators
+
+## I hope you enjoy learning stock stock indicators.
 
 ## References
 https://www.investopedia.com/  
