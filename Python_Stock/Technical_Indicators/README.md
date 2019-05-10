@@ -8,7 +8,8 @@ Aroon Oscillator
 B Indicator  
 Balance of Power  
 Bollinger Bands  
-Breadth Indicators  
+Breadth Indicators 
+Commodity Channel Index (CCI)  
 Chaikin Oscillator  
 Chandelier Exit  
 Double Exponential Moving Average (DEMA)  
