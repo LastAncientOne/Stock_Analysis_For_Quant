@@ -1,5 +1,8 @@
 <img src="Stock_Market01.png">
 
+# Technical Analysis Indicators
+Description: Technical Analysis (TA) is is a mthod to analyze securities prices and predict or forecast the price based on the TA.
+
 # List of Technial Analysis Indicators
 
 Average Directional Index (ADX)  
