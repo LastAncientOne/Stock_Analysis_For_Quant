@@ -12,6 +12,7 @@ Balance of Power
 Bollinger Bands  
 Breadth Indicators 
 Commodity Channel Index (CCI)  
+Chaikin Money Flow (CMF)  
 Chaikin Oscillator  
 Chandelier Exit  
 Double Exponential Moving Average (DEMA)  
