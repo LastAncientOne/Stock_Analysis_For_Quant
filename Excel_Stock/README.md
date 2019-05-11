@@ -1,4 +1,4 @@
-<img src="Title.PNG">
+<img src="TitleExcel.PNG">
 
 # Excel for Stock Trading and Investment
 
