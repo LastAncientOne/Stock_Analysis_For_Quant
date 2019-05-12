@@ -3,8 +3,9 @@
 # Technical Analysis Indicators
 Description: Technical Analysis (TA) is is a mthod to analyze securities prices and predict or forecast the price based on the TA.
 
-# List of Technial Analysis Indicators
+# List of Technial Analysis Indicators  
 
+Accumulation Distribution Line (ADL)  
 Average Directional Index (ADX)  
 Average True Range (ATR)  
 Alligators Gator Oscillator  
