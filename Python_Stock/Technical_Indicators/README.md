@@ -62,6 +62,7 @@ Triple Exponential Moving Average (TEMA)
 TRIX indicator (TRIX)  
 Tirone Levels 
 True Strength Index  
+Typical Price  
 Ulcer Index  
 Ultimate Oscillator  
 Volume Accumulation Oscillator (VAO)  
