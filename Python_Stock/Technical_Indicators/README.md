@@ -41,6 +41,7 @@ Median Price
 Moving Average Envelopes  
 Moving Average Ribbon  
 Negative Volume Index (NVI)  
+Negative Volume Index (NVI) 2
 New Highs New Lows 
 Decision Point Price Momentum Oscillator (PMO)  
 Price Channels  
