@@ -45,6 +45,7 @@ Negative Volume Index (NVI) 2
 New Highs New Lows 
 Decision Point Price Momentum Oscillator (PMO)  
 Price Channels  
+Positive Volume Index (PVI)  
 Qstick  
 Rate-of-Change (ROC)  
 Relative Strength Index (RSI)  
