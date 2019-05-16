@@ -68,6 +68,7 @@ Typical Price
 Ulcer Index  
 Ultimate Oscillator  
 Volume Accumulation Oscillator (VAO)  
+olume Price Trend (VPT)  
 Volume Weighted Average Price (VWAP)  
 Volume Weighted Moving Average (VWMA)  
 Vortex Indicator  
