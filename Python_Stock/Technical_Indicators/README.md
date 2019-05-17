@@ -55,7 +55,7 @@ Rainbow Charts
 Relative Volatility Index  
 Simple Moving Average (SMA)  
 Smoothed Moving Average (SMMA)  
-Speed Resistance Lines  
+Speed Resistance Lines (SRL)   
 Standard Deviation Volatility  
 Stochastic RSI  
 Super Trend  
@@ -68,7 +68,7 @@ Typical Price
 Ulcer Index  
 Ultimate Oscillator  
 Volume Accumulation Oscillator (VAO)  
-olume Price Trend (VPT)  
+Volume Price Trend (VPT)  
 Volume Weighted Average Price (VWAP)  
 Volume Weighted Moving Average (VWMA)  
 Vortex Indicator  
