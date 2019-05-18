@@ -19,6 +19,7 @@ Commodity Channel Index (CCI)
 Chaikin Money Flow (CMF)  
 Chaikin Oscillator  
 Chandelier Exit  
+Correlation Coefficient  
 Double Exponential Moving Average (DEMA)  
 Detrended Price Oscillator (DPO)  
 Dochain Channel  
