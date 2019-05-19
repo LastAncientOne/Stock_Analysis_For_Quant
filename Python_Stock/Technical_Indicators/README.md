@@ -21,6 +21,7 @@ Chaikin Oscillator
 Chandelier Exit  
 Correlation Coefficient  
 Double Exponential Moving Average (DEMA)  
+Dynamic Momentum Index (DMI)  
 Detrended Price Oscillator (DPO)  
 Dochain Channel  
 Exponential Moving Average (EMA)  
