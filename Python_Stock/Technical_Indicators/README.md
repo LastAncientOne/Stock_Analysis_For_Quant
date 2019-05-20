@@ -92,6 +92,7 @@ https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators
 https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/list-of-technical-indicators/  
 https://www.metatrader4.com/en/trading-platform/help/analytics/tech_indicators  
 https://www.incrediblecharts.com/indicators/momentum_indicators.php  
-
+https://www.fmlabs.com/reference/default.htm  
+https://www.barchart.com/education/technical-indicators/mcginley_dynamic  
 
 
