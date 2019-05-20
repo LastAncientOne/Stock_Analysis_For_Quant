@@ -48,6 +48,7 @@ New Highs New Lows
 Decision Point Price Momentum Oscillator (PMO)  
 Positive Volume Index (PVI)  
 Price Channels  
+Price Relative  
 Qstick  
 Rate-of-Change (ROC)  
 Relative Strength Index (RSI)  
