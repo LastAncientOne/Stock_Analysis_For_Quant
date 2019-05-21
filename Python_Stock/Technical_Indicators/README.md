@@ -41,6 +41,7 @@ Martin Pring Speical K
 Maximum Price  
 McClellan Oscillator  
 Median Price  
+Minimum Price  
 Moving Average Envelopes  
 Moving Average Ribbon  
 Negative Volume Index (NVI)  
