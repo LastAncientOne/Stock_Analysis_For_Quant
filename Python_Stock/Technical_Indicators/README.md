@@ -37,7 +37,8 @@ Keltners Channels
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
 Money Flow Index indicator (MFI)  
-Martin Pring Speical K  
+Martin Pring Speical K 
+Maximum Price  
 McClellan Oscillator  
 Median Price  
 Moving Average Envelopes  
