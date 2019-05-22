@@ -20,6 +20,7 @@ Chaikin Money Flow (CMF)
 Chaikin Oscillator  
 Chandelier Exit  
 Correlation Coefficient  
+Covariance  
 Double Exponential Moving Average (DEMA)  
 Dynamic Momentum Index (DMI)  
 Detrended Price Oscillator (DPO)  
