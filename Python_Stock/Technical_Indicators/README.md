@@ -38,6 +38,7 @@ Keltners Channels
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
 Moving Dispersion  
+Moving Standard Error  
 Moving Summation  
 Money Flow Index indicator (MFI)  
 Martin Pring Speical K 
