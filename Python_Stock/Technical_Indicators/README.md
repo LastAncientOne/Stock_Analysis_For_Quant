@@ -93,6 +93,9 @@ ZigZag
 
 ## I hope you enjoy learning about stock indicators.
 
+## Author:  
+* Tin Hang  
+
 ## References
 https://www.investopedia.com/  
 https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators  
