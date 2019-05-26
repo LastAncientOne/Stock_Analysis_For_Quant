@@ -37,6 +37,8 @@ Know Sure Thing (KST)
 Keltners Channels  
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
+Moving Correlation Coefficient  
+Moving Covariance  
 Moving Dispersion  
 Moving Standard Error  
 Moving Summation  
