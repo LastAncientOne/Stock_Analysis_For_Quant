@@ -37,19 +37,20 @@ Know Sure Thing (KST)
 Keltners Channels  
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
-Moving Correlation Coefficient  
-Moving Covariance  
-Moving Dispersion  
-Moving Standard Error  
-Moving Summation  
 Money Flow Index indicator (MFI)  
 Martin Pring Speical K 
 Maximum Price  
 McClellan Oscillator  
 Median Price  
 Minimum Price  
-Moving Average Envelopes  
+Moving Average Envelopes
+Moving Average High Low  
 Moving Average Ribbon  
+Moving Correlation Coefficient  
+Moving Covariance  
+Moving Dispersion  
+Moving Standard Error    
+Moving Summation  
 Negative Volume Index (NVI)  
 Negative Volume Index (NVI) 2
 New Highs New Lows 
