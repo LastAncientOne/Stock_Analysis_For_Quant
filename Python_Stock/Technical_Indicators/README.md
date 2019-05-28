@@ -11,6 +11,7 @@ Average True Range (ATR)
 Alligators Gator Oscillator  
 Aroon  
 Aroon Oscillator  
+Bollinger BandWidth
 B Indicator  
 Balance of Power  
 Bollinger Bands  
