@@ -28,7 +28,8 @@ Detrended Price Oscillator (DPO)
 Dochain Channel  
 Exponential Moving Average (EMA)  
 Exponential Moving Averag Volume (EMAV)  
-Ease of Movement    
+Ease of Movement  
+Force Index  
 GANN Lines Angles  
 Guppy Multiple Moving Average (GMMA)  
 Heiken Ashi  
