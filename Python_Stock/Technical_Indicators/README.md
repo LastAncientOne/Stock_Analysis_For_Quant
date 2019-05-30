@@ -33,6 +33,7 @@ Force Index
 GANN Lines Angles  
 Guppy Multiple Moving Average (GMMA)  
 Heiken Ashi  
+High Minus Low  
 Ichimoku  
 Kaufman's Adaptive Moving Average (KAMA)  
 Know Sure Thing (KST)  
