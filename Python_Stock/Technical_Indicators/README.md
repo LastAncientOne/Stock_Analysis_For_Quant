@@ -52,6 +52,7 @@ Moving Average Ribbon
 Moving Correlation Coefficient  
 Moving Covariance  
 Moving Dispersion  
+Moving Linear Regression  
 Moving Standard Error    
 Moving Summation  
 Negative Volume Index (NVI)  
