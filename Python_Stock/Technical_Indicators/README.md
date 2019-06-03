@@ -29,6 +29,7 @@ Dochain Channel
 Exponential Moving Average (EMA)  
 Exponential Moving Averag Volume (EMAV)  
 Ease of Movement  
+Elder Force Index  
 Force Index  
 GANN Lines Angles  
 Guppy Multiple Moving Average (GMMA)  
