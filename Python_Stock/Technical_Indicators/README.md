@@ -92,8 +92,9 @@ Vortex Indicator
 Weighted Moving Average (WMA)  
 Wilder's Smoothing Moving Average (WSMA)  
 Welles Wilder’s Smoothing Average (WWS)  
-William %R
-ZigZag
+William %R  
+Zero Lag Exponential Moving Average (ZLEMA)  
+ZigZag  
 
 <img src="StockIndicators.png">
 
