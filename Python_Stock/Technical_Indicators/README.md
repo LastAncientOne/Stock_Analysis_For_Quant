@@ -40,6 +40,7 @@ Ichimoku
 Kaufman's Adaptive Moving Average (KAMA)  
 Know Sure Thing (KST)  
 Keltners Channels  
+Linear Regression  
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
 Money Flow Index indicator (MFI)  
