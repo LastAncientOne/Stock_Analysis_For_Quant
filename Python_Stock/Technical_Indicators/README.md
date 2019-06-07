@@ -7,6 +7,7 @@ Description: Technical Analysis (TA) is is a mthod to analyze securities prices 
 
 Accumulation Distribution Line (ADL)  
 Average Directional Index (ADX)  
+Absolute Price Oscillator (APO)  
 Average True Range (ATR)  
 Alligators Gator Oscillator  
 Aroon  
