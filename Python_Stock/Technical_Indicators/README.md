@@ -79,6 +79,7 @@ Smoothed Moving Average (SMMA)
 Speed Resistance Lines (SRL)   
 Standard Deviation Volatility  
 Stochastic RSI  
+Stochastic Slow  
 Super Trend  
 T3 Moving AVerage  
 Triple Exponential Moving Average (TEMA)
