@@ -81,6 +81,7 @@ Standard Deviation Volatility
 Stochastic RSI  
 Stochastic Slow  
 Stochastic Fast  
+Stochastic Full  
 Super Trend  
 T3 Moving AVerage  
 Triple Exponential Moving Average (TEMA)
