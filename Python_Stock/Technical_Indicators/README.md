@@ -65,6 +65,7 @@ New Highs New Lows
 Pretty Good Oscillator (PGO)  
 Decision Point Price Momentum Oscillator (PMO)  
 Positive Volume Index (PVI)  
+Pivot Points  
 Price Channels  
 Price Relative  
 Qstick  
