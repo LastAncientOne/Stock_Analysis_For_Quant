@@ -50,6 +50,7 @@ Maximum Price
 McClellan Oscillator  
 Median Price  
 Minimum Price  
+Momentum  
 Moving Average Envelopes
 Moving Average High Low  
 Moving Average Ribbon  
