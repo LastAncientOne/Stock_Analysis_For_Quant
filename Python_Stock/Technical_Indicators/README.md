@@ -21,6 +21,7 @@ Commodity Channel Index (CCI)
 Chaikin Money Flow (CMF)  
 Chaikin Oscillator  
 Chandelier Exit  
+Coppock Curve    
 Correlation Coefficient  
 Covariance  
 Double Exponential Moving Average (DEMA)  
