@@ -62,7 +62,7 @@ Moving Linear Regression
 Moving Standard Error    
 Moving Summation  
 Negative Volume Index (NVI)  
-Negative Volume Index (NVI) 2
+Negative Volume Index (NVI) 2  
 New Highs New Lows 
 Pretty Good Oscillator (PGO)  
 Decision Point Price Momentum Oscillator (PMO)  
