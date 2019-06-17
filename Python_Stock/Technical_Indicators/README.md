@@ -67,6 +67,7 @@ New Highs New Lows
 Pretty Good Oscillator (PGO)  
 Decision Point Price Momentum Oscillator (PMO)  
 Positive Volume Index (PVI)  
+Price Volume Trend (PVT)  
 Pivot Points  
 Price Channels  
 Price Relative  
