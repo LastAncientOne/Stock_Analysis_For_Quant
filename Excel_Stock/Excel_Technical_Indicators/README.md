@@ -1,7 +1,7 @@
 <img src="Title.PNG">
 
 # Technical Analysis Indicators
-Description: Technical Analysis (TA) is is a mthod to analyze securities prices and predict or forecast the price based on the TA.  
+Description: Technical Analysis (TA) is a method to analyze securities prices (or stock's price) and predict or forecast the price based on the TA.  
 
 ## References:
 https://www.investopedia.com/terms/t/technicalindicator.asp  
