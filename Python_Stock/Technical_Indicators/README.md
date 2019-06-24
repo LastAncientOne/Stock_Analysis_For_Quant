@@ -63,6 +63,7 @@ Moving Linear Regression
 Moving Maximum
 Moving Median  
 Moving Minimum  
+Moving Standard Deviation  
 Moving Standard Error    
 Moving Summation  
 Negative Volume Index (NVI)  
