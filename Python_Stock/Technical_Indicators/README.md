@@ -95,6 +95,7 @@ Super Trend
 T3 Moving AVerage  
 Triple Exponential Moving Average (TEMA)
 TRIX indicator (TRIX)  
+Tenkan-Sen      
 Tirone Levels 
 True Strength Index  
 Typical Price  
