@@ -43,6 +43,7 @@ Ichimoku
 Kaufman's Adaptive Moving Average (KAMA)  
 Know Sure Thing (KST)  
 Keltners Channels  
+Kijun-Sen    
 Linear Regression  
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
