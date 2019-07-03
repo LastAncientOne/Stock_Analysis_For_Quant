@@ -16,6 +16,6 @@ Excel 2016
 * Tin Hang
 
 ## Disclaimer
-&#x1F53A; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read books that relate to stock market, investment, or finance. ON the other hand, if you into quant or machine learning, read machine trading, algorithmic trading, and quantitative trading. 
+&#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read &#x1F4D7; books that relate to stock market, investment, or finance. ON the other hand, if you into quant or machine learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. 
 
 ## This is not get rich quick and is for researching and educational purposes.
