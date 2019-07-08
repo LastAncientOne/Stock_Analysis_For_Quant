@@ -45,6 +45,7 @@ Know Sure Thing (KST)
 Keltners Channels  
 Kijun-Sen    
 Linear Regression  
+Linear Regression Slope  
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
 Money Flow Index indicator (MFI)  
