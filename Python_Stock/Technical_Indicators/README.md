@@ -16,6 +16,7 @@ Aroon Oscillator
 Bollinger BandWidth
 B Indicator  
 Balance of Power  
+Beta Indicator  
 Bollinger Bands  
 Breadth Indicators 
 Commodity Channel Index (CCI)  
