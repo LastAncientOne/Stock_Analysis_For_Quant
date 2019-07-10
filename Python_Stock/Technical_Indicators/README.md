@@ -33,6 +33,7 @@ Dochain Channel
 Exponential Moving Average (EMA)  
 Exponential Moving Averag Volume (EMAV)  
 Ease of Movement  
+Efficiency Ratio  
 Elder Force Index  
 Elder Ray Index  
 Force Index  
