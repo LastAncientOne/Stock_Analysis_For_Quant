@@ -57,6 +57,7 @@ McClellan Oscillator
 Median Price  
 Minimum Price  
 Momentum  
+Momentum 2  
 Moving Average Envelopes
 Moving Average High Low  
 Moving Average Ribbon  
