@@ -12,6 +12,14 @@ Matlab R2016a
 
 Excel 2016   
 
+# List of Trading Strategies  
+Trend-following Strategies  
+Algorithmic Trading Strategies  
+Statistical Arbitrage  
+Arbitrage Opportunities  
+Mathematical Model-based Strategies  
+Trading Range (Mean Reversion)  
+
 ## Authors
 * Tin Hang
 
