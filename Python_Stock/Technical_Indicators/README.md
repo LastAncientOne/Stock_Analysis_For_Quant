@@ -82,6 +82,7 @@ Price Channels
 Price Relative  
 Qstick  
 Rate-of-Change (ROC)  
+Return on Investment (ROI)  
 Relative Strength Index (RSI)  
 Relative Strength Index 2 (RSI2)  
 Relative Strength Index & Bollinger Bands  
