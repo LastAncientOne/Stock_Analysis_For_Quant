@@ -42,6 +42,7 @@ Guppy Multiple Moving Average (GMMA)
 Heiken Ashi  
 High Minus Low  
 Ichimoku  
+Inverse Fisher Transform  
 Kaufman's Adaptive Moving Average (KAMA)  
 Know Sure Thing (KST)  
 Keltners Channels  
