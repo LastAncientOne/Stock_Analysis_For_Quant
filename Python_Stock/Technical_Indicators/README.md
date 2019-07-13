@@ -49,6 +49,7 @@ Keltners Channels
 Kijun-Sen    
 Linear Regression  
 Linear Regression Slope  
+Linear Weighted Moving Average  
 Moving Average Convergence Divergence (MACD)  
 Moving Average High Low  
 Money Flow Index indicator (MFI)  
