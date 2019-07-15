@@ -40,7 +40,8 @@ Force Index
 GANN Lines Angles  
 Guppy Multiple Moving Average (GMMA)  
 Heiken Ashi  
-High Minus Low  
+High Minus Low 
+Hull Moving Average  
 Ichimoku  
 Inverse Fisher Transform  
 Kaufman's Adaptive Moving Average (KAMA)  
