@@ -68,7 +68,7 @@ Moving Correlation Coefficient
 Moving Covariance  
 Moving Dispersion  
 Moving Linear Regression  
-Moving Maximum
+Moving Maximum  
 Moving Median  
 Moving Minimum  
 Moving Standard Deviation  
