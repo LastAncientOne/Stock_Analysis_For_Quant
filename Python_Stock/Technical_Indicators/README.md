@@ -94,6 +94,7 @@ Rainbow Charts
 Relative Volatility Index  
 Simple Moving Average (SMA)  
 Smoothed Moving Average (SMMA)  
+Smoothed Moving Average
 Speed Resistance Lines (SRL)   
 Standard Deviation Volatility  
 Stochastic Fast  
