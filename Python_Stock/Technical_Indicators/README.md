@@ -32,6 +32,7 @@ Detrended Price Oscillator (DPO)
 Dochain Channel  
 Exponential Moving Average (EMA)  
 Exponential Moving Averag Volume (EMAV)  
+Exponential Weighted Moving Average (EWMA)  
 Ease of Movement  
 Efficiency Ratio  
 Elder Force Index  
