@@ -34,6 +34,7 @@ Exponential Moving Average (EMA)
 Exponential Moving Averag Volume (EMAV)  
 Exponential Weighted Moving Average (EWMA)  
 Exponential Weighted Moving Average - Double 
+Exponential Weighted Moving Average - Triple  
 Ease of Movement  
 Efficiency Ratio  
 Elder Force Index  
