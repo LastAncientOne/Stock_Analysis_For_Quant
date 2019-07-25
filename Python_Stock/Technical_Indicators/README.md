@@ -105,9 +105,9 @@ Stochastic Full
 Stochastic RSI  
 Stochastic Slow  
 Super Trend  
-T3 Moving AVerage  
-Triple Exponential Moving Average (TEMA)
-TRIX indicator (TRIX) 
+T3 Moving Average  
+Triple Exponential Moving Average (TEMA)  
+TRIX indicator (TRIX)  
 Time Weighted Average Price (TWAP)  
 Tenkan-Sen      
 Tirone Levels 
