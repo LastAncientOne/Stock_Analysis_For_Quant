@@ -107,6 +107,7 @@ Stochastic Slow
 Super Trend  
 T3 Moving Average  
 Triple Exponential Moving Average (TEMA)  
+Triangular Moving Average (TRIMA)  
 TRIX indicator (TRIX)  
 Time Weighted Average Price (TWAP)  
 Tenkan-Sen      
