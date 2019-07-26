@@ -118,6 +118,7 @@ Ulcer Index
 Ultimate Oscillator  
 Volume Accumulation Oscillator (VAO)  
 Volume Price Trend (VPT)  
+Volume Price Confirmation Indicator (VPCI)  
 Volume Weighted Average Price (VWAP)  
 Volume Weighted Moving Average (VWMA)  
 Vortex Indicator  
