@@ -10,6 +10,7 @@ Average Directional Index (ADX)
 Average Directional Movement Rating (ADXR)  
 Absolute Price Oscillator (APO)  
 Average True Range (ATR)  
+Absolute Return Indicator
 Alligators Gator Oscillator  
 Aroon  
 Aroon Oscillator  
