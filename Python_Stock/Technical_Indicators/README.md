@@ -43,6 +43,7 @@ Elder Ray Index
 Force Index  
 GANN Lines Angles  
 Guppy Multiple Moving Average (GMMA)  
+Geometric Return Indicator  
 Heiken Ashi  
 High Minus Low 
 Hull Moving Average  
