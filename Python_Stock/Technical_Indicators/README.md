@@ -58,6 +58,7 @@ Linear Regression Slope
 Linear Weighted Moving Average  
 Logarithmic Return Indicator  
 Moving Average Convergence Divergence (MACD)  
+Mean Absolute Deviation (MAD) Indicator  
 Moving Average High Low  
 Money Flow Index indicator (MFI)  
 Martin Pring Speical K 
