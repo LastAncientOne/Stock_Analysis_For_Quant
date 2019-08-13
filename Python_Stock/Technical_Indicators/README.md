@@ -153,5 +153,5 @@ https://www.incrediblecharts.com/indicators/momentum_indicators.php
 https://www.fmlabs.com/reference/default.htm  
 https://www.barchart.com/education/technical-indicators/mcginley_dynamic  
 https://www.danielstrading.com/education/technical-analysis-learning-center  
-
+https://www.marketvolume.com/technicalanalysis/  
 
