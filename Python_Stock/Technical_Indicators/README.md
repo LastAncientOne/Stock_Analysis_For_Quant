@@ -20,7 +20,8 @@ Balance of Power
 Beta Indicator  
 Bollinger Bands  
 Breadth Indicators 
-Commodity Channel Index (CCI)  
+Commodity Channel Index (CCI)    
+Close Location Value (CLV)  
 Chaikin Money Flow (CMF)  
 Chaikin Oscillator  
 Chandelier Exit  
