@@ -12,6 +12,8 @@ Matlab R2016a
 
 Excel 2016   
 
+Power BI  
+
 # List of Trading Strategies  
 Trend-following Strategies  
 Algorithmic Trading Strategies  
