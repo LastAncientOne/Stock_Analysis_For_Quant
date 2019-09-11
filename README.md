@@ -21,6 +21,8 @@ Statistical Arbitrage
 Arbitrage Opportunities  
 Mathematical Model-based Strategies  
 Trading Range (Mean Reversion)  
+Fundamental Analysis  
+Technical Analysis  
 
 ## Authors
 * Tin Hang
