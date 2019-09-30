@@ -11,10 +11,11 @@ This Excel project has technical analysis, fundamental analysis, quantitative an
 ### List of Stock Strategies and Investment  
 List of Technical Analysis  
 Fundamental Analysis (Statements)  
-List of different types of strategies  
+Budgeting Money for Investing  
 Project of Portfolio Stocks Investment  
 Project of Values in the Company (Cashflows)  
 Stock Data Analysis  
+Statistics  
 Time Series  
 Forecasting  
 
