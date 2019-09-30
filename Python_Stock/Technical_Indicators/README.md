@@ -82,6 +82,7 @@ Moving Minimum
 Moving Standard Deviation  
 Moving Standard Error    
 Moving Summation  
+Normalized Average True Range (NATR)  
 Negative Volume Index (NVI)  
 Negative Volume Index (NVI) 2  
 New Highs New Lows 
