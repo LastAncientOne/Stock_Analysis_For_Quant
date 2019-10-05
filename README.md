@@ -25,10 +25,10 @@ Fundamental Analysis
 Technical Analysis  
 Swing Trading Strategy
 Scalping (Trading)  
-Day Trading  
-Trading the News
-Trading the Signals
-Social Trading  
+Day Trading    
+Trading the News  
+Trading the Signals  
+Social Trading   
 
 # List of Portfolio Strategies
 Long-term Investment  
