@@ -36,11 +36,11 @@ The Dave Ramsey Portfolio
 Modern Portfolio Theory (MPT)  
 Post-Modern Portfolio Theory (PMPT)  
 Tactical Asset Allocation  
-Constant-Weighting Asset Allocation 
-Strategic Asset Allocation 
-Dynamic Asset Allocation  
-Insured Asset Allocation  
-Integrated Asset Allocation  
+Constant-Weighting Asset Allocation   
+Strategic Asset Allocation   
+Dynamic Asset Allocation    
+Insured Asset Allocation    
+Integrated Asset Allocation    
 
 ## Authors
 * Tin Hang
