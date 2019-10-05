@@ -26,9 +26,9 @@ Technical Analysis
 
 # List of Portfolio Strategies
 Long-term Investment  
-Short-term Investment 
-Buy and Hold  
-Rebalance Portfolio    
+Short-term Investment   
+Buy and Hold    
+Rebalance Portfolio      
 Value Investment  
 Momentum Investment  
 Core and Satellite  
