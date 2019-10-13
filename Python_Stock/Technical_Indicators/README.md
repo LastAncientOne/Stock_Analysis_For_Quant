@@ -125,6 +125,7 @@ Ultimate Oscillator
 Volume Accumulation Oscillator (VAO)  
 Volume Price Trend (VPT)  
 Volume Weighted Average Price (VWAP)  
+Variance  
 Volume Price Confirmation Indicator (VPCI)  
 Volume Weighted Moving Average (VWMA)  
 Vortex Indicator  
