@@ -18,3 +18,8 @@ Strategic Asset Allocation
 Dynamic Asset Allocation  
 Insured Asset Allocation  
 Integrated Asset Allocation  
+
+# List of Ratios
+Sharpe Ratio - Common Used.  Sharpe ratio measures the performance of an investment compared to a risk-free asset, after adjusting for its risk. It is defined as the difference between the returns of the investment and the risk-free return, divided by the standard deviation of the investment. (Wiki) 
+
+
