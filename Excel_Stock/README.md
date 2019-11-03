@@ -19,4 +19,5 @@ Statistics
 Time Series  
 Forecasting  
 
-### Author: Tin Hang
+## Author
+### * Tin Hang
