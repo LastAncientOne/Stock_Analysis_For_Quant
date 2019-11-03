@@ -48,7 +48,7 @@ Dynamic Asset Allocation
 Insured Asset Allocation    
 Integrated Asset Allocation    
 
-## Authors
+## Author
 ### * Tin Hang
 
 ## Disclaimer
