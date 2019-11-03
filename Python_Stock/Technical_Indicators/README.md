@@ -144,7 +144,7 @@ ZigZag
 ## I hope you enjoy learning about stock indicators.
 
 ## Author:  
-* Tin Hang  
+### * Tin Hang  
 
 ## References
 https://www.investopedia.com/  
