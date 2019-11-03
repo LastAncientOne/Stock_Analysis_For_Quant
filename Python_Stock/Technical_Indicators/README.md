@@ -133,6 +133,7 @@ Weighted Moving Average (WMA)
 Wilder's Smoothing Moving Average (WSMA)  
 Welles Wilder’s Smoothing Average (WWS)  
 William %R  
+Z-Score Indicator  
 Zero Lag Exponential Moving Average (ZLEMA)  
 ZigZag  
 
