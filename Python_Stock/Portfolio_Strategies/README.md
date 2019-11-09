@@ -43,7 +43,7 @@ Sharpe Ratio
 Sortino Ratio  
 Treynor Ratio  
 
-Appraisal Ratio - is a measurement of a fund's return per unit risk. (investopedia)  
+Appraisal Ratio - is a measurement of a fund's return per unit risk. (https://www.investopedia.com/terms/a/appraisalratio.asp)  
 
 Bernardo Ledoit Ratio - is a measurement of the maximum gain-loss ratio. (https://arxiv.org/pdf/1209.6439.pdf)   
 
