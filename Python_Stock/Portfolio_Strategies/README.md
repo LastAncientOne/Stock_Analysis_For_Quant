@@ -1,6 +1,6 @@
 <img src="Portfolio_Strategy.PNG">  
 
-# List of different types of Portfolio Strategies
+:black_circle: # List of different types of Portfolio Strategies
 
 Long-term Investment  
 Short-term Investment  
@@ -27,7 +27,7 @@ Presidental Portfolio
 Obama Stock Portfolio  
 Trump Portfolio  
 
-# List of Ratios  
+:black_circle: # List of Ratios  
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
