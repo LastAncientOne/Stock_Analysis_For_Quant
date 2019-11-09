@@ -53,7 +53,15 @@ Calmar Raio - is a measurment of of drawdown. (https://breakingdownfinance.com/f
 
 Conditional Sharpe Ratio - is a measurement of tatistical ordinates of conditional stochastic dominance (CSD) that measure lower partial risk-adjusted excess returns of an asset with respect to return distribution on the benchmark. (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2489764)  
 
-Information Ratio - is a measurment of an investment compared to a benchmark index. (Wiki)
+Information Ratio - is a measurment of an investment compared to a benchmark index. (Wiki)  
+
+Martin Ratio - is a measurement of safe return and the higher the rato the better better performance. Martin Ratio is the same as Ulcer index. (Wiki)    
+
+Modigliani Ratio - is a measurement of the risk-adjusted returns of investment portfolio. (Wiki)  
+
+Omega Ratio - is a measurement of risk-return performance and it measures the investment asset, portfolio, or strategy. (Wiki)  
+
+Pain Ratio - 
 
 Sharpe Ratio - Common Used.  Sharpe ratio measures the performance of an investment compared to a risk-free asset, after adjusting for its risk. It is defined as the difference between the returns of the investment and the risk-free return, divided by the standard deviation of the investment. (Wiki) 
 
