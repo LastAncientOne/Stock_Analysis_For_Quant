@@ -48,7 +48,7 @@ Dynamic Asset Allocation
 Insured Asset Allocation    
 Integrated Asset Allocation    
 
-# List of Ratios Measurement  
+# List of Ratios Measurement   
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
