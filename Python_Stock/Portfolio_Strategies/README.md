@@ -9,7 +9,7 @@ Rebalance Portfolio
 Value Investment  
 Momentum Investment  
 Core and Satellite  
-The Dave Ramsey Portfolio
+The Dave Ramsey Portfolio  
 Capital Asset Pricing Model (CAPM)  
 Modern Portfolio Theory (MPT)  
 Post-Modern Portfolio Theory (PMPT)  
