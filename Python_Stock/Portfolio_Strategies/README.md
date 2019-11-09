@@ -27,7 +27,7 @@ Presidental Portfolio
 Obama Stock Portfolio  
 Trump Portfolio  
 
-# :black_circle: # List of Ratios  
+# :black_circle: List of Ratios  
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
