@@ -54,9 +54,9 @@ Bernardo Ledoit Ratio
 Burke Ratio  
 Calmar Ratio  
 Conditional Sharpe Ratio  
-Gain Loss Ratio
-Information Ratio
-Kappa Three Ratio
+Gain Loss Ratio  
+Information Ratio  
+Kappa Three Ratio  
 Martin Ratio  
 Modigliani Ratio  
 Omega Ratio  
