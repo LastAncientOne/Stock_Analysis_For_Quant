@@ -78,7 +78,7 @@ Upside Potential Ratio
 
 :small_blue_diamond: Treynor Ratio - is a measurement of reward-t-volatility ratio; as a result, it determines how much excess return was generated for reach unit of risk taken on by a portfolio. (Wiki)
 
-:small_blue_diamond: Upside Potential Ratio -  
+:small_blue_diamond: Upside Potential Ratio - is a measurement of a return of an investment asseet relative to the minimal acceptable return. (Wiki)  
 
 ### Resources
 https://breakingdownfinance.com/finance-topics/performance-measurement/  
