@@ -56,11 +56,11 @@ Upside Potential Ratio
 
 :small_blue_diamond: Conditional Sharpe Ratio - is a measurement of statistical ordinates of conditional stochastic dominance (CSD) that measure lower partial risk-adjusted excess returns of an asset with respect to return distribution on the benchmark. (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2489764)  
 
-:small_blue_diamond: Gain Loss Ratio - 
+:small_blue_diamond: Gain Loss Ratio - is a measurment of how a trading strategy or system is performing. (https://www.investopedia.com/terms/p/profit_loss_ratio.asp)  
 
 :small_blue_diamond: Information Ratio - is a measurement of an investment compared to a benchmark index. (Wiki)  
 
-:small_blue_diamond: Kappa Three Ratio -   
+:small_blue_diamond: Kappa Three Ratio - is a measurement of risk-oadjusted performance that calculates downside risk. (https://breakingdownfinance.com/finance-topics/performance-measurement/kappa-ratio/)    
 
 :small_blue_diamond: Martin Ratio - is a measurement of safe return and the higher the ratio the better performance. Martin Ratio is the same as Ulcer index. (Wiki)    
 
