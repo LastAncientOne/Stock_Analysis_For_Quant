@@ -67,7 +67,7 @@ Sortino Ratio
 Treynor Ratio   
 Upside Potential Ratio  
 
-## Author
+## Author  
 ### * Tin Hang
 
 ## Disclaimer
