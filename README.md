@@ -48,13 +48,15 @@ Dynamic Asset Allocation
 Insured Asset Allocation    
 Integrated Asset Allocation    
 
-# List of Ratios Measurement   
+# List of Risk-Adjusted Returns Ratios Measurement   
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
 Calmar Ratio  
 Conditional Sharpe Ratio  
-Information Ratio  
+Gain Loss Ratio
+Information Ratio
+Kappa Three Ratio
 Martin Ratio  
 Modigliani Ratio  
 Omega Ratio  
@@ -63,6 +65,7 @@ Sterling Ratio
 Sharpe Ratio  
 Sortino Ratio  
 Treynor Ratio   
+Upside Potential Ratio  
 
 ## Author
 ### * Tin Hang
