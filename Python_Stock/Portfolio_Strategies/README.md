@@ -33,7 +33,9 @@ Bernardo Ledoit Ratio
 Burke Ratio  
 Calmar Ratio  
 Conditional Sharpe Ratio  
+Gain Loss Ratio  
 Information Ratio  
+Kappa Three Ratio  
 Martin Ratio  
 Modigliani Ratio  
 Omega Ratio  
@@ -41,7 +43,8 @@ Pain Ratio
 Sterling Ratio  
 Sharpe Ratio  
 Sortino Ratio  
-Treynor Ratio  
+Treynor Ratio   
+Upside Potential Ratio  
 
 :small_blue_diamond: Appraisal Ratio - is a measurement of a fund's return per unit risk. (https://www.investopedia.com/terms/a/appraisalratio.asp)  
 
@@ -53,7 +56,11 @@ Treynor Ratio
 
 :small_blue_diamond: Conditional Sharpe Ratio - is a measurement of statistical ordinates of conditional stochastic dominance (CSD) that measure lower partial risk-adjusted excess returns of an asset with respect to return distribution on the benchmark. (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2489764)  
 
+:small_blue_diamond: Gain Loss Ratio - 
+
 :small_blue_diamond: Information Ratio - is a measurement of an investment compared to a benchmark index. (Wiki)  
+
+:small_blue_diamond: Kappa Three Ratio -   
 
 :small_blue_diamond: Martin Ratio - is a measurement of safe return and the higher the ratio the better performance. Martin Ratio is the same as Ulcer index. (Wiki)    
 
@@ -70,6 +77,8 @@ Treynor Ratio
 :small_blue_diamond: Sortino Ratio - is a measurement similar to Sharpe ratio; on the other hand, is at differentiates harmful volatility from total overall volatility by using the asset's standard deviation of negative portfolio returns. (https://www.investopedia.com/terms/s/sortinoratio.asp)
 
 :small_blue_diamond: Treynor Ratio - is a measurement of reward-t-volatility ratio; as a result, it determines how much excess return was generated for reach unit of risk taken on by a portfolio. (Wiki)
+
+:small_blue_diamond: Upside Potential Ratio -  
 
 ### Resources
 https://breakingdownfinance.com/finance-topics/performance-measurement/  
