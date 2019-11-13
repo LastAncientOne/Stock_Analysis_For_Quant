@@ -51,7 +51,7 @@ Insured Asset Allocation
 Integrated Asset Allocation    
 
 # List Type of Risks  
-Trade Risk  
+Trade Risk or Position Risk  
 Market Risk  
 Margin Risk  
 Liquidity Risk  
