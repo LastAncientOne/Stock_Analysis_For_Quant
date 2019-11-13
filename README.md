@@ -29,6 +29,8 @@ Day Trading
 Trading the News  
 Trading the Signals  
 Social Trading   
+Value Investing  
+Performance Analysis  
 
 # List of Portfolio Strategies
 Long-term Investment  
@@ -47,6 +49,14 @@ Strategic Asset Allocation
 Dynamic Asset Allocation    
 Insured Asset Allocation    
 Integrated Asset Allocation    
+
+# List Type of Risks  
+Trade Risk  
+Market Risk  
+Margin Risk  
+Liquidity Risk  
+Overnight Risk  
+Volatility Risk  
 
 # List of Risk-Adjusted Returns Ratios Measurement   
 Appraisal Ratio  
