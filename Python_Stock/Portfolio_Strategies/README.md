@@ -13,6 +13,9 @@ The Dave Ramsey Portfolio
 Capital Asset Pricing Model (CAPM)  
 Modern Portfolio Theory (MPT)  
 Post-Modern Portfolio Theory (PMPT)  
+Portfolio Allocation    
+Portfolio Optimization    
+Markowitz Portfolio Optimization Theory  
 Tactical Asset Allocation  
 Constant-Weighting Asset Allocation  
 Strategic Asset Allocation  
