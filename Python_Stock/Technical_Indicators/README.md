@@ -47,7 +47,6 @@ Guppy Multiple Moving Average (GMMA)
 Geometric Return Indicator  
 Heiken Ashi  
 High Minus Low 
-Historical Volatility  
 Hull Moving Average  
 Ichimoku  
 Inverse Fisher Transform  
