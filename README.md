@@ -59,8 +59,10 @@ ETFs Asset Allocation
 Bonds Asset Allocation  
 Mutual Funds Asset Allocation  
 Commodities Asset Allocation   
+Portfolio Insurance  
 Presidental Portfolio  
 Obama Stock Portfolio  
+Trump Stock Portfolio  
 
 # List Type of Risks  
 Trade Risk or Position Size Risk  
