@@ -30,7 +30,7 @@ Mutual Funds Asset Allocation
 Commodities Asset Allocation   
 Presidental Portfolio  
 Obama Stock Portfolio  
-Trump Portfolio  
+Trump Stock Portfolio  
 
 # :black_circle: List of Ratios  
 Appraisal Ratio  
