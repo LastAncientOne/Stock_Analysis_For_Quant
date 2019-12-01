@@ -60,6 +60,7 @@ Bonds Asset Allocation
 Mutual Funds Asset Allocation  
 Commodities Asset Allocation   
 Portfolio Insurance  
+Constant Proportion Portfolio Insurance (CPPI)   
 Presidental Portfolio  
 Obama Stock Portfolio  
 Trump Stock Portfolio  
