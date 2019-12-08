@@ -30,7 +30,7 @@ Mutual Funds Asset Allocation
 Commodities Asset Allocation   
 Portfolio Insurance  
 Constant Proportion Portfolio Insurance (CPPI)   
-Presidental Portfolio  
+Presidental Stock Portfolio  
 Obama Stock Portfolio  
 Trump Stock Portfolio  
 
