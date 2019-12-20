@@ -19,6 +19,7 @@ Trend-following Strategies
 Algorithmic Trading Strategies  
 Statistical Arbitrage  
 Arbitrage Opportunities  
+Index Fund Rebalancing  
 Mathematical Model-based Strategies  
 Trading Range (Mean Reversion)  
 Fundamental Analysis  
@@ -27,7 +28,7 @@ Swing Trading Strategy
 Scalping (Trading)  
 Day Trading    
 Trading the News  
-Trading the Signals  
+Trading the Signals 
 Social Trading   
 Value Investing  
 Performance Analysis  
