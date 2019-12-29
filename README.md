@@ -67,7 +67,8 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 
 # List Type of Risks  
-Trade Risk or Position Size Risk  
+Trade Risk  
+Position Size Risk    
 Market Risk  
 Margin Risk  
 Liquidity Risk  
