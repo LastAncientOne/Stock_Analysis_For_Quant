@@ -32,6 +32,7 @@ Trading the Signals
 Social Trading   
 Value Investing  
 Performance Analysis  
+Quantitative Analysis  
 
 # List of Portfolio Strategies
 Long-term Investment  
