@@ -101,4 +101,5 @@ Upside Potential Ratio
 ## Disclaimer
 &#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read :books: books, research paper, and :computer: blog that relate to stock market, investment, or finance. On the other hand, if you into quant, machine learning or deep learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. Learn from it and take notes :notebook:.
 
-## This is not get rich quick and is for researching and educational purposes.
+## This is not get rich quick or financial advisor. 
+## This is for researching and educational purposes.
