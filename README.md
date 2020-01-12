@@ -104,3 +104,10 @@ Upside Potential Ratio
 ## ```diff - This is not get rich quick. ```
 ## This is not financial advisor. 
 ## This is for researching and educational purposes.
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
