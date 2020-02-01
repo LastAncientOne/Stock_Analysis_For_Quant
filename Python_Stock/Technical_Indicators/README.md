@@ -95,6 +95,7 @@ Price Channels
 Price Relative  
 Qstick  
 Rate-of-Change (ROC)  
+Rate of Change (ROC100)  
 Return on Investment (ROI)  
 Relative Strength Index (RSI)  
 Relative Strength Index 2 (RSI2)  
