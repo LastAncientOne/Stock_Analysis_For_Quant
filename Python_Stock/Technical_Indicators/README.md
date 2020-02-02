@@ -96,7 +96,8 @@ Price Relative
 Qstick  
 Rate-of-Change (ROC)  
 Rate of Change (ROC100)  
-Rate of Change Percentage (ROCP)    
+Rate of Change Percentage (ROCP)  
+Rate of Change Rate (ROCR)  
 Return on Investment (ROI)  
 Relative Strength Index (RSI)  
 Relative Strength Index 2 (RSI2)  
