@@ -95,6 +95,7 @@ Price Channels
 Price Relative  
 Qstick  
 Rate-of-Change (ROC)  
+Rate-of-Change (ROC) 2  
 Rate of Change (ROC100)  
 Rate of Change Percentage (ROCP)  
 Rate of Change Rate (ROCR)  
