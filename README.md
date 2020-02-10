@@ -34,7 +34,7 @@ Value Investing
 Performance Analysis  
 Quantitative Analysis  
 
-# List of Portfolio Strategies
+# List of Portfolio Strategies  
 Long-term Investment  
 Short-term Investment  
 Buy and Hold  
@@ -68,6 +68,7 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 
 # List Type of Risks  
+Description: Risk measures are statistical method to defined the individual stock or toegether to perform a resk assessment.
 Trade Risk  
 Position Size Risk    
 Market Risk  
