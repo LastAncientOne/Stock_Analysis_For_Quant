@@ -15,6 +15,7 @@ Excel 2016
 Power BI  
 
 # List of Trading Strategies  
+Description: There  are many various methods used to accomplish different strategy;therefore, each with appropriate market environments and risks inherent in the strategy.  
 Trend-following Strategies  
 Algorithmic Trading Strategies  
 Statistical Arbitrage  
