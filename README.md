@@ -15,7 +15,7 @@ Excel 2016
 Power BI  
 
 # List of Trading Strategies  
-## Description: There  are many various methods used to accomplish different strategy;therefore, each with appropriate market environments and risks inherent in the strategy. Trading strategy is a technique of buying and selling in the markets that is based on predefined rules used to make trading decisions.  
+### Description: There  are many various methods used to accomplish different strategy;therefore, each with appropriate market environments and risks inherent in the strategy. Trading strategy is a technique of buying and selling in the markets that is based on predefined rules used to make trading decisions.  
 Trend-following Strategies  
 Algorithmic Trading Strategies  
 Statistical Arbitrage  
@@ -35,7 +35,8 @@ Value Investing
 Performance Analysis  
 Quantitative Analysis  
 
-# List of Portfolio Strategies  
+# List of Portfolio Strategies 
+### Description: Portfolio strategies is an investment method for investors to use their assets to achieve their financial goals.   
 Long-term Investment  
 Short-term Investment  
 Buy and Hold  
@@ -69,7 +70,7 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 
 # List Type of Risks  
-## Description: Risk measures are statistical method to defined the individual stock or toegether to perform a resk assessment.  
+### Description: Risk measures are statistical method to defined the individual stock or together to perform a risk assessment.  
 Trade Risk  
 Position Size Risk    
 Market Risk  
