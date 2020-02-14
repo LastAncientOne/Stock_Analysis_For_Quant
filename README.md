@@ -70,7 +70,7 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 
 # List Type of Risks  
-### Description: Risk measures are statistical method to defined the individual stock or together to perform a risk assessment.  
+#### Description: Risk measures are statistical method to defined the individual stock or together to perform a risk assessment.  
 Trade Risk  
 Position Size Risk    
 Market Risk  
@@ -80,6 +80,7 @@ Overnight Risk
 Volatility Risk  
 
 # List of Risk-Adjusted Returns Ratios Measurement   
+#### Description: Risk-Adjusted Returns Ratios is an investment's return by measuring how much risk is involved in producing that return.  
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
