@@ -15,6 +15,7 @@ Budgeting Money for Investing
 Project of Portfolio Stocks Investment  
 Project of Values in the Company (Cashflows)  
 Stock Data Analysis  
+Stock Measurement Ratios  
 Long-Term Investment  
 Statistics  
 Time Series  
