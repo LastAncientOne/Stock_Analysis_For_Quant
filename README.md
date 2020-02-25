@@ -93,6 +93,7 @@ Martin Ratio
 Modigliani Ratio  
 Omega Ratio  
 Pain Ratio  
+Risk-adjusted return on capital (RAROC)  
 Sterling Ratio  
 Sharpe Ratio  
 Sortino Ratio  
