@@ -45,7 +45,7 @@ Information Ratio
 Jensen's Alpha  
 Kappa Three Ratio  
 Martin Ratio  
-Modigliani Ratio 
+Modigliani Ratio  
 Modified Sharpe Ratio  
 Omega Ratio  
 Pain Ratio  
