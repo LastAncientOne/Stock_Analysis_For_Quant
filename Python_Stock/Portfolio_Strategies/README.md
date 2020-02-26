@@ -42,11 +42,15 @@ Calmar Ratio
 Conditional Sharpe Ratio  
 Gain Loss Ratio  
 Information Ratio  
+Jensen's Alpha  
 Kappa Three Ratio  
 Martin Ratio  
-Modigliani Ratio  
+Modigliani Ratio 
+Modified Sharpe Ratio  
 Omega Ratio  
 Pain Ratio  
+Risk-adjusted return on capital (RAROC)  
+Risk return Ratio  
 Sterling Ratio  
 Sharpe Ratio  
 Sortino Ratio  
