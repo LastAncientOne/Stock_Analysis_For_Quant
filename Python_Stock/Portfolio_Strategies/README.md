@@ -81,6 +81,8 @@ Upside Potential Ratio
 
 :small_blue_diamond: Pain Ratio - is a measurement of return vs risk trade off metric. The ratio compares the add value over the risk-free rate against depth, duration, and frequency of losses. (https://www.styleadvisor.com/resources/statfacts/pain-ratio)
 
+:small_blue_diamond: Risk-adjusted return on capital (RAROC) is a risk-basesd probability measurement for analyzing risking-adjusted financial performance. (Wiki)  
+
 :small_blue_diamond: Sterling Ratio (SR) - is a measurement of the risk-adjusted return of an investment portfolio. However, it measures the return over average drawdown. (Wiki)  
 
 :small_blue_diamond: Sharpe Ratio - Commonly Used.  Sharpe ratio measures the performance of an investment compared to a risk-free asset, after adjusting for its risk. It is defined as the difference between the returns of the investment and the risk-free return, divided by the standard deviation of the investment. (Wiki) 
