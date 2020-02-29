@@ -38,6 +38,7 @@ Trump Stock Portfolio
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
+Modified Burket Ratio  
 Calmar Ratio  
 Conditional Sharpe Ratio  
 Gain Loss Ratio  
