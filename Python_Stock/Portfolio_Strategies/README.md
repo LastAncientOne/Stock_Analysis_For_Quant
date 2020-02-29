@@ -45,8 +45,8 @@ Gain Loss Ratio
 Information Ratio  
 Jensen's Alpha  
 Kappa Three Ratio  
-Martin Ratio  
-Modigliani Ratio  
+Ulcer Index (%) or Martin Ratio    
+Modigliani Ratio  or M Squared
 Modified Sharpe Ratio  
 Omega Ratio  
 Pain Ratio  
@@ -55,6 +55,7 @@ Risk return Ratio
 Sterling Ratio  
 Sharpe Ratio  
 Sortino Ratio  
+Stutzer Ratio  
 Treynor Ratio   
 Upside Potential Ratio  
 
