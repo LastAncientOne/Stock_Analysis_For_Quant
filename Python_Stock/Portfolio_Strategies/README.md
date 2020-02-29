@@ -46,7 +46,7 @@ Information Ratio
 Jensen's Alpha  
 Kappa Three Ratio  
 Ulcer Index (%) or Martin Ratio    
-Modigliani Ratio  or M Squared
+Modigliani Ratio  or M Squared  
 Modified Sharpe Ratio  
 Omega Ratio  
 Pain Ratio  
