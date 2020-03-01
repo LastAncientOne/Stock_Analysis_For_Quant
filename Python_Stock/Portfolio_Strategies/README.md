@@ -91,7 +91,10 @@ Upside Potential Ratio
 
 :small_blue_diamond: Sharpe Ratio - Commonly Used.  Sharpe ratio measures the performance of an investment compared to a risk-free asset, after adjusting for its risk. It is defined as the difference between the returns of the investment and the risk-free return, divided by the standard deviation of the investment. (Wiki) 
 
-:small_blue_diamond: Sortino Ratio - is a measurement similar to Sharpe ratio; on the other hand, is at differentiates harmful volatility from total overall volatility by using the asset's standard deviation of negative portfolio returns. (https://www.investopedia.com/terms/s/sortinoratio.asp)
+:small_blue_diamond: Sortino Ratio - is a measurement similar to Sharpe ratio; on the other hand, is at differentiates harmful volatility from total overall volatility by using the asset's standard deviation of negative portfolio returns. (https://www.investopedia.com/terms/s/sortinoratio.asp)  
+
+
+:small_blue_diamond: Stutzer Index Ratio - is a measurement of investment performance benchmark that penalizes underperformance against a benchmark. (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=239540)  
 
 :small_blue_diamond: Treynor Ratio - is a measurement of reward-t-volatility ratio; as a result, it determines how much excess return was generated for reach unit of risk taken on by a portfolio. (Wiki)
 
