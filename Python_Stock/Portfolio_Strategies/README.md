@@ -45,7 +45,8 @@ Trump Stock Portfolio
 5.) Reinvestment  
 6.) Inflation risk  
 7.) Horizon risk  
-8.) Foreign investment risk  
+8.) Longevity risk  
+9.) Foreign investment risk  
 
 # :black_circle: List of Ratios  
 Appraisal Ratio  
