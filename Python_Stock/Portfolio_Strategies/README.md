@@ -36,9 +36,9 @@ Trump Stock Portfolio
 
 # :black_circle: List of Risk
 1.) Market risk  
-  - Equity Risk  
-  - Interest rate risk 
-  - Currency risk  
+    * Equity Risk  
+    * Interest rate risk 
+    * Currency risk  
 2.) Liquidity risk  
 3.) Concentration risk
 4.) Credit risk  
