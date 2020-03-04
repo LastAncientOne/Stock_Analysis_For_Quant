@@ -8,7 +8,7 @@ Stock analysis is a method for investors use (short or long term) and traders to
 
 Trading strategies is a method for investors and traders to develop a strategies that works for them to gain profits. On the other hand, traders need to find the right method or strategies that works for them. :bar_chart:  
 
-Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
+:red_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
 
 ## Author  
 ### * Tin Hang  
