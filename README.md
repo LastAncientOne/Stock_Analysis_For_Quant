@@ -103,8 +103,9 @@ Upside Potential Ratio
 ## Author  
 ### * Tin Hang
 
-## Disclaimer
-&#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read :books: books, research paper, and :computer: blog that relate to stock market, investment, or finance. On the other hand, if you into quant, machine learning or deep learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. Learn from it and take notes :notebook:.
+# Disclaimer
+## &#x1F53B; &#x1F53B; &#x1F53B; 
+## Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read :books: books, research paper, and :computer: blog that relate to stock market, investment, or finance. On the other hand, if you into quant, machine learning or deep learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. Learn from it and take notes :notebook:.
 
 ## &#x1F53B; This is not get rich quick.
 ## &#x1F53B; This is not financial advisor. 
