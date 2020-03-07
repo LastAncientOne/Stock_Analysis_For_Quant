@@ -23,7 +23,7 @@ Options analysis is a method for investors use for to buy call and put; therefor
 https://www.investopedia.com/trading/options-strategies/
 
 ## Author  
-### * Tin Hang  
+### Tin Hang  
 
 ## References:
 https://www.investopedia.com/trading/options-strategies/
