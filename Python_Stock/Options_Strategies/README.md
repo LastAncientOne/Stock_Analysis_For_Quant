@@ -3,8 +3,8 @@
 # Python for Options Trading and Investment
 
 ### List of different types of analyzing options and options strategies  
-
 Options analysis is a method for investors use for to buy call and put; therefore, traders make decision in buying and selling. 
+Call option gives the holder the right to buy a stock; on the other hand, put opton gives the holder the right to sell a stock.  
 
 ## Options Strategies  
 1. Covered Call  
