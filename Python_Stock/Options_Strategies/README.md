@@ -9,16 +9,19 @@ Options analysis is a method for investors use for to buy call and put; therefor
 #### Put opton gives the holder the right to sell a stock.   
 
 ## Options Strategies  
-1. Covered Call  
-2. Married Put  
-3. Bull Call Spread  
-4. Bear Put Spread  
-5. Protective Collar  
-6. Long Straddle  
-7. Long Strangle  
-8. Long Call Butterfly Spread  
-9. Iron Condor  
-10. Iron Butterfly  
+1. Long Call
+2. Long Put
+3. Short Put
+4. Covered Call  
+5. Married Put  
+6. Bull Call Spread  
+7. Bear Put Spread  
+8. Protective Collar  
+9. Long Straddle  
+10. Long Strangle  
+11. Long Call Butterfly Spread  
+12. Iron Condor  
+13. Iron Butterfly  
 
 :red_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
 
