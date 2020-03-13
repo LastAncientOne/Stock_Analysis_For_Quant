@@ -8,6 +8,11 @@ Options analysis is a method for investors use for to buy call and put; therefor
 #### Call option gives the holder the right to buy a stock.  
 #### Put opton gives the holder the right to sell a stock.   
 
+"buy to open" - to buy long call or put options  
+"sell to open" - options writing and collect premium because selling the rights of the option to another market participant 
+"sell to close" - to close the position  
+"buy to close" - buy the stock  
+
 ## Options Strategies  
 1. Long Call
 2. Long Put
