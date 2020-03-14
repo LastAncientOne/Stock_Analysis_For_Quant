@@ -8,10 +8,10 @@ Options analysis is a method for investors use for to buy call and put; therefor
 #### Call option gives the holder the right to buy a stock.  
 #### Put opton gives the holder the right to sell a stock.   
 
-"buy to open" - to buy long call or put options  
-"sell to open" - options writing and collect premium because selling the rights of the option to another market participant 
-"sell to close" - to close the position  
-"buy to close" - buy the stock  
+"buy to open" - to buy long call or put options in the underlying security. The option premium is immediately debited from your account.  
+"sell to open" - selling or establishing a short position in an option. Options writing and collect premium because selling the rights of the option to another market participant.  
+"sell to close" - used to exit a trade in which the trader already owns the options contract and must sell the contract to close the position. Traders "sell to close" call options contracts they own when they no longer want to hold a long bullish position on the underlying asset(Investopedia).  
+"buy to close" - a trader is net short an option position and wants to exit that open position. In other words, they already have an open position, by way of writing an option, for which they have received a net credit, and now seek to close that position (Investopedia).  
 
 ## Options Strategies  
 1. Long Call
