@@ -32,6 +32,14 @@ Options analysis is a method for investors use for to buy call and put; therefor
 12. Iron Condor  
 13. Iron Butterfly  
 
+## Options Greeks  
+1. Delta - Measures change in option price when stock price moves  
+2. Gamma - Measures change in delta when stock price moves  
+3. Vega - Measures change in option price when volatility moves  
+5. Theta - Decay in option price every day as the expiration gets nearer  
+6. Rho - Measures change in option price when stock price moves  
+
+
 :red_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
 
 https://www.investopedia.com/trading/options-strategies/
