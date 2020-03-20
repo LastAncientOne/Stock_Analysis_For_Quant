@@ -39,6 +39,8 @@ Options analysis is a method for investors use for to buy call and put; therefor
 5. Theta - Decay in option price every day as the expiration gets nearer  
 6. Rho - Measures change in option price when stock price moves  
 
+## Black Scholes Model  
+Black Scholes model or Black-Scholes-Merton (BSM) model, is a mathematical model for pricing an options contract. Therefore, the equation derives the price of a call option or put option.  
 
 :red_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
 
