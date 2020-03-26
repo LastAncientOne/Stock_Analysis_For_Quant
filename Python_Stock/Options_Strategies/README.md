@@ -8,8 +8,7 @@ Options analysis is a method for investors use for to buy call and put; therefor
 #### Call option gives the holder the right to buy a stock.  
 #### Put opton gives the holder the right to sell a stock.   
 
-
-### Understanding Binary Basics  
+### Brokerages to represent  
 #### "buy to open"
 - to buy long call or put options in the underlying security. The option premium is immediately debited from your account.  
 #### "sell to open" 
@@ -19,6 +18,8 @@ Options analysis is a method for investors use for to buy call and put; therefor
 #### "buy to close" 
 - a trader is net short an option position and wants to exit that open position. In other words, they already have an open position, by way of writing an option, for which they have received a net credit, and now seek to close that position (Investopedia).  
 
+
+### Understanding Binary Basics  
 ####  At the money (ATM) 
 - is an option whose strike price is near where the stock price is currently; therefore, primarily made up of intrinsic value, with very little extrinsic value.  
 #### In the Money (ATM) 
