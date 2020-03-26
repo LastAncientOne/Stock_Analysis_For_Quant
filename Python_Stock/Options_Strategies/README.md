@@ -8,6 +8,8 @@ Options analysis is a method for investors use for to buy call and put; therefor
 #### Call option gives the holder the right to buy a stock.  
 #### Put opton gives the holder the right to sell a stock.   
 
+
+### Understanding Binary Basics  
 #### "buy to open"
 - to buy long call or put options in the underlying security. The option premium is immediately debited from your account.  
 #### "sell to open" 
