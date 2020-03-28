@@ -5,6 +5,10 @@
 ### List of different types of analyzing options and options strategies  
 Options analysis is a method for investors use for to buy call and put; therefore, traders make decision in buying and selling. 
 
+### Two types of options:
+1.) American options can be exercised at any time between the date of purchase and the expiration date.  
+2.) European options are different from American options in that they can only be exercised at the end of their lives on their expiration date.  
+
 #### Call option gives the holder the right to buy a stock.  
 #### Put opton gives the holder the right to sell a stock.   
 
