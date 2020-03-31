@@ -40,7 +40,7 @@ Trump Stock Portfolio
     * Interest rate risk   
     * Currency risk   
 2.) Liquidity risk  
-3.) Concentration risk
+3.) Concentration risk  
 4.) Credit risk  
 5.) Reinvestment  
 6.) Inflation risk  
