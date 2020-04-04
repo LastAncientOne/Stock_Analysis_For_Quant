@@ -47,8 +47,9 @@ Options analysis is a method for investors use for to buy call and put; therefor
 12. Iron Condor  
 13. Iron Butterfly  
 
-<img src="OptionsGreeks.PNG">
-## Options Greeks  
+<img src="OptionsGreeks.PNG">  
+
+## Options Greeks   
 1. Delta - Measures change in option price when stock price moves  
 2. Gamma - Measures change in delta when stock price moves  
 3. Vega - Measures change in option price when volatility moves  
