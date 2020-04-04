@@ -45,10 +45,10 @@ Options analysis is a method for investors use for to buy call and put; therefor
 10. Long Strangle  
 11. Long Call Butterfly Spread  
 12. Iron Condor  
-13. Iron Butterfly  
+13. Iron Butterfly    
 
-<img src="OptionsGreek.PNG">  
-<img src="FiveGreeks.PNG">  
+<img src="FiveGreeks.PNG">    
+<img src="OptionsGreek.PNG">    
 
 ## Options Greeks   
 1. Delta - Measures change in option price when stock price moves  
