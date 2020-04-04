@@ -48,7 +48,7 @@ Options analysis is a method for investors use for to buy call and put; therefor
 13. Iron Butterfly  
 
 <img src="OptionsGreek.PNG">  
-<img src="FivesGreeks.PNG">  
+<img src="FiveGreeks.PNG">  
 
 ## Options Greeks   
 1. Delta - Measures change in option price when stock price moves  
