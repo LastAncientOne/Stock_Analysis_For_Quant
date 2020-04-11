@@ -60,7 +60,7 @@ Options analysis is a method for investors use for to buy call and put; therefor
 ## Black Scholes Model  
 ### Equations:  
 <img src="BlackScholes.PNG">  
-<img src="BlackScholes2.PNG">  
+<img src="BlackScholes1.PNG">  
 Black Scholes model or Black-Scholes-Merton (BSM) model, is a mathematical model for pricing an options contract. Therefore, the equation derives the price of a call option or put option.  
 
 ## Options Pricing
