@@ -33,6 +33,7 @@ Constant Proportion Portfolio Insurance (CPPI)
 Presidental Stock Portfolio  
 Obama Stock Portfolio  
 Trump Stock Portfolio  
+Recession Stock Portfolio  
 
 # :black_circle: List of Risk
 1.) Market risk  
