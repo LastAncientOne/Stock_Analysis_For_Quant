@@ -17,6 +17,8 @@ Options analysis is a method for investors use for to buy call and put; therefor
 1.) The current value of an asset is equal to its expected payoff discounted at the risk-free rate.  
 2.) There are no arbitrage opportunities in the market.  
 
+#### Binomial Option Pricing Model  
+- The simplest method to price the options for this model. This model uses the assumption of perfectly efficient market; however, the model can price the option at each point of a specified time frame. The binomial model, we consider that the price of the underlying asset will either go up or down in the period. Given the possible prices of the underlying asset and the strike price of an option, we can calculate the payoff of the option under these scenarios, then discount these payoffs and find the value of that option as of today.  
 
 ### Brokerages to represent  
 #### "buy to open"
