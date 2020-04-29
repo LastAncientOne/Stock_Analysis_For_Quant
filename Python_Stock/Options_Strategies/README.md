@@ -2,6 +2,9 @@
 
 # Python for Options Trading and Investment
 
+## Description:  
+Learning options trading in python.  
+
 ### List of different types of analyzing options and options strategies  
 Options analysis is a method for investors use for to buy call and put; therefore, traders make decision in buying and selling. 
 
