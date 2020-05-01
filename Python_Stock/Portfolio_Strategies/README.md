@@ -35,6 +35,13 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 Recession Stock Portfolio  
 
+# :black_circle: Types of Portfolio  
+Aggressive Portfolio  
+Defensive Portfolio  
+Income Portfolio  
+Speculative Portfolio  
+Hybrid Portfolio  
+
 # :black_circle: List of Risk
 1.) Market risk  
     - Equity Risk  
