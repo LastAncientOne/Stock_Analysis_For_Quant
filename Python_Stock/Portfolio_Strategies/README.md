@@ -4,11 +4,14 @@
 Portfolio management is the art and science of selecting and overseeing a group of investments such as stocks, bonds, mutual funds, and options that meet the long-term financial objectives and risk tolerance. However, it requires the ability to weigh strengths and weaknesses. Therefore, it involves trade-offs, from debt versus equity to domestic versus international and growth versus safety.  
 
 ## Key Elements of Portfolio Management  
-- Asset Allocation   
-- Diversification  
-- Rebalancing   
-- Active Portfolio Management  
-
+- Asset Allocation:  
+The process of creating and balancing your investment portfolio.   
+- Diversification:  
+The process of allocating capital in a way that reduces the exposure to any one particular asset or risk.  
+- Rebalancing:     
+The process of realigning the weightings of a portfolio of assets.  
+- Active Portfolio Management:  
+The process of making specific investments with the goal of outperforming an investment benchmark index or target return.  
 
 # :black_circle: List of different types of Portfolio Strategies
 
