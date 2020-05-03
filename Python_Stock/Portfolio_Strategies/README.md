@@ -1,5 +1,8 @@
 <img src="Portfolio_Strategy.PNG">  
 
+# Portfolio Management
+Portfolio management is the art and science of selecting and overseeing a group of investments such as stocks, bonds, mutual funds, and options that meet the long-term financial objectives and risk tolerance. However, it requires the ability to weigh strengths and weaknesses. Therefore, it involves trade-offs, from debt versus equity to domestic versus international and growth versus safety.  
+
 # :black_circle: List of different types of Portfolio Strategies
 
 Long-term Investment  
