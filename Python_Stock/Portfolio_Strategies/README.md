@@ -13,7 +13,7 @@ The process of realigning the weightings of a portfolio of assets.
 - Active Portfolio Management:  
 The process of making specific investments with the goal of outperforming an investment benchmark index or target return.  
 
-# :black_circle: List of different types of Portfolio Strategies
+## :black_circle: List of different types of Portfolio Strategies
 
 Long-term Investment  
 Short-term Investment  
@@ -48,14 +48,14 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 Recession Stock Portfolio  
 
-# :black_circle: Types of Portfolio  
+## :black_circle: Types of Portfolio  
 Aggressive Portfolio  
 Defensive Portfolio  
 Income Portfolio  
 Speculative Portfolio  
 Hybrid Portfolio  
 
-# :black_circle: List of Risk
+## :black_circle: List of Risk
 1.) Market risk  
     - Equity Risk  
     - Interest rate risk   
@@ -69,7 +69,7 @@ Hybrid Portfolio
 8.) Longevity risk  
 9.) Foreign investment risk  
 
-# :black_circle: List of Ratios  
+## :black_circle: List of Ratios  
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
