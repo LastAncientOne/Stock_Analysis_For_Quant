@@ -13,7 +13,7 @@ The process of realigning the weightings of a portfolio of assets.
 - Active Portfolio Management:  
 The process of making specific investments with the goal of outperforming an investment benchmark index or target return.  
 
-## :black_circle: List of different types of Portfolio Strategies
+## :green_circle: List of different types of Portfolio Strategies
 
 Long-term Investment  
 Short-term Investment  
@@ -55,7 +55,7 @@ Income Portfolio
 Speculative Portfolio  
 Hybrid Portfolio  
 
-## :black_circle: List of Risk
+## :red_circle: List of Risk
 1.) Market risk  
     - Equity Risk  
     - Interest rate risk   
