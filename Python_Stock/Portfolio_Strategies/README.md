@@ -48,7 +48,7 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 Recession Stock Portfolio  
 
-## :black_circle: Types of Portfolio  
+## :blue_circle: Types of Portfolio  
 Aggressive Portfolio  
 Defensive Portfolio  
 Income Portfolio  
