@@ -48,7 +48,7 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 Recession Stock Portfolio  
 
-## :blue_circle: Types of Portfolio  
+## :white_circle: Types of Portfolio  
 Aggressive Portfolio  
 Defensive Portfolio  
 Income Portfolio  
@@ -134,7 +134,7 @@ Upside Potential Ratio
 
 :small_blue_diamond: Upside Potential Ratio - is a measurement of a return of an investment asseet relative to the minimal acceptable return. (Wiki)  
 
-### Resources
+### :small_blue_diamond: Resources
 https://breakingdownfinance.com/finance-topics/performance-measurement/  
 https://www.investopedia.com/  
 https://en.wikipedia.org/  
