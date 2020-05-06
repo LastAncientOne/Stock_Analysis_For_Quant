@@ -134,8 +134,8 @@ Upside Potential Ratio
 
 :small_blue_diamond: Upside Potential Ratio - is a measurement of a return of an investment asseet relative to the minimal acceptable return. (Wiki)  
 
-### :small_blue_diamond: Resources
-https://breakingdownfinance.com/finance-topics/performance-measurement/  
-https://www.investopedia.com/  
-https://en.wikipedia.org/  
+### :arrow_down_small: Resources
+:one: https://breakingdownfinance.com/finance-topics/performance-measurement/  
+:two: https://www.investopedia.com/  
+:three: https://en.wikipedia.org/  
 
