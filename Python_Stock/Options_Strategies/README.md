@@ -79,8 +79,6 @@ Intrinsic Value (Calls) = Current Stock Price - Stock Price
 Intrinsic Value (Puts) = Strike Price - Current Stock Price  
 Time Value = Option Premium - Intrinsic Value  
 
-:red_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
-
 https://www.investopedia.com/trading/options-strategies/
 
 ## Author:    
@@ -90,4 +88,5 @@ https://www.investopedia.com/trading/options-strategies/
 https://www.investopedia.com/trading/options-strategies/  
 https://www.optionsplaybook.com/option-strategies/  
 
+:red_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
 
