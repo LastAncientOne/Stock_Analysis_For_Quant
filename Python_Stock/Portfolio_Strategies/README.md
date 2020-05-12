@@ -69,7 +69,7 @@ Hybrid Portfolio
 8.) Longevity risk  
 9.) Foreign investment risk  
 
-## :black_circle: List of Ratios  
+## :yellow_circle: List of Ratios  
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
