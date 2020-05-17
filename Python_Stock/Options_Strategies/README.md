@@ -40,11 +40,11 @@ Options analysis is a method for investors use for to buy call and put; therefor
 #### In the Money (ATM) 
 - is an option whose strike price is below where the stock price is currently; as a result, it has little to no intrinsic value.    
 #### Out of the Money (OTM) 
-- is an option with strike price is above where the stock price is currently and the option is made up of entirely extrinsic value. 
+- is an option with strike price is above where the stock price is currently and the option is made up of entirely extrinsic value.  
 
 
-<img src="Cheatsheet_Options.PNG">
-## Options Strategies  
+<img src="Cheatsheet_Options.PNG">  
+## Options Strategies    
 1. Long Call
 2. Long Put
 3. Short Put
