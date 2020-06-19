@@ -21,5 +21,12 @@ Statistics
 Time Series  
 Forecasting  
 
+### Trading Stocks in Statistics  
+Trading With Gaussian Statistical Models  
+Hypothesis Testing in Finance  
+Statistical Modeling  
+Statistical Inference  
+
+
 ## Author
 ### * Tin Hang
