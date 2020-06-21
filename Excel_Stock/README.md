@@ -24,7 +24,7 @@ Forecasting
 ### Trading Stocks in Statistics  
 Trading With Gaussian Statistical Models  
 Hypothesis Testing in Finance  
-Independent Sample t-oTest for Stock Returns  
+Independent Sample t-Test for Stock Returns  
 Statistical Modeling  
 Statistical Inference  
 
