@@ -104,8 +104,8 @@ Sortino Ratio
 Treynor Ratio   
 Upside Potential Ratio  
 
-## Author  
-### * Tin Hang
+## Credits:
+### * Developed by Tin Hang.
 
 # Disclaimer
 ## :warning:
