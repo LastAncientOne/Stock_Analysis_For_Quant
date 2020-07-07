@@ -105,7 +105,7 @@ Treynor Ratio
 Upside Potential Ratio  
 
 ## Credits:
-### * Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
+### Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
 
 # Disclaimer
 ## :warning:
