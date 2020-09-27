@@ -107,6 +107,11 @@ Upside Potential Ratio
 ## Credits:
 ### Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
 
+### Links to research paper for quant:  
+https://www.researchgate.net  
+https://www.academia.edu/  
+
+
 # Disclaimer
 ## :warning:
 #### Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read :books: books, research paper, and :computer: blog that relate to stock market, investment, or finance. On the other hand, if you into quant, read books about machine learning or deep learning. Books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. Do experimental on stock historical price and test different strategies or method to see if it works or not. Learn from it and take notes :notebook:.
