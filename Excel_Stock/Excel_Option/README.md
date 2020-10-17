@@ -44,8 +44,6 @@ Options analysis is a method for investors use for to buy call and put; therefor
 - is an option with strike price is above where the stock price is currently and the option is made up of entirely extrinsic value.  
 
 
-<img src="Cheatsheet_Options.PNG">  
-  
 ## Options Strategies    
 1. Long Call
 2. Long Put
@@ -60,9 +58,6 @@ Options analysis is a method for investors use for to buy call and put; therefor
 11. Long Call Butterfly Spread  
 12. Iron Condor  
 13. Iron Butterfly    
-
-<img src="FiveGreeks.PNG">    
-<img src="OptionsGreek.PNG">    
 
 ## Options Greeks   
 1. Delta - Measures change in option price when stock price moves  
