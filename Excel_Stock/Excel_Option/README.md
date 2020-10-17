@@ -1,4 +1,5 @@
 # Excel for Options Trading and Investment
+<img src="Call_Option.png">
 
 ## Description:  
 Learning about options trading in Excel
