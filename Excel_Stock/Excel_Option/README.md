@@ -1,6 +1,6 @@
 # Excel for Options Trading and Investment
 <img src="Call_Option.png">
-<img src="Profit_Payoff">
+<img src="Profit_Payoff.png">
 
 ## Description:  
 Learning about options trading in Excel
