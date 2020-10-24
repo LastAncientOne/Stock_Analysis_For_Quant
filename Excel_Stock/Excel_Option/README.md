@@ -5,7 +5,8 @@
 ## Description:  
 Learn about options trading in Excel. Learn how to input options in Excel. Learn to create option strategies.   
 
-<img src="Option Profits and Payoffs.png">
+<img src="Option Profits and Payoffs-0.png">
+<img src="Option Profits and Payoffs-1.png">
 
 ## What is options?  
 Options is a contract that gives the buyer the right, but not the oblication, to buy or sell an underlying asset at a specified strike price to a specified date.  
