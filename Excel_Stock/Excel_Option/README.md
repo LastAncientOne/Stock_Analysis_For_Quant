@@ -4,7 +4,7 @@
 
 ## Description:  
 Learn about options trading in Excel. Learn how to input options in Excel. Learn to create option strategies.   
-
+<img src="Option Table.png">
 <img src="Option Profits and Payoffs.png">
 
 ## What is options?  
