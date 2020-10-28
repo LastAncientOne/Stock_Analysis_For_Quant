@@ -12,7 +12,8 @@ Learn about options trading in Excel. Learn how to input options in Excel. Learn
 ### Ask: Shows when you're selling, or writing, an option, you usually receive bid amount. The price at which sellers are trying to sell the option.  
 ### Volume (Actual Trades): Shows you how many contracts have traded during the market day's traded session.  
 ### Open Interest (Open Contracts): Shows the total number of outstanding option contracts that are still open. 
-### Strike Prices: Shows the price at which a call or put buyer can purchase the security if the option is exercised.   
+### Strike Prices: Shows the price at which a call or put buyer can purchase the security if the option is exercised. 
+   
 
 <img src="Option Profits and Payoffs.png">
 
