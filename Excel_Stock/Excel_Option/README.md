@@ -4,7 +4,16 @@
 
 ## Description:  
 Learn about options trading in Excel. Learn how to input options in Excel. Learn to create option strategies.   
-<img src="Option Table.png">
+<img src="Option Table.png">  
+
+### Last: Shows the price of the most recent trade that went through.  
+### Chg (Change): Shows the change is how much the Last price has changed since the previous close.  
+### Bid: Shows when you're buying an option, you usually pay the ask price.  
+### Ask: Shows hen you're selling, or writing, an option, you usually receive bid amount.  
+### Volume (Actual Trades): Shows you how many contracts have traded during the market day's traded session.  
+### Open Interest (Open Contracts): Shows the total number of outstanding option contracts that are still open. 
+### Strike Prices: Shows the price at which a call or put buyer can purchase the security if the option is exercised.   
+
 <img src="Option Profits and Payoffs.png">
 
 ## What is options?  
