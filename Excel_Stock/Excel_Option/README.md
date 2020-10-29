@@ -102,5 +102,5 @@ https://www.investopedia.com/trading/options-strategies/
 https://www.investopedia.com/trading/options-strategies/  
 https://www.optionsplaybook.com/option-strategies/  
 
-:red_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
+:red_circle: Warning: This is not financial advisor.  Options is a high risk for investing and trading.  Do not use this to invest or trade. It is for educational purpose.  
 
