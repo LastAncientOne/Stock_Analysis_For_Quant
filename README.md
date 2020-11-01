@@ -4,10 +4,15 @@
 #### This is Stock Analysis project in Excel, Power BI, Matlab, Python, and R language with different types of analysis such as data analysis, technical analysis, fundamental analysis, quantitative analysis, and different types of trading strategies. In addition, this is for quantitative researching and analyzing in trading and investment. Quantitative analysis (QA) is a technique that use mathematices and statistical modeling, measurement, and research for understanding financial behaviors. Many different types of technical indicators and stock strategies in Excel, Python, and R language. Using timeseries, forecasting, machine learning, and deep learning for this research project in different type of programming languages. :chart_with_upwards_trend: :chart_with_downwards_trend:
 
 # Prerequistes
+### Programming Language and Software  
 Python 3.5+    
+
 R 3.0.0 +  
+
 Matlab R2016a    
+
 Excel 2016   
+
 Power BI  
 
 # List of Trading Strategies  
