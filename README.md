@@ -5,13 +5,9 @@
 
 # Prerequistes
 Python 3.5+    
-
 R 3.0.0 +  
-
 Matlab R2016a    
-
 Excel 2016   
-
 Power BI  
 
 # List of Trading Strategies  
