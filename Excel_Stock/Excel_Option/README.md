@@ -3,7 +3,7 @@
 <img src="Profit_Payoff.png">
 
 ## Description:  
-Learn about options trading in Excel. Learn how to input options in Excel. Learn to create option strategies.   
+Learn about options trading in Excel. Learn how to input options in Excel. Learn to create option strategies. Options is risker than investing in stocks.   
 <img src="Option Table.png">  
 
 ### Last: Shows the price of the most recent trade that went through.  
