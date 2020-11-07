@@ -107,7 +107,8 @@ Upside Potential Ratio
 
 # List of Options Strategies     
 #### Description: Options Strategies are the simultaneous that is mixed with buying or selling of one or more options that differ in one or more of the options' variables.  
-Loog Call  
+:large_blue_diamond:  
+Long Call  
 Long Put  
 Short Call  
 Short Put  
