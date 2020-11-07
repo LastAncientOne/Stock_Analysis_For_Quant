@@ -105,6 +105,30 @@ Sortino Ratio
 Treynor Ratio   
 Upside Potential Ratio  
 
+# List of Options Strategies     
+#### Description: Options Strategies are the simultaneous that is mixed with buying or selling of one or more options that differ in one or more of the options' variables.  
+Loog Call  
+Long Put  
+Short Call  
+Short Put  
+Covered Call  
+Bull Call Spread  
+Bear Call Spread  
+Bull Put Spread  
+Bear Put Spread  
+Call Backspread  
+Long Straddle   
+Short Straddle  
+Long Strangle  
+Short Strangle  
+Iron Condor  
+Long Calendar Spread with Calls  
+Long Calendar Spread with Put  
+Long Butterfly with Calls  
+Long Butterfly wiht Put  
+Collar Protective Put  
+
+
 ## Credits:
 ### Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
 
