@@ -113,6 +113,7 @@ Long Put
 Short Call  
 Short Put  
 Covered Call  
+Married Put  
 Bull Call Spread  
 Bear Call Spread  
 Bull Put Spread  
@@ -123,11 +124,12 @@ Short Straddle
 Long Strangle  
 Short Strangle  
 Iron Condor  
+Iron Butterfly  
 Long Calendar Spread with Calls  
 Long Calendar Spread with Put  
 Long Butterfly with Calls  
-Long Butterfly wiht Put  
-Collar Protective Put  
+Long Butterfly with Put  
+Protective Collar
 
 
 ## Credits:
