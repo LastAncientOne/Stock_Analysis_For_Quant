@@ -139,6 +139,7 @@ Protective Collar
 https://www.researchgate.net  
 https://www.academia.edu/  
 https://quant.stackexchange.com/questions/38886/what-are-the-quantitative-finance-papers-that-we-should-all-have-in-our-shelves  
+https://capital.com/financial-dictionary  
 
 
 # Disclaimer
