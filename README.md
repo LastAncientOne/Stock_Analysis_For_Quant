@@ -136,10 +136,10 @@ Protective Collar
 ### Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
 
 ### Links to research paper for quant:  
-https://www.researchgate.net  
-https://www.academia.edu/  
-https://quant.stackexchange.com/questions/38886/what-are-the-quantitative-finance-papers-that-we-should-all-have-in-our-shelves  
-https://capital.com/financial-dictionary  
+https://www.researchgate.net (European Social networking site for scientists and researchers to share papers)  
+https://www.academia.edu/ (Academics and Researchers to share educational papers from all over the worlds)  
+https://quant.stackexchange.com/questions/38886/what-are-the-quantitative-finance-papers-that-we-should-all-have-in-our-shelves (Financial Research Papers)  
+https://capital.com/financial-dictionary (Financial terms)  
 
 
 # Disclaimer
