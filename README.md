@@ -9,6 +9,9 @@
 ### What is options?  
 #### Options is a contract to buy or sell a specific financial product known as the option's underlying instrument or underlying interest.  Also, options are contracts that gives the owner, the holder, the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price prior to or on a specified date, depending on the form of the option.  
 
+### What is Bond?  
+#### Bond is a fixed income instrument that represents a loan made by an investor to a broower such as corporate or governmental.  Owner of bonds are the debt holders, or creditors of the issuer.  
+
 # Prerequistes
 ### Programming Language and Software  
 Python 3.5+    
