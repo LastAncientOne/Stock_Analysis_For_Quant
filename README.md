@@ -1,7 +1,7 @@
 <img src="StockAnalysisQuants.PNG">
 
 # Stock Analysis for Quants  
-#### This is Stock Analysis project in Excel, Power BI, Matlab, Python, and R language with different types of analysis such as data analysis, technical analysis, fundamental analysis, quantitative analysis, and different types of trading strategies. Learn about stocks, options, bonds, mutual funds, and ETF (Exchange-traded funds). In addition, this is for quantitative researching and analyzing in trading and investment. Quantitative analysis (QA) is a technique that use mathematices and statistical modeling, measurement, and research for understanding financial behaviors. Many different types of technical indicators and stock strategies in Excel, Python, and R language. Using timeseries, forecasting, machine learning, and deep learning for this research project in different type of programming languages. :chart_with_upwards_trend: :chart_with_downwards_trend:
+#### This is Stock Analysis project in Excel, Power BI, Matlab, Python, and R language with different types of analysis such as data analysis, technical analysis, fundamental analysis, quantitative analysis, and different types of trading strategies. Learn about stocks, options, bonds, mutual funds, and ETF (Exchange-traded funds). In addition, this is for quantitative researching and analyzing in trading and investment. Quantitative analysis (QA) is a technique that use mathematics and statistical modeling, measurement, and research for understanding financial behaviors. Many different types of technical indicators and stock strategies in Excel, Python, and R language. Using time series, forecasting, machine learning, and deep learning for this research project in different type of programming languages.  :chart_with_upwards_trend: :chart_with_downwards_trend:
 
 ### What is stock?  
 #### A stock is an investment that represent a share or partial ownership of a company. Stock is company's profits; as a result, investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is low and high risk investment.  
@@ -13,10 +13,11 @@
 #### Exchange Traded Funds (ETF) is a type of investment fund and exchange-traded product. ETFs are traded on stock exchanges. Also, they are similar in many ways to mutual funds, except that ETFs are bought and sold throughout the day on stock exchanges.  
 
 ### What is Bond?  
-#### Bond is a fixed income instrument that represents a loan made by an investor to a brower such as corporate or governmental.  Owner of bonds are the debt holders, or creditors of the issuer. Bonds are tax-free, secured, redeemable and non-convertible in nature.  
+#### Bond is a fixed income instrument that represents a loan made by an investor to a borrower such as corporate or governmental.  Owner of bonds are the debt holders, or creditors of the issuer. Bonds are tax-free, secured, redeemable and non-convertible in nature.  
 
 ### What is Mutual Funds?
-#### Mutual Funds are investment strategies that allow investor to pool their money together with other investors to purchase a collection of stocks, bonds, or other securities that might be difficult to recreate on their own.  Mutual funds is a low risk investment.   
+#### Mutual Funds are investment strategies that allow investor to pool their money together with other investors to purchase a collection of stocks, bonds, or other securities that might be difficult to recreate on their own.  Mutual funds are a low risk investment.    
+
 
 
 # Prerequistes
