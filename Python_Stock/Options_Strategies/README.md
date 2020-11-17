@@ -47,7 +47,8 @@ Options analysis is a method for investors use for to buy call and put; therefor
 
 
 <img src="Cheatsheet_Options.PNG">  
-  
+   
+      
 ## Options Strategies    
 1. Long Call
 2. Long Put
