@@ -6,7 +6,7 @@
 Learning about options trading in python.
 
 ## What is options?  
-Options is a contract that gives the buyer the right, but not the oblication, to buy or sell an underlying asset at a specified strike price to a specified date.  Options have highter risk than stocks or equity.  
+Options is a contract that gives the buyer the right, but not the obligation, to buy or sell an underlying asset at a specified strike price to a specified date. Options have higher risk than stocks or equity.  
 
 ### List of different types of analyzing options and options strategies  
 Options analysis is a method for investors use for to buy call and put; therefore, traders make decision in buying and selling. 
