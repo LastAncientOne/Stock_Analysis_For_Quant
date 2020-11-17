@@ -39,11 +39,11 @@ Options analysis is a method for investors use for to buy call and put; therefor
 
 ### Understanding Binary Basics  
 ####  At the money (ATM) 
-- is an option whose strike price is near where the stock price is currently; therefore, primarily made up of intrinsic value, with very little extrinsic value.  
-#### In the Money (ATM) 
-- is an option whose strike price is below where the stock price is currently; as a result, it has little to no intrinsic value.    
+- is an option whose strike price is near the current stock price; therefore, primarily made up of intrinsic value, with very little extrinsic value.  
+#### In the Money (ITM) 
+- is an option whose strike price is below the current stock price; as a result, it has little to no intrinsic value.    
 #### Out of the Money (OTM) 
-- is an option with strike price is above where the stock price is currently and the option is made up of entirely extrinsic value.  
+- is an option whose strike price is above the current stock and the option is made up of entirely extrinsic value.  
 
 
 <img src="Cheatsheet_Options.PNG">  
@@ -71,7 +71,7 @@ Options analysis is a method for investors use for to buy call and put; therefor
 1. Delta - Measures change in option price when stock price moves  
 2. Gamma - Measures change in delta when stock price moves  
 3. Vega - Measures change in option price when volatility moves  
-5. Theta - Decay in option price every day as the expiration gets nearer  
+5. Theta - Decay in option price every day as the expiration date gets nearer  
 6. Rho - Measures change in option price when stock price moves  
 
 ## Black Scholes Model  
