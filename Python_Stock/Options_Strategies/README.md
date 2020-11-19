@@ -15,6 +15,9 @@ Options analysis is a method for investors use for to buy call and put; therefor
 1.) American options can be exercised at any time between the date of purchase and the expiration date.  
 2.) European options are different from American options in that they can only be exercised at the end of their lives on their expiration date.  
 
+### Implied Volatility
+#### Implied volatility (IV) is one of the most important metrics to understand and to be used for trading options.  
+
 #### Call option gives the holder the right to buy a stock.  
 #### Put opton gives the holder the right to sell a stock.   
 
