@@ -1,3 +1,8 @@
+# Performance Measurement Metrics
+
+## Description:  
+### The performance measurement is similar to risk-return tradeoff. Risk-return states that higher risk with greater probability of higher return and lower risk with a greater probability of smaller return. Therefore, trade off which an investor faces between risk and return will considering investment decisions is called the risk return trade off.  
+
 # List of Stock Performance Measurement for Risk-Reward Ratio Charts  
 
 Appraisal Ratio  
