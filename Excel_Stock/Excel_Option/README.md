@@ -3,7 +3,7 @@
 <img src="Profit_Payoff.png">
 
 ## Description:  
-Learn about options trading in Excel. Learn how to input options in Excel. Learn to create option strategies. Options is risker than investing in stocks.   
+### Learn about options trading in Excel. Learn how to input options in Excel. Learn to create option strategies. Options is risker than investing in stocks.   
 <img src="Option Table.png">  
 
 ### Last: Shows the price of the most recent trade that went through.  
@@ -18,7 +18,7 @@ Learn about options trading in Excel. Learn how to input options in Excel. Learn
 <img src="Option Profits and Payoffs.png">
 
 ## What is options?  
-Options is a contract that gives the buyer the right, but not the oblication, to buy or sell an underlying asset at a specified strike price to a specified date.  
+Options is a contract that gives the buyer the right, but not the obligation, to buy or sell an underlying asset at a specified strike price to a specified date.  
 
 ### List of different types of analyzing options and options strategies  
 Options analysis is a method for investors use for to buy call and put; therefore, traders make decision in buying and selling. 
@@ -50,7 +50,7 @@ Options analysis is a method for investors use for to buy call and put; therefor
 
 
 ### Understanding Binary Basics  
-####  At the money (ATM) 
+#### At the money (ATM) 
 - is an option whose strike price is near where the stock price is currently; therefore, primarily made up of intrinsic value, with very little extrinsic value.  
 #### In the Money (ATM) 
 - is an option whose strike price is below where the stock price is currently; as a result, it has little to no intrinsic value.    
