@@ -7,4 +7,5 @@ Description: Technical Analysis (TA) and Pivot Points (PP) is a method to analyz
 https://www.investopedia.com/terms/t/technicalindicator.asp  
 https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators  
 https://www.investopedia.com/terms/p/pivotpoint.asp  
-https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:pivot_points  
+https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:pivot_points
+https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/list-of-technical-indicators/
