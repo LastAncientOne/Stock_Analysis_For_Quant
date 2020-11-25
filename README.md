@@ -70,7 +70,7 @@ Modern Portfolio Theory (MPT)
 Post-Modern Portfolio Theory (PMPT)  
 Portfolio Allocation    
 Portfolio Optimization    
-Markowitz Portfolio Optimization Theory 
+Markowitz Portfolio Optimization Theory (1952)  
 Minimum-Variance Portfolios (Global Minimum-variance Portfolio)  
 Global Portfolio Optimization (The Black Litterman)    
 Tactical Asset Allocation  
