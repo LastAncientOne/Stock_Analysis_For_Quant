@@ -59,7 +59,9 @@ Quantitative Analysis
 :large_blue_diamond:  
 Long-term Investment  
 Short-term Investment  
+All Weather Strategies  
 Buy and Hold  
+Defensive Stock Investing strategy  
 Rebalance Portfolio  
 Value Investment  
 Momentum Investment  
