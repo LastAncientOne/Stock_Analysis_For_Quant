@@ -47,6 +47,7 @@ Technical Analysis
 Swing Trading Strategy
 Scalping (Trading)  
 Day Trading    
+End-of-day trading strategy  
 Trading the News  
 Trading the Signals 
 Social Trading   
