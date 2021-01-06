@@ -6,7 +6,7 @@
 <img src="Excel_RL.PNG">
 
 ## Description:
-This Excel project has technical analysis, fundamental analysis, quantitative analysis, and different types of trading strategies. Many different types of risk-returns metrics, technical indicators and portfolio strategies. In addition, it has data analysis and data science for single and multiple stocks.  
+This Excel project has technical analysis, fundamental analysis, quantitative analysis, and different types of trading strategies. Many different types of risk-returns metrics, technical indicators and portfolio strategies. In addition, it has data analysis and data science for single stock and multiple stocks. VBA, macros, and complex formulas for stock analysis.    
 
 ### List of Stock Strategies and Investment  
 List of Technical Analysis  
