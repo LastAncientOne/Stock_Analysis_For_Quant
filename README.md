@@ -161,7 +161,8 @@ https://www.academia.edu/ (Academics and Researchers to share educational papers
 https://quant.stackexchange.com/questions/38886/what-are-the-quantitative-finance-papers-that-we-should-all-have-in-our-shelves (Financial Research Papers)  
 https://capital.com/financial-dictionary (Financial terms)  
 http://www.performance-metrics.eu/performance_glossary.php (Performance Metrics)  
-http://morningstardirect.morningstar.com/clientcomm/customcalculations.pdf (Financial Calculations)  
+http://morningstardirect.morningstar.com/clientcomm/customcalculations.pdf (Financial Calculations)   
+https://www.optionstrading.org/strategies/a-z-list/ (Options Trading Strategies)  
 
 
 # Disclaimer
