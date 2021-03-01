@@ -1,4 +1,4 @@
-<img src="Title_PowerBI.PNG">
+<img src="PowerBI.PNG">
 
 # Power BI for Stock Trading and Investment  
 
