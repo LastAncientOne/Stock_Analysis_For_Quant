@@ -1,4 +1,4 @@
-<img src="TitlePython.PNG">
+<img src="Python.PNG">
 
 # Python for Stock Trading and Investment
 
