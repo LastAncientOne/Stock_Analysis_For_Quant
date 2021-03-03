@@ -1,4 +1,4 @@
-<img src="TitleR.PNG">
+<img src="R.PNG">
 
 # R for Stock Trading and Investment  
 ### Description:
