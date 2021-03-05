@@ -1,3 +1,5 @@
+<img src="RRR.PNG">
+
 # Performance Measurement Metrics
 
 ## Description:  
