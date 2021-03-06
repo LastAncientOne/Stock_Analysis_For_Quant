@@ -1,3 +1,4 @@
+<img src="Options_Strategies.PNG">
 <img src="Options_Titles.PNG">
 
 # Python for Options Trading and Investment
