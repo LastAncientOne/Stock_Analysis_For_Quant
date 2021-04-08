@@ -5,6 +5,8 @@
 ### Description:
 #### Collecting historical data or fundmental data. Analyzing stock data. Using techncial indicator in Power BI.   
 
+### Add Candlestick in Power BI  
+https://store.office.com/addinsinstallpage.aspx?assetid=WA104380952  
 
 ## Author  
 ### * Tin Hang  
