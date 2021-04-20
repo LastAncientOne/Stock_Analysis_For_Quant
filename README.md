@@ -19,6 +19,8 @@
 ### What is Mutual Funds?
 #### Mutual Funds are investment strategies that allow investor to pool their money together with other investors to purchase a collection of stocks, bonds, or other securities that might be difficult to recreate on their own.  Mutual funds are a low risk investment.    
 
+### What is Quantitative research?
+#### Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can expressed in numbers and graphs. It is used to test or confirm theories and assumptions.     
 
 
 # Prerequistes
