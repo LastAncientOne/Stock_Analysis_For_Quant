@@ -20,7 +20,12 @@
 #### Mutual Funds are investment strategies that allow investor to pool their money together with other investors to purchase a collection of stocks, bonds, or other securities that might be difficult to recreate on their own.  Mutual funds are a low risk investment.    
 
 ### What is Quantitative research?
-#### Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can expressed in numbers and graphs. It is used to test or confirm theories and assumptions.     
+#### Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can expressed in numbers and graphs. It is used to test or confirm theories and assumptions.  
+
+### What is Qualitative research?
+####  Qualitative research is expressed in words such as nterviews with open-ended questions, observations described in words, and literature reviews that explore concepts and theories. The qualitative research is used to understand concepts, thoughts or experiences. Therefore, this type of research enables you to gather in-depth insights on topics that are not well understood.  
+
+Common qualitative methods include i.
 
 
 # Prerequistes
