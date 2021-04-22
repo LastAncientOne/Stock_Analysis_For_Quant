@@ -25,8 +25,6 @@
 ### What is Qualitative research?
 ####  Qualitative research is expressed in words such as nterviews with open-ended questions, observations described in words, and literature reviews that explore concepts and theories. The qualitative research is used to understand concepts, thoughts or experiences. Therefore, this type of research enables you to gather in-depth insights on topics that are not well understood.  
 
-Common qualitative methods include i.
-
 
 # Prerequistes
 ### Programming Language and Software  
