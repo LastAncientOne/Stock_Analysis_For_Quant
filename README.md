@@ -5,7 +5,7 @@
 #### This is Stock Analysis project in Excel, Power BI, Matlab, Python, R, and tableau language with different types of analysis such as data analysis, technical analysis, fundamental analysis, quantitative analysis, and different types of trading strategies. Learn about stocks, options, bonds, mutual funds, and ETF (Exchange-traded funds). In addition, this is for quantitative researching and analyzing in trading and investment. Quantitative analysis (QA) is a technique that use mathematics and statistical modeling, measurement, and research for understanding financial behaviors. Many different types of technical indicators and stock strategies in Excel, Python, and R language. Using time series, forecasting, machine learning, and deep learning for this research project in different type of programming languages.  :chart_with_upwards_trend: :chart_with_downwards_trend:
 
 ### What is stock market?  
-#### The stock market or equity market is primarily known for trading stocks or equities, other financial securities such as exchange traded funds (ETF), corporate bonds and derivatives based on stocks, commodities, currencies, and bonds.  
+#### Stock market or equity market is primarily known for trading stocks or equities, other financial securities such as exchange traded funds (ETF), corporate bonds and derivatives based on stocks, commodities, currencies, and bonds.  
 
 ### What is stock?  
 #### A stock is an investment that represent a share or partial ownership of a company. Stock is company's profits; as a result, investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is low and high risk investment.  
