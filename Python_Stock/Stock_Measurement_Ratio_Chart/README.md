@@ -31,3 +31,8 @@ Sortino Ratio
 Stutzer Ratio  
 Treynor Ratio   
 Upside Potential Ratio  
+
+
+## Author:    
+### Tin Hang  
+
