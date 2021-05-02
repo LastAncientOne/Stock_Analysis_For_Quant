@@ -16,7 +16,6 @@
 ### What is options?  
 #### Options is a contract to buy or sell a specific financial product known as the option's underlying instrument or underlying interest.  Also, options are contracts that gives the owner, the holder, the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price prior to or on a specified date, depending on the form of the option. Options is a high risk investment.  
 
-
 ### What is Bond?  
 #### Bond is a fixed income instrument that represents a loan made by an investor to a borrower such as corporate or governmental.  Owner of bonds are the debt holders, or creditors of the issuer. Bonds are tax-free, secured, redeemable and non-convertible in nature.  
 
@@ -26,7 +25,8 @@
 ### What is Mutual Funds?
 #### Mutual Funds are investment strategies that allow investor to pool their money together with other investors to purchase a collection of stocks, bonds, or other securities that might be difficult to recreate on their own.  Mutual funds are a low risk investment.    
 
-### What is Hedge Funds?
+### What is Hedge Funds?  
+#### Hedge Funds are investment that use pooled funds and are gathered from many high-net-worth individuals. In addition, Hedge funds are more expensive compared to conventional investment funds. They are aggressively managed with aid of the fund manager because they are used in both domestic and international markets, with the aim of generating high returns.  It is important to note that hedge funds are generally only accessible to accredited investors as they require less Securities and Exchange Commission (SEC) regulations than other funds.  
 
 ### What is Quantitative research?
 #### Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can expressed in numbers and graphs. It is used to test or confirm theories and assumptions.  
