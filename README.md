@@ -29,10 +29,10 @@
 #### Hedge Funds are investment that use pooled funds and are gathered from many high-net-worth individuals. In addition, Hedge funds are more expensive compared to conventional investment funds. They are aggressively managed with aid of the fund manager because they are used in both domestic and international markets, with the aim of generating high returns.  It is important to note that hedge funds are generally only accessible to accredited investors as they require less Securities and Exchange Commission (SEC) regulations than other funds.  
 
 ### What is Quantitative research?
-#### Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can expressed in numbers and graphs. It is used to test or confirm theories and assumptions.  
+#### Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can have expressed in numbers and graphs. It is used to test or confirm theories and assumptions.  
 
 ### What is Qualitative research?
-####  Qualitative research is expressed in words such as nterviews with open-ended questions, observations described in words, and literature reviews that explore concepts and theories. The qualitative research is used to understand concepts, thoughts or experiences. Therefore, this type of research enables you to gather in-depth insights on topics that are not well understood.  
+#### Qualitative research is expressed in words such as interviews with open-ended questions, observations described in words, and literature reviews that explore concepts and theories. The qualitative research is used to understand concepts, thoughts or experiences. Therefore, this type of research enables you to gather in-depth insights on topics that are not well understood.  
 
 
 # Prerequistes
