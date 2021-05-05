@@ -13,6 +13,12 @@
 ### What is stock?  
 #### A stock is an investment that represent a share or partial ownership of a company. Stock is company's profits; as a result, investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is low and high risk investment.  
 
+### What is global equity fund?
+#### A global equity fund is sub-category of funds on the stock funds side of the ledger. A global equity fund has the latitude to buy shares of companies from any country including the United States. Global equity fund will keep a certain portion of its assets invested in U.S. stocks and the balance invested in international stocks.  
+
+### What is private equity?
+#### Private equity is investment that is organized as limited partnerships. It can buy and restructure companies that are not publicly traded. Private equity is consists of capital that is not listed on a public exchange. Private equity is composed of funds and investors that directly invest in private companies, or that engage in buyouts of public companies, resulting in the delisting of public equity.  
+
 ### What is options?  
 #### Options is a contract to buy or sell a specific financial product known as the option's underlying instrument or underlying interest.  Also, options are contracts that gives the owner, the holder, the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price prior to or on a specified date, depending on the form of the option. Options is a high risk investment.  
 
