@@ -13,6 +13,9 @@ The process of realigning the weightings of a portfolio of assets.
 - Active Portfolio Management:  
 The process of making specific investments with the goal of outperforming an investment benchmark index or target return.  
 
+# Capital asset pricing model (CAPM)  
+Capital asset pricing model is a model used to determine the relationship between systematic risk and expected return for assets such as stocks.  Also, CAPM make decisions about adding assets to a well-diversified portfolio.  
+
 ## :green_circle: List of different types of Portfolio Strategies
 
 Long-term Investment  
