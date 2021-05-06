@@ -25,6 +25,9 @@
 ### What is Bond?  
 #### Bond is a fixed income instrument that represents a loan made by an investor to a borrower such as corporate or governmental.  Owner of bonds are the debt holders, or creditors of the issuer. Bonds are tax-free, secured, redeemable and non-convertible in nature.  
 
+### What is Index fund?  
+#### Index fund is a mutual fund or exchange-traded fund that are made up of stocks or companies performance and performance of a market index such as the S&P 500. Index funds are funds that can track specified basked of underlying investment and passively manaaged with lower fees than actively managed funds becausse they often generate higher investment returns and well-diversifed investments.  
+
 ### What is Exchange Traded Funds (ETF)?
 #### Exchange Traded Funds (ETF) is a type of investment fund and exchange-traded product. ETFs are traded on stock exchanges. Also, they are similar in many ways to mutual funds, except that ETFs are bought and sold throughout the day on stock exchanges.  
 
