@@ -16,12 +16,12 @@ The process of making specific investments with the goal of outperforming an inv
 # Capital asset pricing model (CAPM)  
 Capital asset pricing model is a model used to determine the relationship between systematic risk and expected return for assets such as stocks.  Also, CAPM make decisions about adding assets to a well-diversified portfolio.  
 
-## CAPM Formula
-# Ra = Rf + [(B x (Rm-Rf)]  
-## Ra = Expected return on a security  
-## Rf = Risk-free rate  
-## B = Beta of the security  
-## Rm = Expected return of the market  
+# CAPM Formula
+## Ra = Rf + [(B x (Rm-Rf)]  
+#### Ra = Expected return on a security  
+#### Rf = Risk-free rate  
+#### B = Beta of the security  
+#### Rm = Expected return of the market  
 
 ## :green_circle: List of different types of Portfolio Strategies
 
