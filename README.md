@@ -119,13 +119,15 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 
 # List Type of Risks  
-#### Description: Risk measures are statistical method to defined the individual stock or together to perform a risk assessment.  
+#### Description: Risk measures are statistical method to defined the individual stock or together to perform a risk assessment. Risk is a measurement of possible portfolio loss and is a risk factors that determine risk exposure.  
 :large_blue_diamond:  
 Trade Risk  
-Position Size Risk    
+Position Size Risk 
+Systematic risk  
 Market Risk  
 Margin Risk  
 Liquidity Risk  
+Idiosyncratic Risk  
 Overnight Risk  
 Volatility Risk  
 
