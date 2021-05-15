@@ -119,15 +119,19 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 
 # List Type of Risks  
-#### Description: Risk measures are statistical method to defined the individual stock or together to perform a risk assessment. Risk is a measurement of possible portfolio loss and is a risk factors that determine risk exposure.  
+#### Description: Risk measures are statistical method to defined the individual stock or together to perform a risk assessment. Risk is a measurement of possible portfolio loss and is a risk factors that determine risk exposure. The most common types of market risk include interest rate risk, equity risk, commodity risk, and currency risk.
 :large_blue_diamond:  
+Commodity Risk  
+Currency Risk  
+Equity Risk  
 Trade Risk  
-Position Size Risk 
-Systematic risk  
+Position Size Risk   
+Systematic Risk  
 Market Risk  
 Margin Risk  
 Liquidity Risk  
 Idiosyncratic Risk  
+Interest Rate Risk  
 Overnight Risk  
 Volatility Risk  
 
