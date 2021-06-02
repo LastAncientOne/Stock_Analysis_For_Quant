@@ -32,4 +32,4 @@ Statistical Inference
 ## Author
 ### * Tin Hang
 
-# 🔴 big_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose. 
+# 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose. 
