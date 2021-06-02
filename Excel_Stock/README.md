@@ -1,6 +1,6 @@
 <img src="Title_Excel.PNG">
 
-# Excel for Stock Trading and Investment
+# Stock Trading and Investment in Excel
 
 <img src="Excel_Chart.PNG">
 <img src="Excel_RL.PNG">
