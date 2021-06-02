@@ -202,6 +202,6 @@ https://www.optionstrading.org/strategies/a-z-list/ (Options Trading Strategies)
 #### Do not use this code for investing or trading in the stock market or real trading. However, if you are interest in the stock market, you should read :books: books, research paper, and :computer: blog that relate to the stock market, investment, or finance. On the other hand, if you into quant, read books about machine learning or deep learning. Books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. Do experimental on stock historical price and test different strategies or method to see if it works or not. Learn from it and take notes :notebook:.
 
 
-## :black_medium_square: This is not get rich quick.  
-## :black_medium_square: This is not financial advisor.   
-## :black_medium_square: This is for researching and educational purposes.  
+## 🔴 This is not get rich quick.  
+## 🔴 This is not financial advisor.   
+## 🔴 This is for researching and educational purposes.  
