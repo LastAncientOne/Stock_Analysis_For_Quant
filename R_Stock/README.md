@@ -7,6 +7,4 @@
 #### Trading strategies is a method for investors and traders to develop strategies that works for them to gain profits. On the other hand, traders need to find the right method or strategies that works for them. Trader needs to test their strategies by backtesting; however, strategies might not work on live trading compare to testing on past data :bar_chart:  
 ## Author:  
 ### * Tin Hang  
-
-
-:red_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
+## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.   
