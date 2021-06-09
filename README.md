@@ -11,7 +11,7 @@
 #### U.S. equities are companies that are trade on U.S. stock exchange.  Non-U.S. equities are cross-listed their shares on a U.S. exchange. As a result, many international companies elect to have their stock trade on a U.S. stock exchange. For example, a foreign company decides to list their stock on a U.S. stock exchange, they have to decide whether to elect to be treated as a "foreign private issuer" under U.S. securities laws. However, Foreign private issuers are subject to different reporting and regulatory requirements than a U.S. company. 
 
 ### What is stock?  
-#### A stock is an investment that represent a share or partial ownership of a company. Stock is company's profits; as a result, investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is low and high risk investment.  
+#### A stock is an investment that represent a share or partial ownership of a company. Investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is a low and high risk investment.  
 
 ### What is global equity fund?
 #### A global equity fund is sub-category of funds on the stock funds side of the ledger. A global equity fund has the latitude to buy shares of companies from any country including the United States. Global equity fund will keep a certain portion of its assets invested in U.S. stocks and the balance invested in international stocks.  
