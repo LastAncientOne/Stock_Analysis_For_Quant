@@ -1,0 +1,45 @@
+---
+title: "T-Test for a One-Time Series for Stock Data"
+output: html_notebook
+---
+
+```{r}
+library(quantmod)
+```
+
+# High t-value, reject the null hypothesis
+# Lower p-value, reject the null hypothesis
+# value falls outside the confidence interval, reject the null hypothesis
+
+```{r}
+amd <- getSymbols("AMD", from = "2020-01-01", to = "2020-06-25", auto.assign = F)
+```
+
+
+```{r}
+head(amd)
+```
+
+```{r}
+tail(amd)
+```
+```{r}
+amd$AMD.Adjusted
+```
+```{r}
+close <- amd$AMD.Adjusted
+head(close)
+```
+```{r}
+ret <- diff(log(close))
+tail(ret)
+```
+```{r}
+t.test(ret, mu=0)
+```
+# The degree of freddom of 372, the critical value is close to a normal distribution (T = 1.96).
+# When the value is higher than 1.96, we reject the underlying hypothesis or we accept the hypothesis.
+# t-value is 0.83876 is lower than 1.96, we accept the hypthesis.
+# Rule of thumb: t-value is less than 2, we accept.
+# p-value is 0.4021 and is 40.21%; therefore, is more than 5% and we accept hypothesis.
+# 0 is in the range, we accept hypothesis.
