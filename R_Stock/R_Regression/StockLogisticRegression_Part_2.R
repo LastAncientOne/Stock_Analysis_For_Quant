@@ -1,7 +1,6 @@
 # Logistic Regression Part 2
 
 library(quantmod)
-library(glm)
 library(modelr)
 library(broom)
 
