@@ -9,7 +9,7 @@ Use this model to predict numerical such as continuous and discrete data.
 (1) Simple Linear Regression – Single input variable (x)  
 (2) Multiple Linear Regression – Multiple input variables (x)  
 
-Equations:  
+#### Equations:  
 <img src="https://render.githubusercontent.com/render/math?math=y%20%3D%20b_%7B0%7D%20%2B%20b_%7B1%7D*x" width="200" height="50">
 
 ### Logistic Regression
