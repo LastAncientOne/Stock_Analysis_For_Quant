@@ -10,7 +10,7 @@ Use this model to predict numerical such as continuous and discrete data.
 (2) Multiple Linear Regression – Multiple input variables (x)  
 
 Equations:  
-![formula]\[y = b_{0} + b_{1}*x\]
+![formula](https://latex.codecogs.com/gif.latex?y&space;=&space;b_{0}&space;&plus;&space;b_{1}*x)
 
 
 ### Logistic Regression
