@@ -10,7 +10,7 @@ Use this model to predict numerical such as continuous and discrete data.
 (2) Multiple Linear Regression – Multiple input variables (x)  
 
 Equations:  
-<img src="https://render.githubusercontent.com/render/math?math=y%20%3D%20b_%7B0%7D%20%2B%20b_%7B1%7D*x" align="center" width="200" height="200">
+<img src="https://render.githubusercontent.com/render/math?math=y%20%3D%20b_%7B0%7D%20%2B%20b_%7B1%7D*x" align="center" width="200" height="400">
 
 ### Logistic Regression
 Logistic Regression is a predictive modelling algorithm.  Use this model to predict the class or category.  
