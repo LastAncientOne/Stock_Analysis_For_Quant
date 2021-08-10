@@ -8,6 +8,7 @@ Linear Regression is a linear model or linear regression algorithm, and mostly c
 Use this model to predict numerical such as continuous and discrete data.
 
 ### Logistic Regression
+Logistic Regression is a predictive modelling algorithm.  Use this model to predict the class or category.  
 
 ## Author:  
 ### * Tin Hang  
