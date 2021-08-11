@@ -19,7 +19,10 @@ Logistic Regression is a predictive modelling algorithm.  Use this model to pred
 <img src="https://latex.codecogs.com/svg.image?p&space;=&space;\frac{1}{e^-(b_{0}&space;&plus;&space;b_{1}*x)}" title="p = \frac{1}{e^-(b_{0} + b_{1}*x)}" width="200" height="50">  
 
 ### Decision Tree
-Decision Tree is algorithm that decide to split a node into two or more sub-nodes and is a diagram or chart that helps determine the course of action or show a statistical probability.  
+Decision Tree is algorithm that decide to split a node into two or more sub-nodes and is a diagram or chart that helps determine the course of action or show a statistical probability.   
+Use this model to predict numerical such as class and category or continuous and discrete data.  
+(1)	Categorical Variable Decision Tree – Class or Category data  
+(2)	Continuous Variable Decision Tree – Continuous or Discrete data  
 
 #### Equations:  
 <img src="https://latex.codecogs.com/svg.image?E(S)&space;=&space;\sum_{i=1}^{c}&space;-p_{i}log_{2}p_{i}&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;" title="E(S) = \sum_{i=1}^{c} -p_{i}log_{2}p_{i} " width="200" height="50">
