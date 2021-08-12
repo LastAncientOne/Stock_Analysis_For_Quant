@@ -17,6 +17,8 @@ y <- Stock$AAPL.Adjusted
 model <- rpart(x ~ y, 
              method = "anova", data = Stock )
 
+summary(model)
+
 data.frame(
   R2 = rsquare(model, data = Stock),
   RMSE = rmse(model, data = Stock),
