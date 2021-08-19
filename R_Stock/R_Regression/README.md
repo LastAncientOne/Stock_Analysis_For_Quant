@@ -43,7 +43,7 @@ Bayesian Linear Regression is algorithm that uses probability distributions rath
 
 Equation
 
-<img src="https://latex.codecogs.com/svg.image?y&space;=&space;\beta&space;_{0}&space;&plus;&space;&space;\beta&space;_{1}x_{1}&space;&plus;&space;\beta&space;_{2}x_{2}&space;&plus;&space;\epsilon&space;" title="y = \beta _{0} + \beta _{1}x_{1} + \beta _{2}x_{2} + \epsilon " width="200" height="50">  
+<img src="https://latex.codecogs.com/svg.image?y&space;=&space;\beta&space;_{0}&space;&plus;&space;&space;\beta&space;_{1}x_{1}&space;&plus;&space;\beta&space;_{2}x_{2}&space;&plus;&space;\epsilon&space;" title="y = \beta _{0} + \beta _{1}x_{1} + \beta _{2}x_{2} + \epsilon " width="250" height="50">  
 
 ## Author:  
 ### * Tin Hang  
