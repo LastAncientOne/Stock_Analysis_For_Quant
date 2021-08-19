@@ -12,7 +12,7 @@ Use this model to predict numerical such as continuous and discrete data.
 
 #### Equations:  
 #### Linear Regression Equation  
-<img src="https://latex.codecogs.com/svg.image?y&space;=&space;b_{0}&space;&plus;&space;b_{1}x" title="y = b_{0} + b_{1}x" width="250" height="50">   
+<img src="https://latex.codecogs.com/svg.image?y&space;=&space;b_{0}&space;&plus;&space;b_{1}x" title="y = b_{0} + b_{1}x" width="200" height="50">   
 <img src="https://latex.codecogs.com/svg.image?y&space;=&space;\alpha&space;&plus;&space;\beta&space;x" title="y = \alpha + \beta x" width="200" height="50">  
 
 #### Mulitple Linear Regression Equation  
