@@ -25,7 +25,7 @@ Use this model to predict numerical such as continuous and discrete data.
 Logistic Regression is a predictive modelling algorithm.  Use this model to predict the class or category.  
 
 #### Equations: 
-<img src="https://latex.codecogs.com/svg.image?p&space;=&space;\frac{1}{e^-(b_{0}&space;&plus;&space;b_{1}*x)}" title="p = \frac{1}{e^-(b_{0} + b_{1}*x)}" width="100" height="500">   
+<img src="https://latex.codecogs.com/svg.image?p&space;=&space;\frac{1}{e^-(b_{0}&space;&plus;&space;b_{1}*x)}" title="p = \frac{1}{e^-(b_{0} + b_{1}*x)}" width="300" height="100">   
 
 
 ### Decision Tree
