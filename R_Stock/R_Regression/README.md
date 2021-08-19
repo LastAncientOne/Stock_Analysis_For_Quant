@@ -35,7 +35,7 @@ Use this model to predict numerical such as class and category or continuous and
 (2)	Continuous Variable Decision Tree – Continuous or Discrete data  
 
 #### Equations:  
-<img src="https://latex.codecogs.com/svg.image?E(S)&space;=&space;\sum_{i=1}^{c}&space;-p_{i}log_{2}p_{i}&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;" title="E(S) = \sum_{i=1}^{c} -p_{i}log_{2}p_{i} " width="500" height="60">
+<img src="https://latex.codecogs.com/svg.image?E(S)&space;=&space;\sum_{i=1}^{c}&space;-p_{i}log_{2}p_{i}&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;" title="E(S) = \sum_{i=1}^{c} -p_{i}log_{2}p_{i} " width="300" height="100">
 
 
 ### Bayesian Linear Regression  
