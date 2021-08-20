@@ -45,5 +45,9 @@ Equation
 
 <img src="https://latex.codecogs.com/svg.image?y&space;=&space;\beta&space;_{0}&space;&plus;&space;&space;\beta&space;_{1}x_{1}&space;&plus;&space;\beta&space;_{2}x_{2}&space;&plus;&space;\epsilon&space;" title="y = \beta _{0} + \beta _{1}x_{1} + \beta _{2}x_{2} + \epsilon " width="500" height="60">  
 
+### Ordinal Regression  
+Ordinal Logistic Regression is a method to use interactions between independent variables to predict the dependent variable.  
+Use this model to predict an ordinal dependent variable given one or more independent variables.  
+
 ## Author:  
 ### * Tin Hang  
