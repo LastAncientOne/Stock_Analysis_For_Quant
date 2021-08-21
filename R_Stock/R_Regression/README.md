@@ -55,6 +55,9 @@ Equation
 ### Quantile Regression  
 Ordinal Logistic Regression is algorithm is used for finding the relationships between variables outside of the mean of the data, making it useful in understanding outcomes that are non-normally distributed and that have nonlinear relationships with predictor variables. Use this model to predict continuous or classification data.  
 
+Equation  
+
+
 
 ### Ordinal Regression  
 Ordinal Logistic Regression is a method to use interactions between independent variables to predict the dependent variable.  
