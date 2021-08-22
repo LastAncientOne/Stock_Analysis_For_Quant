@@ -6,7 +6,7 @@
 
 ### Mean Squared Error (MSE)  
 Mean Square Error (MSE) is a mean or average of the square of the difference between actual and estimated values.    
-Equations:
+Equations:  
 <img src="https://latex.codecogs.com/svg.image?y&space;=&space;b_{0}&space;&plus;&space;b_{1}x" title="MSE = \frac{1}{n}\sum_{i=1}^{n}(y_{i} - \hat{y_{i}})^{2}" width="200" height="50">   
 
 ### Linear Regression  
