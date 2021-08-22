@@ -4,6 +4,8 @@
 
 ### Regression Analysis is a statistical method that explore the relationship between two or more variables. There many different types of regression analysis; however, they all have one or more independent variables on a dependent variable.  
 
+### MSE, MAE, RMSE, and R-Squared metrics are mainly used to evaluate the prediction error rates and model performance in regression analysis.  
+
 ### Mean Squared Error (MSE)  
 Mean Square Error (MSE) is a mean or average of the square of the difference between actual and estimated values.    
 Equations:  
