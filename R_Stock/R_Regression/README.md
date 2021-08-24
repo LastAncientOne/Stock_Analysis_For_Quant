@@ -18,8 +18,8 @@ y ̂_i = predicted values
 
 
 ### Root Mean Squared Error (RMSE)
-Root Mean Square Error (MSE) is the residual (difference between prediction and truth) for each data point, compute the norm of residual for each data point, compute the mean of residuals and take the square root of that mean.
-Equations:
+Root Mean Square Error (MSE) is the residual (difference between prediction and truth) for each data point, compute the norm of residual for each data point, compute the mean of residuals and take the square root of that mean.  
+Equations:  
 <img src="https://latex.codecogs.com/svg.image?RMSE&space;=&space;\sqrt{\sum_{i=1}^{n}\frac{(y_{i}-\hat{y}_i)^{2}}{n}}" title="RMSE = \sqrt{\sum_{i=1}^{n}\frac{(y_{i}-\hat{y}_i)^{2}}{n}}" width="300" height="100">
 
 ### Linear Regression  
