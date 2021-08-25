@@ -28,6 +28,10 @@ x_i = actual observations time series
 x ̂_i = estimated time series  
 
 
+### Mean Absolute Error (MAE)  
+Mean Absolute Error (MAE) is a method to find the sum of the absolute difference between actual and predicted values.  
+
+
 ### Linear Regression  
 Linear Regression is a linear model or linear regression algorithm, and mostly common used. The linear relationship between the input variables (x) and the single output variable (y). 
 Use this model to predict numerical such as continuous and discrete data.  
