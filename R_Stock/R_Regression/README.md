@@ -94,5 +94,10 @@ Equation
 Ordinal Logistic Regression is a method to use interactions between independent variables to predict the dependent variable.  
 Use this model to predict an ordinal dependent variable given one or more independent variables.  
 
+### Random Forest Regression  
+Random Forest Regression is algorithm that performed both regression and classification tasks with the use of multiple decision trees. The technique is called Bootstrap and Aggregation, commonly known as bagging.  
+Use this model to predict continuous or classification data.  
+
+
 ## Author:  
 ### * Tin Hang  
