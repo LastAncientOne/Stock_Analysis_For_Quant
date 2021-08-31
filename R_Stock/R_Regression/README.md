@@ -33,6 +33,9 @@ Mean Absolute Error (MAE) is a method to find the sum of the absolute difference
 Equations:  
 <img src="https://latex.codecogs.com/svg.image?MSE&space;=&space;\frac{1}{n}\sum_{i=1}^{n}(y_{i}&space;-&space;\hat{y_{i}})^{2}" title="MSE = \frac{1}{n}\sum_{i=1}^{n}(y_{i} - \hat{y_{i}})^{2}" width="300" height="100">  
 
+### R Squared (R2)  
+R2 or R Squared is a coefficient of determination and it is the total variance calculated by model/total variance.  
+
 
 ### Linear Regression  
 Linear Regression is a linear model or linear regression algorithm, and mostly common used. The linear relationship between the input variables (x) and the single output variable (y). 
