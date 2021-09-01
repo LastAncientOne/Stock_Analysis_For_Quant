@@ -16,6 +16,7 @@ n = number of data points
 y_i = observed vales  
 y ̂_i = predicted values  
 
+
 ### Root Mean Squared Error (RMSE)
 Root Mean Square Error (MSE) is the residual (difference between prediction and truth) for each data point, compute the norm of residual for each data point, compute the mean of residuals and take the square root of that mean.  
 Equations:  
@@ -32,6 +33,12 @@ x ̂_i = estimated time series
 Mean Absolute Error (MAE) is a method to find the sum of the absolute difference between actual and predicted values.  
 Equations:  
 <img src="https://latex.codecogs.com/svg.image?MSE&space;=&space;\frac{1}{n}\sum_{i=1}^{n}(y_{i}&space;-&space;\hat{y_{i}})^{2}" title="MSE = \frac{1}{n}\sum_{i=1}^{n}(y_{i} - \hat{y_{i}})^{2}" width="300" height="100">  
+
+MAE = mean absolute error  
+n = total number of data points  
+x_i = prediction  
+y_i = true value  
+
 
 ### R Squared (R2)  
 R2 or R Squared is a coefficient of determination and it is the total variance calculated by model/total variance.  
