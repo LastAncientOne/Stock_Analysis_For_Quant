@@ -85,7 +85,7 @@ Use this model to predict numerical such as class and category or continuous and
 #### Equations:  
 <img src="https://latex.codecogs.com/svg.image?E(S)&space;=&space;\sum_{i=1}^{c}&space;-p_{i}log_{2}p_{i}&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;" title="E(S) = \sum_{i=1}^{c} -p_{i}log_{2}p_{i} " width="300" height="100">  
 
-<img src="https://latex.codecogs.com/svg.image?Gain(T,&space;X)&space;=&space;Entropy(T)&space;-&space;Entropy(T,X)" title="Gain(T, X) = Entropy(T) - Entropy(T,X)" width="300" height="100">  
+<img src="https://latex.codecogs.com/svg.image?Gain(T,&space;X)&space;=&space;Entropy(T)&space;-&space;Entropy(T,X)" title="Gain(T, X) = Entropy(T) - Entropy(T,X)" width="500" height="50">  
 
 ### Bayesian Linear Regression  
 Bayesian Linear Regression is algorithm that uses probability distributions rather than point estimates. Use the model to predict the continuous or category. 
