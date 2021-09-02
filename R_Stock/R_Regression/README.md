@@ -46,6 +46,11 @@ R2 or R Squared is a coefficient of determination and it is the total variance c
 Equations:  
 <img src="https://latex.codecogs.com/svg.image?R^{2}&space;=&space;1&space;-&space;\frac{SS_{RES}}{SS_{TOT}}&space;=&space;1&space;-&space;\frac{\sum_{i}(y_{i}-\hat{y}_i)^2}{\sum_{i}(y_{i}-\bar{y}_i)^2}" title="R^{2} = 1 - \frac{SS_{RES}}{SS_{TOT}} = 1 - \frac{\sum_{i}(y_{i}-\hat{y}_i)^2}{\sum_{i}(y_{i}-\bar{y}_i)^2}" width="300" height="100">  
 
+R^2 = coefficient of determination  
+RSS = sum of squares of residuals  
+TSS = total sum of squares   
+
+
 ### Linear Regression  
 Linear Regression is a linear model or linear regression algorithm, and mostly common used. The linear relationship between the input variables (x) and the single output variable (y). 
 Use this model to predict numerical such as continuous and discrete data.  
