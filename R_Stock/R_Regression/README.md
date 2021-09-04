@@ -46,7 +46,7 @@ R2 or R Squared is a coefficient of determination and it is the total variance c
 Equations:  
 <img src="https://latex.codecogs.com/svg.image?R^{2}&space;=&space;1&space;-&space;\frac{RSS}{TSS}&space;=&space;1&space;-&space;\frac{\sum_{i}(y_{i}-\hat{y}_i)^2}{\sum_{i}(y_{i}-\bar{y}_i)^2}" title="R^{2} = 1 - \frac{RSS}{TSS} = 1 - \frac{\sum_{i}(y_{i}-\hat{y}_i)^2}{\sum_{i}(y_{i}-\bar{y}_i)^2}" width="400" height="100">  
 
-<img src="https://latex.codecogs.com/svg.image?RSS&space;=&space;\sum_{i}^{n}(y_{i}-\hat{y}_i)^2" title="RSS = \sum_{i}^{n}(y_{i}-\hat{y}_i)^2" width="400" height="100">
+<img src="https://latex.codecogs.com/svg.image?RSS&space;=&space;\sum_{i}^{n}(y_{i}-\hat{y}_i)^2" title="RSS = \sum_{i}^{n}(y_{i}-\hat{y}_i)^2" width="300" height="100">
 
 R^2 = coefficient of determination  
 RSS = sum of squares of residuals  
