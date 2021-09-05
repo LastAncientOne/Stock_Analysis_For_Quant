@@ -93,6 +93,14 @@ Use this model to predict numerical such as class and category or continuous and
 (1)	Categorical Variable Decision Tree – Class or Category data  
 (2)	Continuous Variable Decision Tree – Continuous or Discrete data  
 
+### Information Theory    
+Information theory studies the quantification of information, its storage, and communication. There are two concepts that are used to construct a decision tree using ID3 algorithm is called information entropy and information gain.    
+### Information Entropy  
+Information Entropy is a measurement of the smallest amount of information to represent a data item from that data.  
+### Information Gain  
+Information Gain is calculated for a split by subtracting the weighted entropies of each branch from the original entropy. When training a Decision Tree using these metrics, the best split is chosen by maximizing Information Gain.  
+
+
 #### Equations:  
 <img src="https://latex.codecogs.com/svg.image?E(S)&space;=&space;\sum_{i=1}^{c}&space;-p_{i}log_{2}p_{i}&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;" title="E(S) = \sum_{i=1}^{c} -p_{i}log_{2}p_{i} " width="300" height="100">  
 
