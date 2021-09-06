@@ -78,7 +78,7 @@ Use this model to predict numerical such as continuous and discrete data.
 <img src="https://latex.codecogs.com/svg.image?y&space;=&space;b_{0}&space;&plus;&space;b_{1}x_{1}&space;&plus;&space;b_{2}&space;x_{2}&space;&plus;&space;...&space;&plus;&space;b_{n}&space;x_{n}" title="y = b_{0} + b_{1}x_{1} + b_{2} x_{2} + ... + b_{n} x_{n}" width="500" height="50">   
 
 #### Polynomial Linear Regression Equation  
-<img src="https://latex.codecogs.com/svg.image?y&space;=&space;b_{0}&space;&plus;&space;b_{1}x_{1}&space;&plus;&space;b_{2}x_{1}^{2}&space;&plus;&space;...&space;&plus;&space;b_{n}x_{1}^{n}&space;" title="y = b_{0} + b_{1}x_{1} + b_{2}x_{1}^{2} + ... + b_{n}x_{1}^{n}" width="500" height="50">  
+<img src="https://latex.codecogs.com/svg.image?y&space;=&space;b_{0}&space;&plus;&space;b_{1}x_{1}&space;&plus;&space;b_{2}x_{1}^{2}&space;&plus;&space;...&space;&plus;&space;b_{n}x_{1}^{n}&space;" title="y = b_{0} + b_{1}x_{1} + b_{2}x_{1}^{2} + ... + b_{n}x_{1}^{n}" width="200" height="50">  
 
 ### Logistic Regression
 Logistic Regression is a predictive modelling algorithm.  Use this model to predict the class or category.  
