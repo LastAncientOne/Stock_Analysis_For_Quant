@@ -105,7 +105,7 @@ Information Gain is calculated for a split by subtracting the weighted entropies
 <img src="https://latex.codecogs.com/svg.image?E(S)&space;=&space;\sum_{i=1}^{c}&space;-p_{i}log_{2}p_{i}&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;" title="E(S) = \sum_{i=1}^{c} -p_{i}log_{2}p_{i} " width="300" height="100">  
 
 <img src="https://latex.codecogs.com/svg.image?Gain(T,&space;X)&space;=&space;Entropy(T)&space;-&space;Entropy(T,X)" title="Gain(T, X) = Entropy(T) - Entropy(T,X)" width="500" height="50">  
-<img src="https://latex.codecogs.com/svg.image?Entropy(T,&space;X)&space;=&space;\sum_{v\in&space;&space;Values(A)}^{}\frac{\left|&space;S_{v}\right|}{\left|S&space;\right|}Entropy(S_{v})" title="Entropy(T, X) = \sum_{v\in Values(A)}^{}\frac{\left| S_{v}\right|}{\left|S \right|}Entropy(S_{v})" width="300" height="100">
+<img src="https://latex.codecogs.com/svg.image?Entropy(T,&space;X)&space;=&space;\sum_{v\in&space;&space;Values(A)}^{}\frac{\left|&space;S_{v}\right|}{\left|S&space;\right|}Entropy(S_{v})" title="Entropy(T, X) = \sum_{v\in Values(A)}^{}\frac{\left| S_{v}\right|}{\left|S \right|}Entropy(S_{v})" width="300" height="200">
 
 ### Bayesian Linear Regression  
 Bayesian Linear Regression is algorithm that uses probability distributions rather than point estimates. Use the model to predict the continuous or category. 
