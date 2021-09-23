@@ -133,7 +133,7 @@ Ordinal Logistic Regression is a method to use interactions between independent 
 Use this model to predict an ordinal dependent variable given one or more independent variables.  
 
 ### Random Forest Regression  
-Random Forest Regression is algorithm that performed both regression and classification tasks with the use of multiple decision trees. The technique is called Bootstrap and Aggregation, commonly known as bagging.  
+Random Forest Regression is algorithm that performed both classification and regression tasks with the use of multiple decision trees. The technique is called Bootstrap and Aggregation, commonly known as bagging.  
 Use this model to predict continuous or classification data.  
 
 ### Ridge Regression  
