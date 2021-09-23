@@ -139,8 +139,8 @@ Use this model to predict continuous or classification data.
 ### Ridge Regression  
 Ridge Regression is algorithm that used to analyses any data that suffers from multicollinearity and it performs L2 regularization. If the multicollinearity occurs in the model, least-squares are unbiased, and variances are large. Therefore, results in predicted values to be far away from the actual values.  
 
-### Support Vector Machines
-Support Vector Machines is a supervised machine learning algorithm that performed both classification and regression. Also, is a linear model for classification and regression problems.  As a result, classification and regression.  
+### Support Vector Machines  
+Support Vector Machines is a supervised machine learning algorithm that performed both classification and regression. Also, is a linear model for classification and regression problems.  As a result, classification and regression.    
 
 
 ## Author:  
