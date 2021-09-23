@@ -136,6 +136,8 @@ Use this model to predict an ordinal dependent variable given one or more indepe
 Random Forest Regression is algorithm that performed both regression and classification tasks with the use of multiple decision trees. The technique is called Bootstrap and Aggregation, commonly known as bagging.  
 Use this model to predict continuous or classification data.  
 
+### Ridge Regression  
+Ridge Regression is algorithm that used to analyses any data that suffers from multicollinearity and it performs L2 regularization. If the multicollinearity occurs in the model, least-squares are unbiased, and variances are large. Therefore, results in predicted values to be far away from the actual values.  
 
 ## Author:  
 ### * Tin Hang  
