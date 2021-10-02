@@ -110,21 +110,21 @@ Information Gain is calculated for a split by subtracting the weighted entropies
 ### Bayesian Linear Regression  
 Bayesian Linear Regression is algorithm that uses probability distributions rather than point estimates. Use the model to predict the continuous or category. 
 
-Equation
+#### Equations:  
 
 <img src="https://latex.codecogs.com/svg.image?y&space;=&space;\beta&space;_{0}&space;&plus;&space;&space;\beta&space;_{1}x_{1}&space;&plus;&space;\beta&space;_{2}x_{2}&space;&plus;&space;\epsilon&space;" title="y = \beta _{0} + \beta _{1}x_{1} + \beta _{2}x_{2} + \epsilon " width="500" height="60">  
 
 ### Elastic Net Regression
 Ordinal Logistic Regression is algorithm uses a weighted combination of L1 and L2 regularization. Use this model to predict continuous data. 
 
-Equation  
+#### Equations:  
 
 <img src="https://latex.codecogs.com/svg.image?L_{enet}(&space;\hat{\beta})&space;=&space;\frac{\sum_{i-1}^{n}\left&space;(&space;y_{i}&space;-&space;x_{i}^{j}\hat{\beta}\right&space;&space;)^{2}}{2n}&space;&plus;&space;\lambda&space;(\frac{1-\alpha&space;}{2}\sum_{j=1}^{m}\hat{\beta}_{j}^{2}&space;&plus;&space;\alpha&space;\sum_{j=1}^{m}\left|\hat{\beta}_{j}\right|)" title="L_{enet}( \hat{\beta}) = \frac{\sum_{i-1}^{n}\left ( y_{i} - x_{i}^{j}\hat{\beta}\right )^{2}}{2n} + \lambda (\frac{1-\alpha }{2}\sum_{j=1}^{m}\hat{\beta}_{j}^{2} + \alpha \sum_{j=1}^{m}\left|\hat{\beta}_{j}\right|)" width="700" height="100">  
 
 ### Quantile Regression  
 Ordinal Logistic Regression is algorithm and is used for finding the relationships between variables outside of the mean of the data.  Also, it is useful in understanding outcomes that are non-normally distributed and that have nonlinear relationships with predictor variables. Use this model to predict continuous or classification data.  
 
-Equation  
+#### Equations:    
 
 <img src="https://latex.codecogs.com/svg.image?Q_{\tau}(y_{i})&space;=&space;\beta&space;_{0}(\tau&space;)&space;&plus;&space;\beta&space;_{1}(\tau&space;)x_{i1}&space;&plus;&space;...&space;&plus;&space;\beta&space;_{p}(\tau&space;)x_{ip}" title="Q_{\tau}(y_{i}) = \beta _{0}(\tau ) + \beta _{1}(\tau )x_{i1} + ... + \beta _{p}(\tau )x_{ip}" width="700" height="100">  
 
