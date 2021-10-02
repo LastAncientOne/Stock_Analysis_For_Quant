@@ -133,7 +133,7 @@ Ordinal Logistic Regression is a method to use interactions between independent 
 Use this model to predict an ordinal dependent variable given one or more independent variables.  
 
 #### Equations:  
-<img src="https://latex.codecogs.com/svg.image?In(\theta&space;_j)&space;=&space;\alpha&space;_j&space;-&space;\beta&space;X" title="In(\theta _j) = \alpha _j - \beta X" width="700" height="100">
+<img src="https://latex.codecogs.com/svg.image?In(\theta&space;_j)&space;=&space;\alpha&space;_j&space;-&space;\beta&space;X" title="In(\theta _j) = \alpha _j - \beta X" width="300" height="100">
 
 ### Random Forest Regression  
 Random Forest Regression is algorithm that performed both classification and regression tasks with the use of multiple decision trees. The technique is called Bootstrap and Aggregation, commonly known as bagging.  
