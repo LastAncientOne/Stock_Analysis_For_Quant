@@ -127,6 +127,8 @@ Ordinal Logistic Regression is algorithm and is used for finding the relationshi
 #### Equations:    
 
 <img src="https://latex.codecogs.com/svg.image?Q_{\tau}(y_{i})&space;=&space;\beta&space;_{0}(\tau&space;)&space;&plus;&space;\beta&space;_{1}(\tau&space;)x_{i1}&space;&plus;&space;...&space;&plus;&space;\beta&space;_{p}(\tau&space;)x_{ip}" title="Q_{\tau}(y_{i}) = \beta _{0}(\tau ) + \beta _{1}(\tau )x_{i1} + ... + \beta _{p}(\tau )x_{ip}" width="700" height="100">  
+#### Equations:  
+<img src="https://latex.codecogs.com/svg.image?In(\theta&space;_j)&space;=&space;\alpha&space;_j&space;-&space;\beta&space;X" title="In(\theta _j) = \alpha _j - \beta X" >
 
 ### Ordinal Regression  
 Ordinal Logistic Regression is a method to use interactions between independent variables to predict the dependent variable.  
