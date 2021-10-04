@@ -137,17 +137,17 @@ Use this model to predict an ordinal dependent variable given one or more indepe
 
 ### Random Forest Regression  
 Random Forest Regression is algorithm that performed both classification and regression tasks with the use of multiple decision trees. The technique is called Bootstrap and Aggregation, commonly known as bagging.  
-Use this model to predict continuous or classification data.  
+Use this model to predict continuous or ccategorical data.  
 
 ### Ridge Regression  
-Ridge Regression is algorithm that used to analyses any data that suffers from multicollinearity and it performs L2 regularization. If the multicollinearity occurs in the model, least-squares are unbiased, and variances are large. Therefore, results in predicted values to be far away from the actual values.  
+Ridge Regression is algorithm that used to analyses any data that suffers from multicollinearity and it performs L2 regularization. If the multicollinearity occurs in the model, least-squares are unbiased, and variances are large. Therefore, results in predicted values to be far away from the actual values. Use this model to predict continuous or ccategorical data.  
 
 ### Support Vector Machines  
-Support Vector Machines is a supervised machine learning algorithm that performed both classification and regression. Also, is a linear model for classification and regression problems.  As a result, classification and regression.    
+Support Vector Machines is a supervised machine learning algorithm that performed both classification and regression. Also, is a linear model for classification and regression problems.  As a result, classification and regression. Use this model to predict continuous or ccategorical data.     
 
 ### Tobit Regression    
 Tobit Regression is algorithm is a class of regression models in the observed range of the dependent variable is censored in some way.  
-Use this model to predict continuous or classification data.  
+Use this model to predict continuous or ccategorical data.   
 
 
 ## Author:  
