@@ -145,6 +145,10 @@ Ridge Regression is algorithm that used to analyses any data that suffers from m
 ### Support Vector Machines  
 Support Vector Machines is a supervised machine learning algorithm that performed both classification and regression. Also, is a linear model for classification and regression problems.  As a result, classification and regression.    
 
+### Tobit Regression    
+Tobit Regression is algorithm is a class of regression models in the observed range of the dependent variable is censored in some way.  
+Use this model to predict continuous or classification data.  
+
 
 ## Author:  
 ### * Tin Hang  
