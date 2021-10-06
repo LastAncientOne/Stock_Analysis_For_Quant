@@ -27,7 +27,7 @@ y ̂_i = predicted values
 
 ### Root Mean Squared Error (RMSE)
 Root Mean Square Error (MSE) is the residual (difference between prediction and truth) for each data point, compute the norm of residual for each data point, compute the mean of residuals and take the square root of that mean.  
-Equations:  
+#### Equations:  
 <img src="https://latex.codecogs.com/svg.image?RMSE&space;=&space;\sqrt{\sum_{i=1}^{n}\frac{(y_{i}-\hat{y}_i)^{2}}{n}}" title="RMSE = \sqrt{\sum_{i=1}^{n}\frac{(y_{i}-\hat{y}_i)^{2}}{n}}" width="300" height="100">
 
 RMSE = root-mean-squared error  
@@ -51,7 +51,7 @@ y_i = true value
 ### R Squared (R2)  
 R2 or R Squared is a coefficient of determination and it is the total variance calculated by model/total variance.  
 
-Equations:  
+#### Equations:  
 <img src="https://latex.codecogs.com/svg.image?R^{2}&space;=&space;1&space;-&space;\frac{RSS}{TSS}&space;=&space;1&space;-&space;\frac{\sum_{i}(y_{i}-\hat{y}_i)^2}{\sum_{i}(y_{i}-\bar{y}_i)^2}" title="R^{2} = 1 - \frac{RSS}{TSS} = 1 - \frac{\sum_{i}(y_{i}-\hat{y}_i)^2}{\sum_{i}(y_{i}-\bar{y}_i)^2}" width="400" height="100">  
 
 <img src="https://latex.codecogs.com/svg.image?RSS&space;=&space;\sum_{i}^{n}(y_{i}-\hat{y}_i)^2" title="RSS = \sum_{i}^{n}(y_{i}-\hat{y}_i)^2" width="300" height="100">  
