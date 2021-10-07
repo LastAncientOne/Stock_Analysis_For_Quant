@@ -150,7 +150,7 @@ Tobit Regression is algorithm is a class of regression models in the observed ra
 Use this model to predict continuous or categorical data.   
 #### Equations:  
 <img src="https://latex.codecogs.com/svg.image?y_{i}^{*}&space;=&space;\beta&space;^{t}x_{i}&space;&plus;&space;e_{i}&space;" title="y_{i}^{*} = \beta ^{t}x_{i} + e_{i} " width="300" height="100">
-
+<img src="https://latex.codecogs.com/svg.image?y_{i}&space;=&space;y_{i}^{*}&space;=&space;\begin{Bmatrix}&space;&space;y_{i}&space;=&space;y_{i}^{*}&space;&&space;if&space;&space;&&space;y_{i}^{*}&space;>&space;&space;0&space;&space;\\&space;y_{i}&space;=&space;0&space;&&space;if&space;&space;&&space;y_{i}^{*}&space;\leq&space;&space;0&space;\end{Bmatrix}" title="y_{i} = y_{i}^{*} = \begin{Bmatrix} y_{i} = y_{i}^{*} & if & y_{i}^{*} > 0 \\ y_{i} = 0 & if & y_{i}^{*} \leq 0 \end{Bmatrix}" width="300" height="100">
 
 ## Author:  
 ### * Tin Hang  
