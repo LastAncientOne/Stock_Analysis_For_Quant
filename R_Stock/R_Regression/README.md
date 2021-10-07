@@ -143,7 +143,8 @@ Use this model to predict continuous or categorical data.
 Ridge Regression is algorithm that used to analyses any data that suffers from multicollinearity and it performs L2 regularization. If the multicollinearity occurs in the model, least-squares are unbiased, and variances are large. Therefore, results in predicted values to be far away from the actual values. Use this model to predict continuous or categorical data.  
 
 ### Support Vector Machines  
-Support Vector Machines is a supervised machine learning algorithm that performed both classification and regression. Also, is a linear model for classification and regression problems.  As a result, classification and regression. Use this model to predict continuous or categorical data.     
+Support Vector Machines is a supervised machine learning algorithm that performed both classification and regression. Also, is a linear model for classification and regression problems.  As a result, classification and regression. Use this model to predict continuous or categorical data.  
+#### Equations:  
 <img src="https://latex.codecogs.com/svg.image?\frac{1}{2}\begin{Vmatrix}x\end{Vmatrix}^{2}&space;&plus;&space;C\sum_{i=1}^{N}(\xi&space;_{i}&plus;\xi&space;_{*}^{i})" title="\frac{1}{2}\begin{Vmatrix}x\end{Vmatrix}^{2} + C\sum_{i=1}^{N}(\xi _{i}+\xi _{*}^{i})" width="300" height="100">
 ### Tobit Regression    
 Tobit Regression is algorithm is a class of regression models in the observed range of the dependent variable is censored in some way.  
