@@ -148,6 +148,8 @@ Support Vector Machines is a supervised machine learning algorithm that performe
 ### Tobit Regression    
 Tobit Regression is algorithm is a class of regression models in the observed range of the dependent variable is censored in some way.  
 Use this model to predict continuous or categorical data.   
+#### Equations:  
+<img src="https://latex.codecogs.com/svg.image?y_{i}^{*}&space;=&space;\beta&space;^{t}x_{i}&space;&plus;&space;e_{i}&space;" title="y_{i}^{*} = \beta ^{t}x_{i} + e_{i} " />
 
 
 ## Author:  
