@@ -18,10 +18,11 @@ This will help you find particular candlesticks in the historical data and in th
 
 ### Books about Japnese Candlestick  
 #### Japanese Candlestick Charting Techniques, Second Edition by Steve Nison 
-![alt text](https://user-images.githubusercontent.com/4218171/136717472-cde8cb91-6b89-4efc-8df8-853919aef642.png)  
+![alt text](https://user-images.githubusercontent.com/4218171/136717472-cde8cb91-6b89-4efc-8df8-853919aef642.png)    
 #### Beyond Candlesticks: New Japanese Charting Techniques Revealed by Steve Nison  
-![alt text](https://user-images.githubusercontent.com/4218171/136717516-60c53ea5-a8db-4870-91cc-33ba9717a027.png)
+![alt text](https://user-images.githubusercontent.com/4218171/136717516-60c53ea5-a8db-4870-91cc-33ba9717a027.png)  
 #### The Candlestick Course 1st Edition by Steve Nison  
+![alt text](https://user-images.githubusercontent.com/4218171/136717544-527e2438-70f3-4c9a-80e1-a5f8d4113066.png)  
 
 ## Author  
 ### * Tin Hang  
