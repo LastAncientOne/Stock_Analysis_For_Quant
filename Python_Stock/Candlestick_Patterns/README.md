@@ -20,7 +20,7 @@ This will help you find particular candlesticks in the historical data and in th
 #### Japanese Candlestick Charting Techniques, Second Edition by Steve Nison 
 ![alt text](https://cdn.shopify.com/s/files/1/0084/5972/products/JCCT_x700.jpg?v=1355352145)
 #### Beyond Candlesticks: New Japanese Charting Techniques Revealed by Steve Nison  
-![alt text](https://media.wiley.com/product_data/coverImage300/0X/04710072/047100720X.jpg)
+![alt text](https://images-na.ssl-images-amazon.com/images/I/41YI+SUXLfS._SY344_BO1,204,203,200_.jpg)
 #### The Candlestick Course 1st Edition by Steve Nison  
 
 ## Author  
