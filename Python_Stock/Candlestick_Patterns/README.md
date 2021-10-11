@@ -27,4 +27,5 @@ This will help you find particular candlesticks in the historical data and in th
 ## Author  
 ### * Tin Hang  
 
+## 🔴 Candlestick chart is accurate based on the prices: the open, low, high, and close prices.  However, candlestick pattern to predict future price is not very.  
 ## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
