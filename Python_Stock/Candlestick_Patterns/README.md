@@ -16,6 +16,11 @@ from mplfinance.original_flavor import candlestick_ohlc
 
 This will help you find particular candlesticks in the historical data and in the chart.  
 
+### Books about JPnese Candlestick  
+#### Japanese Candlestick Charting Techniques, Second Edition by Steve Nison 
+#### Beyond Candlesticks: New Japanese Charting Techniques Revealed by Steve Nison  
+#### The Candlestick Course 1st Edition by Steve Nison  
+
 ## Author  
 ### * Tin Hang  
 
