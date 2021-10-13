@@ -16,6 +16,11 @@ from mplfinance.original_flavor import candlestick_ohlc
 
 This will help you find particular candlesticks in the historical data and in the chart.  
 
+### Website Links:
+https://school.stockcharts.com/doku.php?id=chart_analysis:introduction_to_candlesticks  
+https://en.wikipedia.org/wiki/Candlestick_pattern  
+
+
 ### Books about Japnese Candlestick  
 #### Japanese Candlestick Charting Techniques, Second Edition by Steve Nison 
 ![alt text](https://user-images.githubusercontent.com/4218171/136717472-cde8cb91-6b89-4efc-8df8-853919aef642.png)    
