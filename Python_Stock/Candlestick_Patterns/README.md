@@ -3,6 +3,8 @@
 
 # Candlestick in Python
 
+<img src="CandlestickPattern.PNG">
+
 ## Candlestick Libraries
 https://github.com/matplotlib/mplfinance  
 https://github.com/mrjbq7/ta-lib   
