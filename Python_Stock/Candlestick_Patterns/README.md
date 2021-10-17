@@ -4,6 +4,8 @@
 # Candlestick in Python
 
 <img src="CandlestickPattern.PNG">
+<img src="Candlestick1.PNG">
+<img src="Candlestick2.PNG">
 
 ## Candlestick Libraries
 https://github.com/matplotlib/mplfinance  
