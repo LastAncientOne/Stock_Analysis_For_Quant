@@ -12,10 +12,9 @@ https://facebook.github.io/prophet/
 https://github.com/facebook/prophet  
 from prophet import Prophet  
 
-import pastas as ps  
 https://pastas.readthedocs.io/en/latest/index.html  
 https://github.com/pastas/pastas  
-
+import pastas as ps  
 
 ## Author  
 ### * Tin Hang  
