@@ -2,6 +2,9 @@
 
 # Time Series Forecasting in Python
 
+## Description:  
+Time series forecasting is use for scientific predictions based on historical time stamped data. Building models through historical data analysis and using them to make observations and drive future strategic decision-making.  
+
 ## Libraries:
 https://orbit-ml.readthedocs.io/en/stable/  
 https://github.com/uber/orbit  
