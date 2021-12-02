@@ -25,6 +25,7 @@ import pastas as ps
 
 ### PyAF  
 https://github.com/antoinecarme/pyaf  
+import pyaf.ForecastEngine as autof   
 
 ## Author  
 ### * Tin Hang  
