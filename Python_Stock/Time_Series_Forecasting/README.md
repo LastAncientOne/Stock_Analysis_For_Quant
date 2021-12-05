@@ -9,9 +9,9 @@ Time series forecasting is use for scientific predictions based on historical ti
 
 ### Darts  
 https://github.com/unit8co/darts  
+from darts import TimeSeries
+from darts.models import ExponentialSmoothing
 
-  
-  
 ### Orbit  
 https://orbit-ml.readthedocs.io/en/stable/  
 https://github.com/uber/orbit  
