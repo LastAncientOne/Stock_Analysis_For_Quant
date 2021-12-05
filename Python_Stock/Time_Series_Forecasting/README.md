@@ -6,6 +6,11 @@
 Time series forecasting is use for scientific predictions based on historical time stamped data. Building or developing models through historical data analysis and using them to make observations and drive future strategic decision-making.  
 
 ## Libraries:  
+
+### Darts  
+https://github.com/unit8co/darts  
+
+  
   
 ### Orbit  
 https://orbit-ml.readthedocs.io/en/stable/  
