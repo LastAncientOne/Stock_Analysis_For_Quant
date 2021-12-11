@@ -5,6 +5,8 @@
 ## Description:  
 Time series forecasting is use for scientific predictions based on historical time stamped data. Building or developing models through historical data analysis and using them to make observations and drive future strategic decision-making.  
 
+Time series analysis is a statistical technique that analyze time series data or trend data. Time series data is a group of observations on a single entity over time; for example, the daily closing prices over one year for a single financial security.  
+
 ## Libraries:  
 
 ### Darts  
