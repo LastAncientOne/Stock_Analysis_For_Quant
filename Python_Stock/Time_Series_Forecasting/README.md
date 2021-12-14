@@ -12,6 +12,7 @@ ARIMA (Auto Regressive Integrated Moving Average) is a class of models that expl
 
 ### Auto Regressive (AR only) model Equations:  
 <img src="https://latex.codecogs.com/svg.image?Y_{t}&space;=&space;\alpha&space;&plus;&space;\beta_{1}Y_{t-1}&space;&plus;&space;\beta_{2}Y_{t-2}&space;&plus;&space;...&space;&plus;&space;\beta_{p}Y_{t-p}&space;&plus;&space;\epsilon_{1}" title="Y_{t} = \alpha + \beta_{1}Y_{t-1} + \beta_{2}Y_{t-2} + ... + \beta_{p}Y_{t-p} + \epsilon_{1}" width="600" height="100">  
+Moving Average (MA only) model is one where Yt depends only on the lagged forecast errors.  
 
 ## Libraries:  
 
