@@ -17,6 +17,13 @@ Moving Average (MA only) model is one where Yt depends only on the lagged foreca
 ### Moving Average (MA only) model Equations:  
 <img src="https://latex.codecogs.com/svg.image?Y_{t}&space;=&space;\alpha&space;&space;&plus;&space;\epsilon_{t}&space;&plus;&space;\phi_{1}\epsilon_{t-1}&space;&plus;&space;\phi_{2}\epsilon_{t-2}...&plus;&space;\phi_{q}\epsilon_{t-q}" title="Y_{t} = \alpha + \epsilon_{t} + \phi_{1}\epsilon_{t-1} + \phi_{2}\epsilon_{t-2}...+ \phi_{q}\epsilon_{t-q}" width="600" height="100">  
 
+Error terms are the errors of the autoregressive models of the respective lags.  
+
+### Error Terms Equations  
+
+
+
+
 ## Libraries:  
 
 ### Darts  
