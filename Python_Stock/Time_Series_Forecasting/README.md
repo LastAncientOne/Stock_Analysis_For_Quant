@@ -7,6 +7,9 @@ Time series forecasting is use for scientific predictions based on historical ti
 
 Time series analysis is a statistical technique that analyze time series data or trend data. Time series data is a group of observations on a single entity over time; for example, the daily closing prices over one year for a single financial security.  
 
+## Purpose:  
+To make the data from non-stationary to time series stationary.  
+
 #### ARIMA Models  
 ARIMA (Auto Regressive Integrated Moving Average) is a class of models that explains a given time series based on its own past values. The lags and the lagged forecast errors is the equation that can be used to forecast future values.  
 
