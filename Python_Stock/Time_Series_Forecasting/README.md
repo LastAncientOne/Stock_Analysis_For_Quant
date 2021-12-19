@@ -22,8 +22,7 @@ ARIMA (Auto Regressive Integrated Moving Average) is a class of models that expl
 <img src="https://latex.codecogs.com/svg.image?Y_{t}&space;=&space;\alpha&space;&space;&plus;&space;\epsilon_{t}&space;&plus;&space;\phi_{1}\epsilon_{t-1}&space;&plus;&space;\phi_{2}\epsilon_{t-2}...&plus;&space;\phi_{q}\epsilon_{t-q}" title="Y_{t} = \alpha + \epsilon_{t} + \phi_{1}\epsilon_{t-1} + \phi_{2}\epsilon_{t-2}...+ \phi_{q}\epsilon_{t-q}" width="600" height="100">  
 
 ### Error Terms   
-
-#### Error terms are the errors of the autoregressive models of the respective lags.  
+Error terms are the errors of the autoregressive models of the respective lags.  
 
 ### Error Terms Equations:    
 
