@@ -58,6 +58,14 @@ Power BI
 
 Tableau  
 
+### Download Software  
+https://www.python.org/  
+https://www.r-project.org/  
+https://www.mathworks.com/?s_tid=gn_logo  
+https://www.microsoft.com/en-us/microsoft-365/excel  
+https://powerbi.microsoft.com/en-us/downloads/  
+https://www.tableau.com/products/desktop/download  
+
 # List of Trading Strategies  
 #### Description: There are many various methods used to accomplish different strategy; therefore, each with appropriate market environments and risks inherent in the strategy. Trading strategy is a technique of buying and selling in the markets that is based on predefined rules used to make trading decisions.  
 :large_blue_diamond:  
