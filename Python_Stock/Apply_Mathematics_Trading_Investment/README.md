@@ -3,7 +3,7 @@
 #### Description:
 Profitable trading is more about applying math. Using math for tradin strategies.     
 Econometric Models (Forecasting and studying statistical significance)   
-EconoPhysics Models (Advance Research)  
+Econophysics Models (Advance Research)  
 Financial Engineering Models (trading, quantitative analysis and random simulation)  
 Asset Pricing Models (Risk-adjusted pricing, valuation and performance attribution analysis)  
 Financial Risk Management Models (hedging positions)  
