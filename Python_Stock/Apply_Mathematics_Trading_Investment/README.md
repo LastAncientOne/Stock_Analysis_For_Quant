@@ -1,7 +1,7 @@
 # Apply Mathematics in Trading and Investment
 
 #### Description:
-Profitable trading is more about applying math. Using math for tradin strategies.     
+Profitable trading is more about applying math. Using mathematics for trading strategies.     
 Econometric Models (Forecasting and studying statistical significance)   
 Econophysics Models (Advance Research)  
 Financial Engineering Models (trading, quantitative analysis and random simulation)  
