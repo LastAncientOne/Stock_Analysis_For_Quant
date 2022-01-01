@@ -167,7 +167,7 @@ Treynor Ratio
 Upside Potential Ratio  
 
 # List of Options Strategies     
-#### Description: Options Strategies are the simultaneous that is mixed with buying or selling of one or more options that differ in one or more of the options' variables.  
+#### Description: Options are contracts that give the buyer the right to buy or sell an amount of some underlying asset at a predetermined price at or before the contract expires. Options Strategies are the simultaneous that is mixed with buying or selling of one or more options that differ in one or more of the options' variables.  
 :large_blue_diamond:  
 Long Call  
 Long Put  
