@@ -33,6 +33,9 @@ Treynor Ratio
 Upside Potential Ratio  
 
 
+
 ## Author:    
-### Tin Hang  
+### * Tin Hang  
+
+## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
 
