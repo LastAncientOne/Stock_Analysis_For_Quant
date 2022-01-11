@@ -8,8 +8,8 @@
 ## Description:
 This Excel project has technical analysis, fundamental analysis, quantitative analysis, and different types of trading strategies. Many different types of risk-returns metrics, technical indicators and portfolio strategies. In addition, it has data analysis and data science for single stock and multiple stocks. Using statistical analysis such as hypothesis testing, t-test, R-Squared, Significant F, p-value, coefficient, F test and Durbin-Watson statistic for investing and trading. Creating VBA, macros, and complex formulas for stock analysis.    
 
-### Software  
-<img src="https://zapier-images.imgix.net/storage/services/296388d714e0dcd78105c9b165ca751e.png?auto=format&ixlib=react-9.0.2&ar=undefined&fit=crop&h=105&w=105&q=50&dpr=1g" alt="Excel" width="100" height="100"/>
+<h3 align="left"> Software:</h3>
+<p align="left"> </a> <img src="https://zapier-images.imgix.net/storage/services/296388d714e0dcd78105c9b165ca751e.png?auto=format&ixlib=react-9.0.2&ar=undefined&fit=crop&h=105&w=105&q=50&dpr=1g" alt="Excel" width="100" height="100"/>
 
 ### List of Stock Strategies and Investment  
 List of Technical Analysis  
