@@ -5,7 +5,7 @@
 ### Description:
 #### Collecting historical data or fundmental data. Analyzing stock data. Using techncial indicator in Power BI.   
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Software:</h3>
 <p align="left"> </a> <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png" alt="Power BI" width="100" height="100"/> </a> </p>
 
 ### Add Candlestick in Power BI  
