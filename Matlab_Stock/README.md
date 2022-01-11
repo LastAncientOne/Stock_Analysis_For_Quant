@@ -5,8 +5,8 @@
 ### Description:
 #### Collecting histocial or fundmental stock data, Analyzing stock data, and calculate daily returns in Matlab.   
 
-### Software
-</a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="100" height="100"/>
+<h3 align="left"> Software and Language:</h3>
+<p align="left"> </a>  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="100" height="100"/>
 
 ## Authors  
 ### * Tin Hang  
