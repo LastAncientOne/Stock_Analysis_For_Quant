@@ -8,6 +8,9 @@ Stock analysis is a method for investors to use (short or long term) and to make
 
 Trading strategies is a method for investors and traders to develop a strategies that works for them to gain profits. On the other hand, traders need to find the right method or strategies that works for them. :bar_chart:  
 
+<h3 align="left"> Software:</h3>
+<p align="left"> </a> <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png" alt="Power BI" width="100" height="100"/> </a> </p>
+
 ## Author  
 ### * Tin Hang  
 
