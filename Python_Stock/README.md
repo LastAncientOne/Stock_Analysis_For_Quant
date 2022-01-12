@@ -9,7 +9,8 @@ Stock analysis is a method for investors to use (short or long term) and to make
 Trading strategies is a method for investors and traders to develop a strategies that works for them to gain profits. On the other hand, traders need to find the right method or strategies that works for them. :bar_chart:  
 
 <h3 align="left"> Programming Language:</h3>
-<p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> 
+<p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>  
+
 ## Author  
 ### * Tin Hang  
 
