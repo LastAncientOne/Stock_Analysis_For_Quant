@@ -15,5 +15,5 @@
 #### (7) K-Means  
 #### (8) Random Forest  
 
-## Author:  
+## Author  
 ### * Tin Hang  
