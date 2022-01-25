@@ -52,9 +52,9 @@ R 3.0.0 +
 
 Matlab R2016a    
 
-Excel 2016   
+Excel 2016 Or Newer Version 
 
-Power BI  
+Power BI   
 
 Tableau  
 
