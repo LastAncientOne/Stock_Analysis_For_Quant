@@ -6,7 +6,14 @@
 
 ### Basic Machine Learning Algorithms  
 ### Commonly Used:  
-#### Linear Regression. Logistic Regression. Decision Tree. SVM. Naive Bayes. kNN. K-Means. Random Forest.
+#### (1) Linear Regression
+#### (2) Logistic Regression  
+#### (3) Decision Tree  
+#### (4) SVM    
+#### (5) Naive Bayes 
+#### (6) kNN  
+#### (7) K-Means  
+#### (8) Random Forest.
 
 ## Author:  
 ### * Tin Hang  
