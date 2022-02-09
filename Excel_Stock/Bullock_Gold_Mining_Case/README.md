@@ -1,3 +1,5 @@
+<img src="Goldmine.PNG">
+
 # Bullock Gold Mining Case  
  Mini-Case Study: Bullock Gold Mining
 
