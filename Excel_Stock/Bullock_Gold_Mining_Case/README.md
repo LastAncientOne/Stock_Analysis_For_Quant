@@ -1,4 +1,4 @@
-<img src="Goldmine.PNG">
+<img src="Gold_mine.PNG">
 
 # Bullock Gold Mining Case  
  Mini-Case Study: Bullock Gold Mining
