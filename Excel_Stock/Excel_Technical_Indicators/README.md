@@ -8,4 +8,10 @@ https://www.investopedia.com/terms/t/technicalindicator.asp
 https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators  
 https://www.investopedia.com/terms/p/pivotpoint.asp  
 https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:pivot_points  
-https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/list-of-technical-indicators/
+https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/list-of-technical-indicators/  
+
+## Author  
+### * Tin Hang  
+
+## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
+
