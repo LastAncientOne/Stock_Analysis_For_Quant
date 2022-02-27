@@ -1,2 +1,2 @@
 
-<img src="PowerBI.PNG">
+<img src="MLPowerBI.PNG">
