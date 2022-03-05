@@ -1,7 +1,10 @@
 <img src="VBA.PNG">
 
 # Excel VBA
-#### VBA (Visual Basic for Applications) is the programming language of Excel and other Office programs.  
+### Description:
+#### VBA (Visual Basic for Applications) is the programming language of Excel and other Office programs. Create VBA or Macros relate to investing or trading.  
+
+
 
 ## Author  
 ### * Tin Hang  
