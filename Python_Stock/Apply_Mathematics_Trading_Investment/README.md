@@ -1,3 +1,5 @@
+<img src="Math.PNG">
+
 # Apply Mathematics in Trading and Investment
 
 #### Description:
