@@ -23,6 +23,10 @@
 
 <img src="Quants.PNG">
 
+| Programming Language and Software | Github Links |
+| :--- | :--- |
+| [Stock Analysis in Excel] | [Excel](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Excel_Stock)|
+
 # Stock Analysis for Quants  
 ### Description:  
 #### This is Stock Analysis project in Excel, Power BI, Matlab, Python, R, and tableau language with different types of analysis such as data analysis, technical analysis, fundamental analysis, quantitative analysis, candlestick patterns, and different types of trading strategies. Learn about stocks, options, bonds, mutual funds, and ETF (Exchange-traded funds). In addition, this is for quantitative researching and analyzing in trading and investment. Quantitative analysis (QA) is a technique that use mathematics and statistical modeling, measurement, and research for understanding financial behaviors. Many different types of technical indicators and stock strategies in Excel, Python, and R language. Using time series, forecasting, machine learning, and deep learning for this research project in different type of programming languages.  :chart_with_upwards_trend: :chart_with_downwards_trend:
