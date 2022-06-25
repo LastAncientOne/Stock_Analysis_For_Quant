@@ -25,7 +25,8 @@
 
 | Programming Language and Software | Github Links |
 | :--- | :--- |
-| [Stock Analysis in Excel] | [Excel](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Excel_Stock)|
+| Stock Analysis in Excel | [Excel](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Excel_Stock)|
+| Stock Analysis in Matlab | [Matlab](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Matlab_Stock)|
 
 # Stock Analysis for Quants  
 ### Description:  
