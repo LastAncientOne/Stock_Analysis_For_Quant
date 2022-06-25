@@ -27,6 +27,10 @@
 | :--- | :--- |
 | Stock Analysis in Excel | [Excel](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Excel_Stock)|
 | Stock Analysis in Matlab | [Matlab](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Matlab_Stock)|
+| Stock Analysis in Power BI | [Power BI](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/PowerBI_Stock)|
+| Stock Analysis in Python | [Python](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Python_Stock)|
+| Stock Analysis in R | [R](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/R_Stock)|
+| Stock Analysis in Tableau | [Tableau](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Tableau_Stock)|
 
 # Stock Analysis for Quants  
 ### Description:  
