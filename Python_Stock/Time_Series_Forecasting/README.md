@@ -76,6 +76,12 @@ import pastas as ps
 https://github.com/antoinecarme/pyaf  
 import pyaf.ForecastEngine as autof   
 
+### statsmodels
+https://github.com/statsmodels/statsmodels   
+https://www.statsmodels.org/stable/index.html  
+import statsmodels.api as sm  
+import statsmodels.formula.api as smf  
+
 ## Author  
 ### * Tin Hang  
 
