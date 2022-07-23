@@ -47,6 +47,10 @@ ARIMA is a model where the time series was differenced at least once to make it 
   
 ## Libraries:  
 
+### Autotos
+https://github.com/winedarksea/AutoTS  
+from autots import AutoTS, load_daily  
+
 ### Darts  
 https://github.com/unit8co/darts  
 from darts import TimeSeries  
