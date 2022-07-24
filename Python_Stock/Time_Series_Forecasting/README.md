@@ -57,19 +57,19 @@ from darts import TimeSeries
 from darts.models import ExponentialSmoothing  
 
 ### Orbit  
-https://orbit-ml.readthedocs.io/en/stable/  
 https://github.com/uber/orbit  
+https://orbit-ml.readthedocs.io/en/stable/  
 import orbit  
 from orbit.eda import eda_plot    
 
 ### Prophet  
-https://facebook.github.io/prophet/  
 https://github.com/facebook/prophet  
+https://facebook.github.io/prophet/  
 from prophet import Prophet  
 
 ### Pastas  
-https://pastas.readthedocs.io/en/latest/index.html  
 https://github.com/pastas/pastas  
+https://pastas.readthedocs.io/en/latest/index.html  
 import pastas as ps  
 
 ### PyAF  
@@ -77,8 +77,13 @@ https://github.com/antoinecarme/pyaf
 import pyaf.ForecastEngine as autof   
 
 ### Skforecast
+https://github.com/JoaquinAmatRodrigo/skforecast/
 https://joaquinamatrodrigo.github.io/skforecast/0.4.3/index.html  
-
+from skforecast.ForecasterAutoreg import ForecasterAutoreg  
+from skforecast.ForecasterAutoregCustom import ForecasterAutoregCustom  
+from skforecast.ForecasterAutoregMultiOutput import ForecasterAutoregMultiOutput  
+from skforecast.model_selection import grid_search_forecaster  
+from skforecast.model_selection import backtesting_forecaster  
 
 ### statsmodels
 https://github.com/statsmodels/statsmodels   
