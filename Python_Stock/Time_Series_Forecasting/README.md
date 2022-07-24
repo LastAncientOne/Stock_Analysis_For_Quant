@@ -76,7 +76,9 @@ import pastas as ps
 https://github.com/antoinecarme/pyaf  
 import pyaf.ForecastEngine as autof   
 
-### SkForecast
+### Skforecast
+https://joaquinamatrodrigo.github.io/skforecast/0.4.3/index.html  
+
 
 ### statsmodels
 https://github.com/statsmodels/statsmodels   
