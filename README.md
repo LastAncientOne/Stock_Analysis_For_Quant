@@ -231,6 +231,7 @@ Protective Collar
 
 ## Credits:
 ### Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
+### Creators who creates programming libraries for people to use.  
 
 ### Links to research paper for quant:  
 https://www.researchgate.net (European Social networking site for scientists and researchers to share papers)  
