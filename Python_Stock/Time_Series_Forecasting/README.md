@@ -53,6 +53,7 @@ from autots import AutoTS, load_daily
 
 ### Darts  
 https://github.com/unit8co/darts  
+https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html  
 from darts import TimeSeries  
 from darts.models import ExponentialSmoothing  
 
@@ -74,6 +75,7 @@ import pastas as ps
 
 ### PyAF  
 https://github.com/antoinecarme/pyaf  
+https://notebook.community/antoinecarme/pyaf/docs/PyAF_Introduction  
 import pyaf.ForecastEngine as autof   
 
 ### Skforecast
