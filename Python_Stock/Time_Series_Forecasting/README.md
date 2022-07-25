@@ -93,6 +93,9 @@ https://www.statsmodels.org/stable/index.html
 import statsmodels.api as sm  
 import statsmodels.formula.api as smf  
 
+## Credits:
+### Creators who creates programming libraries for people to use.  
+
 ## Author  
 ### * Tin Hang  
 
