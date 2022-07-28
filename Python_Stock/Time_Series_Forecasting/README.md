@@ -78,6 +78,11 @@ https://github.com/antoinecarme/pyaf
 https://notebook.community/antoinecarme/pyaf/docs/PyAF_Introduction  
 import pyaf.ForecastEngine as autof   
 
+### PyFlux  
+https://github.com/RJT1990/pyflux  
+https://pyflux.readthedocs.io/en/latest/index.html  
+import pyflux as pf  
+
 ### Skforecast
 https://github.com/JoaquinAmatRodrigo/skforecast/
 https://joaquinamatrodrigo.github.io/skforecast/0.4.3/index.html  
