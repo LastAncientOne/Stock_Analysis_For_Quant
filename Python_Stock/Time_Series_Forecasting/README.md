@@ -42,7 +42,7 @@ Error terms are the errors of the autoregressive models of the respective lags.
 ARIMA is a model where the time series was differenced at least once to make it stationary; therefore, you combine the AR and the MA terms. 
 
 ### ARIMA Equations:    
-<img src="https://latex.codecogs.com/svg.image?Y_{t}&space;=&space;\alpha&space;&plus;&space;\beta_{1}Y_{t-1}&space;&plus;&space;\beta_{2}Y_{t-2}&space;&plus;&space;...&space;&plus;&space;\beta_{p}Y_{t-p}\epsilon_{t}&space;&plus;&space;\phi_{1}\epsilon_{t-1}&space;&plus;&space;\phi_{2}\epsilon_{t-2}&space;&plus;&space;...&space;&plus;&space;\phi_{q}\epsilon_{t-q}" title="Y_{t} = \alpha + \beta_{1}Y_{t-1} + \beta_{2}Y_{t-2} + ... + \beta_{p}Y_{t-p}\epsilon_{t} + \phi_{1}\epsilon_{t-1} + \phi_{2}\epsilon_{t-2} + ... + \phi_{q}\epsilon_{t-q}" width="1000" height="100">  
+<img src="https://www.HostMath.com/Show.aspx?Code=Y_t%3D%5Cbeta_%7B1%7D%2B%5Cphi_%7B1%7DY_%7Bt-1%7D%2B%5Cphi_%7B2%7DY_%7Bt-2%7D%2B...%2B%5Cphi_%7Bp%7DY_%7Bt-p%7D" width="1000" height="100">  
   
   
 ## Libraries:  
