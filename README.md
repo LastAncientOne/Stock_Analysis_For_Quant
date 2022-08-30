@@ -231,6 +231,8 @@ Long Butterfly with Put
 Protective Collar
 
 
+# 👋 Have you enjoy learning "Stock Analysis for Quant"? Please support me.  
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
 
 ## Credits:
