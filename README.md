@@ -233,7 +233,7 @@ Protective Collar
 
 # 👋 Have you enjoyed learning "Stock Analysis for Quant" and want to support me?  
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/blue_img.png)](https://www.buymeacoffee.com/lastancientone)
 
 ## Credits:
 ### Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
