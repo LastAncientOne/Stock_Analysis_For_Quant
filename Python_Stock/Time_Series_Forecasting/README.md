@@ -7,6 +7,8 @@ Time series forecasting is use for scientific predictions based on historical ti
 
 Time series analysis is a statistical technique that analyze time series data or trend data. Time series data is a group of observations on a single entity over time; for example, the daily closing prices over one year for a single financial security.  
 
+Time series analysis shows how data changes over time, and forecasting can identify the direction in which the data is changing.  
+
 ## Purpose:  
 To make the data from non-stationary to time series stationary.  
 
