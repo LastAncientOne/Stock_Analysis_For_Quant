@@ -19,11 +19,11 @@ A time series is a dataset that helps to identifying the nature of the phenomeno
       d. Irregular (Random)  
    2. If not, make it to stationary.  
       a. first difference (Current – previous)
-      <img src="https://latex.codecogs.com/svg.image?d^{(1)}(t)&space;=&space;x(t)&space;-&space;x(t-1)" title="d^{(1)}(t) = x(t) - x(t-1)" width="300" height="100"> 
-      b. second difference
-      <img src="https://latex.codecogs.com/svg.image?d^{(2)}(t)&space;=&space;d^{(1)}(t)&space;-&space;d^{(1)}(t-1)" title="d^{(2)}(t) = d^{(1)}(t) - d^{(1)}(t-1)" width="300" height="100">  
-      c. general difference  
-      <img src="https://latex.codecogs.com/svg.image?d^{(m)}(t)&space;=&space;d^{(m-1)}(t)&space;-&space;d^{(m-1)}(t-1)" title="d^{(m)}(t) = d^{(m-1)}(t) - d^{(m-1)}(t-1)" width="300" height="100"> 
+      <img src="https://latex.codecogs.com/svg.image?d^{(1)}(t)&space;=&space;x(t)&space;-&space;x(t-1)" title="d^{(1)}(t) = x(t) - x(t-1)" width="300" height="100">  
+      b. second difference  
+      <img src="https://latex.codecogs.com/svg.image?d^{(2)}(t)&space;=&space;d^{(1)}(t)&space;-&space;d^{(1)}(t-1)" title="d^{(2)}(t) = d^{(1)}(t) - d^{(1)}(t-1)" width="300" height="100">   
+      c. general difference   
+      <img src="https://latex.codecogs.com/svg.image?d^{(m)}(t)&space;=&space;d^{(m-1)}(t)&space;-&space;d^{(m-1)}(t-1)" title="d^{(m)}(t) = d^{(m-1)}(t) - d^{(m-1)}(t-1)" width="300" height="100">  
 ### Step 2: Building Your Time Series Model
    1. Exponential smoothing  
    2. Autoregression (AR)  
