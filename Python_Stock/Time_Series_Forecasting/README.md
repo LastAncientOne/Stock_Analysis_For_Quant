@@ -24,7 +24,7 @@ If a time series, has seasonal patterns, then you need to add seasonal terms and
 In time series, the first step to build an ARIMA model is to make the time series stationary. The most common method is to defference it. For example, subtract the previous value from the current value.  However, the data might need more than one differencing because the complexity of the series. The value of 'd' is the minimum number of differencing needed to make the series stationary. If the time series is already stationary, then d = 0. The 'p' is the order of the 'Auto Regressive' (AR) term and is the number of lags of Y to be used as predictors. The 'q' is the order of the 'Moving Average' (MA) term and is the number of lagged forecast errors that should go into the ARIMA Model.        
 
 ### Auto Regressive (AR only) model Equations:  
-<img src="https://latex.codecogs.com/svg.image?d^{(1)}(t)=x(t)&space;-&space;x(x-t)" width="100" height="50">
+<img src="https://latex.codecogs.com/svg.image?d^{(1)}(t)=x(t)&space;-&space;x(x-t)" title="d_{t} = d^{t}(t) = x(t) - x(t-1)" width="100" height="50">
    
 #### Moving Average (MA only) model is one where Yt depends only on the lagged forecast errors.  
 
