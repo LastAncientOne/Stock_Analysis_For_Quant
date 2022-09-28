@@ -12,9 +12,9 @@ A time series is a dataset that helps to identifying the nature of the phenomeno
 
 ## Step-by-Step Time Series Analysis:  
 ### Step 1: Making Data Stationary
-Type of data?  
-   1. Trend <- sales
-      b. Seasonal <- good for sales or funding data (Common)  
+   1. Type of data?  
+      a. Trend <- sales   
+      b. Seasonal <- good for sales or funding data (Common)    
       c. Cyclical <- sales  
       d. Irregular (Random)  
    2. If not, make it to stationary.  Difference (Current – previous)  
