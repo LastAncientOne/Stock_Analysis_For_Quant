@@ -11,25 +11,25 @@ Time series analysis shows how data changes over time, and forecasting can ident
 A time series is a dataset that helps to identifying the nature of the phenomenon represented by the sequence of observations, and forecasting (predicting future values of the time series variable).   
 
 ## Step-by-Step Time Series Analysis:  
-Step 1: Making Data Stationary
-   i. Type of data?  
-      a. Trend <- sales
+### Step 1: Making Data Stationary
+Type of data?  
+   1. Trend <- sales
       b. Seasonal <- good for sales or funding data (Common)  
       c. Cyclical <- sales  
       d. Irregular (Random)  
-   ii. If not, make it to stationary.  Difference (Current – previous)  
-Step 2: Building Your Time Series Model
-   i. Exponential smoothing  
-   ii. Autoregression (AR)  
-   iii. Moving Average (MA)  
-   iv. Autoregressive Moving Average (ARMA)  
-   v. Autoregressive Integrated Moving Average (ARIMA)  
-   vi. Seasonal Autoregressive Integrated Moving-Average (SARIMA)   
-Step 3: Evaluating Model Accuracy
-   i. Errors or Bias  
-   ii. Mean Absolute Deviation (MAD)  
-   iii. Mean Square Error (MSE)  
-   iv. Mean Absolute Percent Error (MAPE)  
+   2. If not, make it to stationary.  Difference (Current – previous)  
+### Step 2: Building Your Time Series Model
+   1. Exponential smoothing  
+   2. Autoregression (AR)  
+   3. Moving Average (MA)  
+   4. Autoregressive Moving Average (ARMA)  
+   5. Autoregressive Integrated Moving Average (ARIMA)  
+   6. Seasonal Autoregressive Integrated Moving-Average (SARIMA)   
+### Step 3: Evaluating Model Accuracy
+   1. Errors or Bias  
+   2. Mean Absolute Deviation (MAD)  
+   3. Mean Square Error (MSE)  
+   4. Mean Absolute Percent Error (MAPE)  
 
 #### ACF and PACF  
 Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) The ACF and PACF are used to figure out the order of AR, MA, and ARMA models.  
