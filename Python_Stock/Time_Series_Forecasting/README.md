@@ -44,7 +44,7 @@ Error terms are the errors of the autoregressive models of the respective lags.
 ARMA (Auto Regressive Moving Average) is a model that is combined from the AR and MA models. In this model, the impact of previous lags along with the residuals is considered for forecasting the future values of the time series.  
 
 ### ARMA Equations:
-<img src="https://latex.codecogs.com/svg.image?Y_{t}&space;=&space;c&space;&plus;&space;\sum_{p}^{i=1}\phi&space;_{i}Y_{t-i}&space;&plus;&space;\sum_{q}^{i=1}\theta_{i}\epsilon&space;_{t&plus;1}&plus;\epsilon_{t}" title="Y_{t} = c + \sum_{p}^{i=1}\phi _{i}Y_{t-i} + \sum_{q}^{i=1}\theta_{i}\epsilon _{t+1}+\epsilon_{t}" width="1000" height="100">
+<img src="https://latex.codecogs.com/svg.image?Y_{t}&space;=&space;c&space;&plus;&space;\sum_{i=1}^{p}\phi&space;_{i}Y_{t-i}&space;&plus;&space;\sum_{i=1}^{q}\theta_{i}\epsilon&space;_{t&plus;1}&plus;\epsilon_{t}" title="Y_{t} = c + \sum_{i=1}^{p}\phi _{i}Y_{t-i} + \sum_{i=1}^{q}\theta_{i}\epsilon _{t+1}+\epsilon_{t}" width="1000" height="100">
 
 ### ARIMA  
 ARIMA is a model where the time series was differenced at least once to make it stationary; therefore, you combine the AR and the MA terms. 
