@@ -70,6 +70,12 @@ Error terms are the errors of the autoregressive models of the respective lags.
 
 <img src="https://latex.codecogs.com/svg.image?Y_{t-1}&space;=&space;\beta_{1}Y_{t-2}&space;&plus;&space;\beta_{2}Y_{t-3}&space;&plus;&space;...&space;&plus;&space;\beta_{0}Y_{0}&space;&plus;&space;\varepsilon_{t-1}" title="Y_{t-1} = \beta_{1}Y_{t-2} + \beta_{2}Y_{t-3} + ... + \beta_{0}Y_{0} + \varepsilon_{t-1}" width="600" height="100">  
 
+### ARMA  
+ARMA (Auto Regressive Moving Average) is a model that is combined from the AR and MA models. In this model, the impact of previous lags along with the residuals is considered for forecasting the future values of the time series.  
+
+### ARMA Equations:
+<img src="https://latex.codecogs.com/svg.image?Y_{t}&space;=&space;c&space;&plus;&space;\sum_{i=1}^{p}\phi&space;_{i}Y_{t-i}&space;&plus;&space;\sum_{i=1}^{q}\theta_{i}\epsilon&space;_{t-1}&plus;\epsilon_{t}" title="Y_{t} = c + \sum_{i=1}^{p}\phi _{i}Y_{t-i} + \sum_{i=1}^{q}\theta_{i}\epsilon _{t-1}+\epsilon_{t}" width="1000" height="100">
+
 ### ARIMA  
 ARIMA is a model where the time series was differenced at least once to make it stationary; therefore, you combine the AR and the MA terms. 
 
