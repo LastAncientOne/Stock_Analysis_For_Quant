@@ -1,3 +1,5 @@
+<img src="TimeSeriesExcel.PNG">
+
 # Time Series Forecasting in Excel  
 
 ## Description:  
