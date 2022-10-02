@@ -52,6 +52,15 @@ ARIMA is a model where the time series was differenced at least once to make it 
 ### ARIMA Equations:    
 <img src="https://latex.codecogs.com/svg.image?Y_{t}&space;=&space;\alpha&space;&plus;&space;\beta_{1}Y_{t-1}&space;&plus;&space;\beta_{2}Y_{t-2}&space;&plus;&space;...&space;&plus;&space;\beta_{p}Y_{t-p}\epsilon_{t}&space;&plus;&space;\phi_{1}\epsilon_{t-1}&space;&plus;&space;\phi_{2}\epsilon_{t-2}&space;&plus;&space;...&space;&plus;&space;\phi_{q}\epsilon_{t-q}" title="Y_{t} = \alpha + \beta_{1}Y_{t-1} + \beta_{2}Y_{t-2} + ... + \beta_{p}Y_{t-p}\epsilon_{t} + \phi_{1}\epsilon_{t-1} + \phi_{2}\epsilon_{t-2} + ... + \phi_{q}\epsilon_{t-q}" width="1000" height="100">
   
+## Error Metrics  
+
+(1) Mean Absolute Error (MAE) is useful when absolute error needs to be measured. It is easy to understand but it is not efficient when data has extreme values.  
+(2) Mean Absolute Percentage Error (MAPE) is used when different forecast models or datasets need to be compared because this is a percentage value. MAPE is also easy to understand. MAPE suffers from the same disadvantage as MAE, i.e., it is not efficient when data has extreme values.  
+(3) Mean Squared Error (MSE) is useful when spread of the forecast values is important and larger values need to be penalized. However, this metrics is often difficult to interpret because it is a squared value.  
+(4) Root Mean Squared Error (RMSE) is also useful when spread is of importance and larger values need to be penalized. RMSE is easier to interpret when compared to MSE because the RMSE value is of the same scale as the forecasted values.  
+(5) Normalized Root Mean Squared Error (NRMSE) is extension of RMSE and is calculated by normalizing RMSE. There are two popular methods for normalizing RMSE: using mean or using the range of the true values (difference of minimum and maximum values).  
+(6) Weighted Absolute Percentage Error (WAPE) is useful when dealing with low volume data as it is calculated by weighting the error over total true values.  
+(7) Weighted Mean Absolute Percentage Error (WMAPE) is also useful when dealing with low volume data. WMAPE helps to incorporate the priority by utilizing the weight (priority value) of each observation.  
   
 ## Libraries:  
 
