@@ -3,6 +3,12 @@
 # Portfolio Management
 Portfolio management is the art and science of selecting and overseeing a group of investments such as stocks, bonds, mutual funds, and options that meet the long-term financial objectives and risk tolerance. Create differenty type of portfolio and invest in multiple stocks that affect during that year. For example, invest in stocks that have big impact during coronavirus time. However, it requires the ability to weigh strengths and weaknesses. Therefore, it involves trade-offs, from debt versus equity to domestic versus international and growth versus safety.  
 
+## Portfolio Value  
+Portfolio value is monthly, semi-monthly or annual measure of returns on investments. The value displays the profits and losses yielded on the total stocks purchased. Portfolio value is determined by data pulled from several financial sources such as finance yahoo, finance google, nasdaq and other financial sources. Also, portfolio value is use to find the total value of the assets held in the investment portfolio. Finding the portfolio value involves first calculating the value of each individual asset, then adding all of those values together. Investment portfolio represents the total assets owned by a private equity, venture capital, or hedge fund or other institutional investor.  
+
+## Portfolio Visualize
+Portfolio Visualize display line chart or column chart with portfolio value over a period of time. Portfolio visualization for portfolio can be line charts, column charts, pie/donut charts, bar charts, table, and tree map. There are many types of charts to use for portfolio analysis. The visualization is a tools that provide an accessible way to see and understand trends, outliers, and patterns in data.      
+
 ## Key Elements of Portfolio Management  
 - Asset Allocation:  
 The process of creating and balancing your investment portfolio.   
