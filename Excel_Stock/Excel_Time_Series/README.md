@@ -40,6 +40,12 @@ A time series is a dataset that helps to identifying the nature of the phenomeno
    2. Mean Absolute Deviation (MAD)  
    3. Mean Square Error (MSE)  
    4. Mean Absolute Percent Error (MAPE)  
+   
+### Time Series Forecast Error Metrics  
+#### Scale-Dependent Metrics  
+   1. Mean Absolute Error (MAE)  
+   2. Mean Squared Error (MSE)  
+   3. Root Mean Square Error (RMSE)  
 
 #### ACF and PACF  
 Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) The ACF and PACF are used to figure out the order of AR, MA, and ARMA models.  
