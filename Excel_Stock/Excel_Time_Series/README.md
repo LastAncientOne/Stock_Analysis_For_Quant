@@ -1,4 +1,4 @@
-<img src="TimeSeriesExcel.PNG">
+<img src="Time_Series_Excel.PNG">
 
 # Time Series Forecasting in Excel  
 
