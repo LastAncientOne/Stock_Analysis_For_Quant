@@ -2,7 +2,7 @@
 
 # Apply Mathematics in Trading and Investment
 
-#### Description:
+### Description:
 Profitable trading is more about applying mathematics. Using mathematics for trading strategies.  
 Statistics, Probability, Calculus, Linear Algebra, Optimization, Algorithms and Data Structures in trading and investment  
 Econometric Models (Forecasting and studying statistical significance)   
@@ -12,6 +12,10 @@ Asset Pricing Models (Risk-adjusted pricing, valuation and performance attributi
 Financial Risk Management Models (hedging positions)  
 Data Science/Mining Models - Neural Networks (Tensor Flow Machine Learning Software Application for forecasting stock prices)    
 Operations Research Models (Portfolio Optimization)
+
+### Math Explanation:  
+Chebyshev distance is defined as maximum metric, or L∞ metric on a vector space where the greatest of difference between two vectors along any coordinate dimension.  
+
 
 
 ## Author:    
