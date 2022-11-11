@@ -16,6 +16,7 @@ Operations Research Models (Portfolio Optimization)
 ### Math Explanation:  
 Chebyshev distance is defined as maximum metric, or L∞ metric on a vector space where the greatest of difference between two vectors along any coordinate dimension.  
 
+Covariance indicates the direction of the linear relationship between variables and values are standarized. Correlation measures both the strength and direction of the linear relationship between two variables and values are not standardize. Both covariance and correlation measure the relationship and the dependency between two variables.  
 
 
 ## Author:    
