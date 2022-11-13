@@ -18,7 +18,7 @@ Chebyshev distance is defined as maximum metric, or L∞ metric on a vector spac
 
 Covariance indicates the direction of the linear relationship between variables and values are standarized. Correlation measures both the strength and direction of the linear relationship between two variables and values are not standardize. Both covariance and correlation measure the relationship and the dependency between two variables.  
 
-The derivative of a linear function y = mx + b can be derived using the definition of the derivative. The linear function derivative is a constant, and is equal to the slope of the linear function. Linear function derivatives are parts of many polynomial derivatives.   
+Derivative Linear Equation is derivative of a linear function y = mx + b can be derived using the definition of the derivative. The linear function derivative is a constant, and is equal to the slope of the linear function. Linear function derivatives are parts of many polynomial derivatives.   
 
 Differential calculus is a techniques which deals with the rate of change of one quantity with respect to another. The rate of change of x with respect to y is expressed dx/dy. It is one of the major calculus concepts apart from integrals.  
 
