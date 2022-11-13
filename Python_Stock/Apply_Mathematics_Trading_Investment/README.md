@@ -20,6 +20,8 @@ Covariance indicates the direction of the linear relationship between variables 
 
 The derivative of a linear function y = mx + b can be derived using the definition of the derivative. The linear function derivative is a constant, and is equal to the slope of the linear function. Linear function derivatives are parts of many polynomial derivatives.   
 
+Differential calculus is a method which deals with the rate of change of one quantity with respect to another. The rate of change of x with respect to y is expressed dx/dy. It is one of the major calculus concepts apart from integrals.  
+
 ## Author:    
 ### * Tin Hang  
 
