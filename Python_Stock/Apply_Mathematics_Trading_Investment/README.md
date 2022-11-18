@@ -22,7 +22,9 @@ Derivative Linear Equation is derivative of a linear function y = mx + b can be 
 
 Differential calculus is a techniques which deals with the rate of change of one quantity with respect to another. The rate of change of x with respect to y is expressed dx/dy. It is one of the major calculus concepts apart from integrals.  
 
-Euclidean distance is a between two points; as a result, the Euclidean distance between two points in the Euclidean space is defined as the length of the line segment between two points.
+Euclidean distance is a metrice between two points; as a result, the Euclidean distance between two points in the Euclidean space is defined as the length of the line segment between two points.  
+
+Hamming distance is a metric for comparing two integers; therefore, two integers is the number of positions at which the corresponding bits are different.   
 
 ## Author:    
 ### * Tin Hang  
