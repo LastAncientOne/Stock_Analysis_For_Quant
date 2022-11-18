@@ -26,6 +26,8 @@ Euclidean distance is a metrice between two points; as a result, the Euclidean d
 
 Hamming distance is a metric for comparing two integers; therefore, two integers is the number of positions at which the corresponding bits are different.   
 
+Information theory is the mathematical system  that overlaps into communications engineering, biology, medical science, sociology, and psychology.  In theory, it devoted to the discovery and exploration of mathematical laws that govern the behavior of data as it is transferred, stored, or retrieved.   
+
 ## Author:    
 ### * Tin Hang  
 
