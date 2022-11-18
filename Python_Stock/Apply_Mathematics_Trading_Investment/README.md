@@ -28,6 +28,8 @@ Hamming distance is a metric for comparing two integers; therefore, two integers
 
 Information theory is the mathematical system  that overlaps into communications engineering, biology, medical science, sociology, and psychology.  In theory, it devoted to the discovery and exploration of mathematical laws that govern the behavior of data as it is transferred, stored, or retrieved.   
 
+Intergal is a mathematical object that can be interpreted as an area or a generalization of area. Finding an Integral is the reverse of finding a Derivative. Other words for integral include antiderivative and primitive.  
+
 ## Author:    
 ### * Tin Hang  
 
