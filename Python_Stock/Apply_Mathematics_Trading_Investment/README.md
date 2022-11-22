@@ -32,6 +32,8 @@ Intergal is a mathematical object that can be interpreted as an area or a genera
 
 LInear algebra is methametical about linear combination. It uses arithmetic on columns of numbers called vectors and arrays of numbers called matrices. Matrice creates new columns and arrays of numbers. Linear algebra is the study of lines and planes, vector spaces and mappings that are required for linear transforms.  
 
+Mahalanobis distance is a metric for an effective multivariate distance to measures the distance between a point and a distribution.
+
 ## Author:    
 ### * Tin Hang  
 
