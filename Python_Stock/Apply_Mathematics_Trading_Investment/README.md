@@ -34,6 +34,8 @@ LInear algebra is methametical about linear combination. It uses arithmetic on c
 
 Mahalanobis distance is a metric for an effective multivariate distance to measures the distance between a point and a distribution.
 
+Manhattan distance is a metric to calculated as the sum of the absolute differences between the two vectors. The Manhattan distance is related to the L1 vector norm and the sum absolute error and mean absolute error metric.  
+
 ## Author:    
 ### * Tin Hang  
 
