@@ -36,6 +36,8 @@ Mahalanobis distance is a metric for an effective multivariate distance to measu
 
 Manhattan distance is a metric to calculated as the sum of the absolute differences between the two vectors. The Manhattan distance is related to the L1 vector norm and the sum absolute error and mean absolute error metric.  
 
+Maximal Lyapunov Exponents determines a notion of predictability for a dynamical system. A positive MLE is usually taken as an indication that the system is chaotic (provided some other conditions are met, e.g., phase space compactness). While the zero value means that along the flow, there is no divergence between consecutive points on a trajectory.  
+
 ## Author:    
 ### * Tin Hang  
 
