@@ -38,6 +38,8 @@ Manhattan distance is a metric to calculated as the sum of the absolute differen
 
 Maximal Lyapunov Exponents determines a notion of predictability for a dynamical system. A positive MLE is usually taken as an indication that the system is chaotic (provided some other conditions are met, e.g., phase space compactness). While the zero value means that along the flow, there is no divergence between consecutive points on a trajectory.  
 
+Minkowski metric is a metric in a normed vector space which can be considered as a generalization of both the Euclidean distance. The distance similarity measurement between two points in the normed vector space (N dimensional real space).   
+
 ## Author:    
 ### * Tin Hang  
 
