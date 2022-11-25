@@ -40,6 +40,8 @@ Maximal Lyapunov Exponents determines a notion of predictability for a dynamical
 
 Minkowski metric is a metric in a normed vector space which can be considered as a generalization of both the Euclidean distance. The distance similarity measurement between two points in the normed vector space (N dimensional real space).   
 
+Polynomial is defined as an expression which is composed of variables, constants and exponents, that are combined using mathematical operations such as addition, subtraction, multiplication and division.  Also, polynomial can have one or more terms, but not an infinite number of terms.  
+
 ## Author:    
 ### * Tin Hang  
 
