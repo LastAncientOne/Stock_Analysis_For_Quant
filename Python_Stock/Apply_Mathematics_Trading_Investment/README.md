@@ -42,6 +42,8 @@ Minkowski metric is a metric in a normed vector space which can be considered as
 
 Polynomial is defined as an expression which is composed of variables, constants and exponents, that are combined using mathematical operations such as addition, subtraction, multiplication and division.  Also, polynomial can have one or more terms, but not an infinite number of terms.  
 
+Probability Information Theory is a mathematical framework for representing uncertain statements and measures of information of the distributions associated with random variables.    
+
 ## Author:    
 ### * Tin Hang  
 
