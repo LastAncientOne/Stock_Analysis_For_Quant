@@ -44,6 +44,8 @@ Polynomial is defined as an expression which is composed of variables, constants
 
 Probability Information Theory is a mathematical framework for representing uncertain statements and measures of information of the distributions associated with random variables.    
 
+Anscombe's Quartet is comprises a group of four data sets which are nearly identical in simple descriptive statistics, but they have different distributions and appear very different when graphed. Each dataset consists of eleven (x,y) points.   
+
 ## Author:    
 ### * Tin Hang  
 
