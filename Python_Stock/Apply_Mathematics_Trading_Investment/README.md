@@ -46,6 +46,8 @@ Probability Information Theory is a mathematical framework for representing unce
 
 Anscombe's Quartet is comprises a group of four data sets which are nearly identical in simple descriptive statistics, but they have different distributions and appear very different when graphed. Each dataset consists of eleven (x,y) points.   
 
+Straight line is general equation of a straight line is y = mx + c, where m is the gradient, and y = c is the value where the line cuts the y-axis. This number c is called the intercept on the y-axis. The equation of a straight line with gradient m and intercept c on the y-axis is y = mx + c.  
+
 ## Author:    
 ### * Tin Hang  
 
