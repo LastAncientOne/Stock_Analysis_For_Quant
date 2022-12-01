@@ -10,7 +10,7 @@
 ### Description:  
 Candlestick charts was created in the 18th century by Munehisa Homma, a Japanese rice trader. Then it was introduced to the Western world by Steve Nison in his book, Japanese Candlestick Charting Techniques.  
 
-Each candlestick represents all four important pieces of information for that day: open, close, high and low. The candlestick's area between the open and the close is called the real body, price excursions above and below the real body are shadows which is called the wicks. Candlestick charts are used in technical analysis of equity and currency price patterns.     
+Candlestick charts are a technical tool that packs data for multiple time frames into single price bars. Each candlestick represents all four important pieces of information for that day: open, close, high and low. The candlestick's area between the open and the close is called the real body, price excursions above and below the real body are shadows which is called the wicks. Candlestick charts are used in technical analysis of equity and currency price patterns.     
 
 ## Candlestick Libraries
 https://github.com/matplotlib/mplfinance  
