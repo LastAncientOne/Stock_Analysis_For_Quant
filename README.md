@@ -183,7 +183,7 @@ Overnight Risk
 Volatility Risk  
 
 # List of Risk-Adjusted Returns Ratios Measurement   
-#### Description: Risk-Adjusted Returns Ratios is an investment's return by measuring how much risk is involved in producing that return.  
+#### Description: Risk-Adjusted Returns Ratios is an investment's return by measuring how much risk is involved in producing that return.  The rate of return (ROR) is the percentage change in the value of an investment. The risk and the required rate of return are directly related by the simple fact that as risk increases, the required rate of return increases. When risk decreases, the required rate of return decreases.  
 :large_blue_diamond:  
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
