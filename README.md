@@ -128,7 +128,7 @@ Performance Analysis
 Quantitative Analysis  
 
 # List of Portfolio Strategies 
-#### Description: Portfolio strategies is an investment method for investors to use their assets to achieve their financial goals.   
+#### Description: Portfolio strategies is an investment method for investors to use their assets to achieve their financial goals. It is a plan that helps you generate the best investment returns.     
 :large_blue_diamond:  
 Arbitrage Pricing Theory (APT)  
 Long-term Investment  
