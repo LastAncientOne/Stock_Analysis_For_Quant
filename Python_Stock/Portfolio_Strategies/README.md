@@ -44,6 +44,10 @@ Modern Portfolio Theory (MPT)
 Post-Modern Portfolio Theory (PMPT)  
 Portfolio Allocation    
 Portfolio Optimization    
+Diversified asset classes portfolio 
+Conservative income portfolio   
+Enhanced value investing portfolio  
+All-season classic investment portfolio  
 Markowitz Portfolio Optimization Theory 
 Minimum-Variance Portfolios (Global Minimum-variance Portfolio)  
 Global Portfolio Optimization (The Black Litterman)    
