@@ -19,6 +19,13 @@ The process of realigning the weightings of a portfolio of assets.
 - Active Portfolio Management:  
 The process of making specific investments with the goal of outperforming an investment benchmark index or target return.  
 
+# Step-by-Step Building Profitable Portfolio  
+#### Step 1: Assess the Current Situation.    
+#### Step 2: Establish Investment Goals.  
+#### Step 3: Determine Asset Allocation.  
+#### Step 4: Select Investment Options.  
+#### Step 5: Monitor, Measure, and Rebalance.   
+
 # Capital asset pricing model (CAPM)  
 Capital asset pricing model is a model used to determine the relationship between systematic risk and expected return for assets such as stocks.  Also, CAPM make decisions about adding assets to a well-diversified portfolio.  
 
