@@ -20,11 +20,19 @@ The process of realigning the weightings of a portfolio of assets.
 The process of making specific investments with the goal of outperforming an investment benchmark index or target return.  
 
 # Step-by-Step Building Profitable Portfolio  
-#### Step 1: Assess the Current Situation.    
+#### Step 1: Assess the Current Situation. 
+- Planning investor's goal and current situation.  
 #### Step 2: Establish Investment Goals.  
+- Identify the investor's risk-profile.  
 #### Step 3: Determine Asset Allocation.  
+- Develop different type of strategy and best strategy for investor.   
 #### Step 4: Select Investment Options.  
+- Pick investor’s preference for active or passive management.  
 #### Step 5: Monitor, Measure, and Rebalance.   
+- Implement a portfolio plan, monitor the investments and measure the portfolio's performances.
+- Review the portfolio quarterly.
+- Every year, review investor's sisturation and  goals to determine if there any significant changes.  
+- Protfolio will be rebalanced if it did not hit the target. Selling investments that have reached their targets, and buying investments that offer greater upside potential.   
 
 # Capital asset pricing model (CAPM)  
 Capital asset pricing model is a model used to determine the relationship between systematic risk and expected return for assets such as stocks.  Also, CAPM make decisions about adding assets to a well-diversified portfolio.  
