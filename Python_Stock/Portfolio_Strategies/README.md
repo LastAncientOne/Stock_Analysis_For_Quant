@@ -21,7 +21,8 @@ The process of making specific investments with the goal of outperforming an inv
 
 # Step-by-Step Building Profitable Portfolio  
 #### Step 1: Assess the Current Situation. 
-- Planning investor's goal and current situation.  
+- Planning investor's goal and current situation. 
+- How much income? How much saving? Age? Short and long term investment?  
 #### Step 2: Establish Investment Goals.  
 - Identify the investor's risk-profile.  
 #### Step 3: Determine Asset Allocation.  
