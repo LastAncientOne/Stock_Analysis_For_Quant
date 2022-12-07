@@ -27,7 +27,20 @@ The process of making specific investments with the goal of outperforming an inv
 #### Step 3: Determine Asset Allocation.  
 - Develop different type of strategy and best strategy for investor.   
 #### Step 4: Select Investment Options.  
-- Pick investor’s preference for active or passive management.  
+- Pick investor’s preference for active or passive management. 
+    Buy and Hold Investing  
+    Growth Investing  
+    Momentum Investing  
+    Value Investing  
+    Small Cap Investing  
+    Dividend Investing  
+    ESG Investing  
+    Factor Investing  
+    Passive Investing  
+    Core / Satellite Approach  
+    Long / Short Strategies  
+    Multi Asset Investing  
+
 #### Step 5: Monitor, Measure, and Rebalance.   
 - Implement a portfolio plan, monitor the investments and measure the portfolio's performances.
 - Review the portfolio quarterly.
