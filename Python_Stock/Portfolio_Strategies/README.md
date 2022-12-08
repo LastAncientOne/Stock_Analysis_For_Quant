@@ -157,6 +157,8 @@ Upside Potential Ratio
 
 :small_blue_diamond: Information Ratio - is a measurement of an investment compared to a benchmark index. (Wiki)  
 
+:small_blue_diamond: Jensen's alpha - is a measurement that represents the average return on a portfolio or investment, above or below that predicted by the capital asset pricing model (CAPM). (Wiki)
+
 :small_blue_diamond: Kappa Three Ratio - is a measurement of risk-adjusted performance that calculates downside risk. (https://breakingdownfinance.com/finance-topics/performance-measurement/kappa-ratio/)    
 
 :small_blue_diamond: Martin Ratio - is a measurement of safe return and the higher the ratio the better performance. Martin Ratio is the same as Ulcer index. (Wiki)    
