@@ -56,6 +56,9 @@
 ### What is private equity?
 #### Private equity is investment that is organized as limited partnerships. It can buy and restructure companies that are not publicly traded. Private equity is consists of capital that is not listed on a public exchange. Private equity is composed of funds and investors that directly invest in private companies, or that engage in buyouts of public companies, resulting in the delisting of public equity.  
 
+### What is fixed income?
+#### Fixed income is an investment approach focused on preservation of capital and income. Fixed income includes investments like government and corporate bonds, CDs and money market funds. Fixed income can offer a steady stream of income with less risk than stocks.   
+
 ### What is global equity fund?
 #### A global equity fund is sub-category of funds on the stock funds side of the ledger. A global equity fund has the latitude to buy shares of companies from any country including the United States. Global equity fund will keep a certain portion of its assets invested in U.S. stocks and the balance invested in international stocks.  
 
