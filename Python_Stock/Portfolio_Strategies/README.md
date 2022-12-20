@@ -26,9 +26,10 @@ The process of making specific investments with the goal of outperforming an inv
 #### Step 2: Market Analysis.  
 - Research and understand economic indicators for investments.  
 #### Step 3: Establish Investment Goals.  
-- Identify the investor's risk-profile.  
+- Identify the investor's risk-profile or risk tolerance.   
 #### Step 4: Determine Asset Allocation.  
-- Develop different type of strategy and best strategy for investor.   
+- Develop different type of strategy and best strategy for investor. 
+- Determine the best asset allocation for you.  
 #### Step 5: Select Investment Options.  
 - Pick investor’s preference for active or passive management. 
     Buy and Hold Investing  
