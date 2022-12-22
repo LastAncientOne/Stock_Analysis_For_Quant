@@ -63,7 +63,7 @@
 #### A global equity fund is sub-category of funds on the stock funds side of the ledger. A global equity fund has the latitude to buy shares of companies from any country including the United States. Global equity fund will keep a certain portion of its assets invested in U.S. stocks and the balance invested in international stocks.  
 
 ### What is inflation-indexed securities?
-#### Inflation-indexed securities guarantee a return that's greater than inflation or return higher than the rate of inflation if it is held to maturity. The inflation-indexed security helps protect an investor's returns from the erosion of inflation, guaranteeing a real return. There are many different types of inflation-indexed assests suchs as Consumer Price Index (CPI), inflation-indexed bonds, and Treasury Inflation-Protected Securities.
+#### Inflation-indexed securities guarantee a return that's greater than inflation or a return higher than the rate of inflation if it is held to maturity. The inflation-indexed security helps protect an investor's returns from the erosion of inflation, guaranteeing a real return. There are many different types of inflation-indexed assets such as Consumer Price Index (CPI), inflation-indexed bonds, and Treasury Inflation-Protected Securities.  
 
 ### What is options?  
 #### Options is a contract to buy or sell a specific financial product known as the option's underlying instrument or underlying interest.  Also, options are contracts that gives the owner, the holder, the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price prior to or on a specified date, depending on the form of the option. Options is a high risk investment.  
