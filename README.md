@@ -54,7 +54,7 @@
 #### Real estate is considered to be its own asset class and one that should be at least a part of a well-diversified portfolio. Real estate investment is a financial strategy that uses the management, ownership, purchase, rental, and/or sale of property for profit.   
 
 ### What is private equity?
-#### Private equity is investment that is organized as limited partnerships. It can buy and restructure companies that are not publicly traded. Private equity is consists of capital that is not listed on a public exchange. Private equity is composed of funds and investors that directly invest in private companies, or that engage in buyouts of public companies, resulting in the delisting of public equity.  
+#### Private equity is investment that is organized as limited partnerships. It can buy and restructure companies that are not publicly traded. Private equity is consists of capital that is not listed on a public exchange. Private equity is composed of funds and investors that directly invest in private companies, or that engage in buyouts of public companies, resulting in the delisting of public equity. Invest in private equity is direct investment and seek out a private equity firm to investment with them.  Invest in exchange-traded funds, or ETFs because they are built to track the performance of private equity firms.     
 
 ### What is fixed income?
 #### Fixed income is an investment approach focused on preservation of capital and income. Fixed income includes investments like government and corporate bonds, CDs and money market funds. Fixed income can offer a steady stream of income with less risk than stocks.   
