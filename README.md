@@ -45,7 +45,7 @@
 #### U.S. equities are companies that trade on the U.S. stock exchange.  Non-U.S. equities are cross-listed with their shares on a U.S. exchange. As a result, many international companies elect to have their stock trade on a U.S. stock exchange. For example, a foreign company decides to list their stock on a U.S. stock exchange, they have to decide whether to elect to be treated as a "foreign private issuer" under U.S. securities laws. However, foreign private issuers are subject to different reporting and regulatory requirements than a U.S. company.  
 
 ### What is stocks?  
-#### A stocks is an investment that represent a share or partial ownership of a company. Investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is a low and high risk investment.  
+#### A stocks is an investment that represent a share or partial ownership of a company. First, a private company first sells shares of stock to the public, this process is known as an initial public offering (IPO). A public company is a corporation whose ownership is distributed amongst general public shareholders through publicly-traded stock shares. Investors buy stocks to earn a return on their investment. Stocks are one of the best way to build up capital or wealth. Stock is a low and high risk investment.   
 
 ### What is bonds?  
 #### Bonds is a fixed income instrument that represents a loan made by an investor to a borrower such as corporate or governmental.  Owner of bonds are the debt holders, or creditors of the issuer. Bonds are tax-free, secured, redeemable and non-convertible in nature.  
