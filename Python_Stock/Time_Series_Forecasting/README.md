@@ -12,6 +12,12 @@ Time series analysis shows how data changes over time, and forecasting can ident
 ## Purpose:  
 A time series is a dataset that helps to identifying the nature of the phenomenon represented by the sequence of observations, and forecasting (predicting future values of the time series variable).   
 
+### Components of Time Series Analysis   
+(1) Trend  
+(2) Seasonality   
+(3) Cyclical  
+(4) Irregularity  
+
 #### ARIMA Models  
 ARIMA (Auto Regressive Integrated Moving Average) is a class of models that explains a given time series based on its own past values. The lags and the lagged forecast errors is the equation that can be used to forecast future values. 
 
