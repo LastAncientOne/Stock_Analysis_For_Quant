@@ -12,6 +12,11 @@ Time series analysis shows how data changes over time, and forecasting can ident
 ## Purpose:  
 A time series is a dataset that helps to identifying the nature of the phenomenon represented by the sequence of observations, and forecasting (predicting future values of the time series variable).   
 
+### Step-by-Step:
+(1) Making Data Stationary  
+(2) Building Your Time Series Model  
+(3) Evaluating Model Accuracy  
+
 ### Components of Time Series Analysis   
 (1) Trend  
 (2) Seasonality   
