@@ -271,8 +271,7 @@ http://morningstardirect.morningstar.com/clientcomm/customcalculations.pdf (Fina
 https://www.optionstrading.org/strategies/a-z-list/ (Options Trading Strategies)  
 
 
-# Disclaimer & Warning
-## :warning:
+# :warning: Disclaimer & Warning
 #### None of my content is meant to be construed as investment advice; it's for educational purposes only. Do not use this code for investing or trading in the stock market or real trading. All of my contents are strictly personal opinions. Please make sure to do your own research. Never take one person's opinion for financial guidance. There are multiple strategies, and not all strategies fit all people. My contents ARE NOT financial advice. You should do your research when picking stocks, ETFs, options or cryptocurrencies to invest in. However, if you are interested in the stock market, you should read :books: books, research papers, and :computer: blog that relate to the stock market, investment, or finance. On the other hand, if you are into quant, read books about machine learning or deep learning. Books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. Do experiments on stock historical prices and test different strategies or methods to see if they works or not. Learn from it and take notes :notebook:.
 
 
