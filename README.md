@@ -142,6 +142,7 @@ Quantitative Analysis
 Arbitrage Pricing Theory (APT)  
 Long-term Investment  
 Short-term Investment  
+Sustainable Investment  
 All Weather Strategies  
 Buy and Hold  
 Defensive Stock Investing strategy  
