@@ -4,6 +4,8 @@
 ## Description:  
 ### The performance measurement is similar to risk-return tradeoff. Risk-return states that higher risk with greater probability of higher return and lower risk with a greater probability of smaller return. Therefore, trade off which an investor faces between risk and return will considering investment decisions is called the risk return trade off.  
 
+#### Average return is the simple mathematical average of a series of returns generated over a specified period of time. An average return is calculated the same way that a simple average is calculated for any set of numbers.  
+
 #### Standard Deviation is the most common measure of risk used in investment and trading. Standard deviation measures the variability of asset's returns.  
 
 #### Beta is a measure of volatility and is similar to standard deviation; however, beta measures volatility in relation to the market as a whole. Beta is use for investment strategy that will tell you how volatile it is when compared to the broader market. A beta of 1 means that the strategy has the same volatility as the market. A beta of less than one indicates lower volatility than the market, while a beta greater one indicates higher volatility than the market.  For example, a higher Beta implies more risk, a lower Beta implies less risk.  
