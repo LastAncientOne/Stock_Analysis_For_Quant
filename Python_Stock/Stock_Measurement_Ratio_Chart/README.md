@@ -16,7 +16,7 @@ Sharpe Ratio
 Sortino Ratio  
 Treynor Ratio  
 
-# List of Stock Performance Measurement for Risk-Reward Ratio Charts  
+# List of Risk-Adjusted Returns Ratios Measurement for Risk-Reward Ratio Charts  
 
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
