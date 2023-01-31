@@ -13,7 +13,9 @@
 #### Maximum Drawdown is a metric with simple indicator of risk that is both intuitive and easy to understand. Maximum drawdown measures the greatest peak-to-trough decline that an investment strategy experiences over time. As a result, maximum drawdown is expressed as a percentage and reflects the largest price move down from a new high. For example, lower maximum drawdown implies less risk, higher maximum drawdown implies higher risk.  
 
 # Risk-Adjusted Returns Ratios Explanation  
-Sharpe Ratio is the return of an investment on its risk and measures the performance of an investment such as a security or portfolio compared to a risk-free asset, after adjusting for its risk. In mathematical expression of the insight that excess returns over a period of time may signify more volatility and risk, rather than investing skill.  
+Sharpe ratio is risk-adjustment metric to measures the performance of an investment such as a security or portfolio compared to a risk-free asset, after adjusting for its risk. In mathematical expression of the insight that excess returns over a period of time may signify more volatility and risk, rather than investing skill.  
+
+Sortino ratio is risk-adjustment metric to measure risk-adjusted returns of investment asset, portfolio, or strategy. It is a modification of the Sharpe ratio but penalizes only those returns falling below a user-specified target or required rate of return, while the Sharpe ratio penalizes both upside and downside volatility equally.  
 
 # Common Risk and Returns Metrics  
 Sharpe Ratio  
