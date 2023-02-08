@@ -13,7 +13,9 @@
 
 #### Maximum Drawdown is a metric with simple indicator of risk that is both intuitive and easy to understand. Maximum drawdown measures the greatest peak-to-trough decline that an investment strategy experiences over time. As a result, maximum drawdown is expressed as a percentage and reflects the largest price move down from a new high. For example, lower maximum drawdown implies less risk, higher maximum drawdown implies higher risk.  
 
-# Risk-Adjusted Returns Ratios Explanation 
+# Risk-Adjusted Returns Ratios Explanation  
+Information ratio is risk-adjustment metric to measure the portfolio returns above the returns of a benchmark, usually an index such as the S&P 500, to the volatility of those returns.  
+
 Kappa ratio is risk-adjustment metric to measures of risk-adjusted performance that considers downside risk.  
 
 Omega ratio is risk-adjustment metric to measures probability-weighted profits and losses.  
