@@ -24,6 +24,8 @@ Sharpe ratio is risk-adjustment metric to measures the performance of an investm
 
 Sortino ratio is risk-adjustment metric to measure risk-adjusted returns of investment asset, portfolio, or strategy. It is a modification of the Sharpe ratio but penalizes only those returns falling below a user-specified target or required rate of return, while the Sharpe ratio penalizes both upside and downside volatility equally.  
 
+Treynor ratio is risk-adjustment metric to measure how much excess return was generated for each unit of risk taken on by a portfolio adjusts for systematic risk.  
+
 # Common Risk and Returns Metrics  
 Sharpe Ratio  
 Sortino Ratio  
