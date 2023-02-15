@@ -11,6 +11,12 @@ This Excel project has technical analysis, fundamental analysis, quantitative an
 ### Download Software  
 https://www.microsoft.com/en-us/microsoft-365/excel   
 
+### Python Library for Excel  
+https://www.python-excel.org/  
+
+### R Library for Excel  
+https://readxl.tidyverse.org/  
+
 <h3 align="left"> Software:</h3>
 <p align="left"> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://zapier-images.imgix.net/storage/services/296388d714e0dcd78105c9b165ca751e.png?auto=format&ixlib=react-9.0.2&ar=undefined&fit=crop&h=105&w=105&q=50&dpr=1g" alt="Excel" width="100" height="100"/> </a>  
 
