@@ -80,6 +80,9 @@
 ### What is Hedge Funds?  
 #### Hedge Funds are investment that use pooled funds and are gathered from many high-net-worth individuals. In addition, Hedge funds are more expensive compared to conventional investment funds. They are aggressively managed with aid of the fund manager because they are used in both domestic and international markets, with the aim of generating high returns.  It is important to note that hedge funds are generally only accessible to accredited investors as they require less Securities and Exchange Commission (SEC) regulations than other funds.  
 
+### What is risk?  
+#### All investments have some degree of risk. In finance, risk refers to the degree of uncertainty and/or potential financial loss inherent in an investment decision.  There are many different types of risk such as business risk, volatility risk, inflation risk, interest rate risk, and liquidity risk.  
+
 ### What is Quantitative research?
 #### Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can have expressed in numbers and graphs. It is used to test or confirm theories and assumptions.  
 
