@@ -69,7 +69,10 @@
 #### Options is a contract to buy or sell a specific financial product known as the option's underlying instrument or underlying interest.  Also, options are contracts that gives the owner, the holder, the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price prior to or on a specified date, depending on the form of the option. Options is a high risk investment.  
 
 ### What is Index fund?  
-#### Index fund is a mutual fund or exchange-traded fund that are made up of stocks or companies performance and performance of a market index such as the S&P 500. Index funds are funds that can track specified basked of underlying investment and passively manaaged with lower fees than actively managed funds becausse they often generate higher investment returns and well-diversifed investments.  
+#### An index fund is a mutual fund or exchange-traded fund that is made up of stocks or companies' performance and the performance of a market index such as the S&P 500. Index funds are funds that can track specified information based on underlying investments and are passively managed with lower fees than actively managed funds because they often generate higher investment returns and well-diversified investments. The S&P 500 Index, the Russell 2000 Index, and the Wilshire 5000 Total Market Index are just a few examples of market indexes that index funds may seek to track.  
+
+### What is market index?  
+#### The market index tracks the ups and downs of a chosen group of stocks or other assets to see the health of the stock market because it guides financial firms in the creation of index funds and exchange-traded funds (ETFs), and helps investors gauge the performance of their investments. A market index measures the performance of a “basket” of securities (like stocks or bonds), which is meant to represent a sector of a stock market, or of an economy. Investors cannot invest directly in a market index, but because index funds track a market index, they provide an indirect investment option.  
 
 ### What is Exchange Traded Funds (ETF)?
 #### Exchange Traded Funds (ETF) is a type of investment fund and exchange-traded product. ETFs are traded on stock exchanges. Also, they are similar in many ways to mutual funds, except that ETFs are bought and sold throughout the day on stock exchanges.  
