@@ -44,12 +44,12 @@ for (ticker in tickers) {
   returns[[ticker ]] <- dailyReturn(Cl(get(ticker )))
 }
 
-# Calculate the Sharpe Ratio for each stock
+# Calculate the Treynor Ratio for each stock
 treynor_ratios <- data.frame()
 for (ticker in tickers) {
   treynor_ratio <- TreynorRatio(returns[[ticker]], Rb, Rf = 0.01)
   treynor_ratios <- rbind(treynor_ratios, data.frame(Symbol = ticker, Treynor_ratio = treynor_ratio))
 }
 
-# Print the table of Sharpe Ratios
+# Print the table of Treynor Ratios
 print(treynor_ratios)
