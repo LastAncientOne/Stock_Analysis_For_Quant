@@ -44,12 +44,12 @@ for (ticker in tickers) {
   returns[[ticker ]] <- dailyReturn(Cl(get(ticker)))
 }
 
-# Calculate the Sharpe Ratio for each stock
+# Calculate the Information Ratio for each stock
 information_ratios <- data.frame()
 for (ticker in tickers) {
   information_ratio <- InformationRatio(returns[[ticker]], Rb)
   information_ratios <- rbind(information_ratios, data.frame(Symbol = ticker, Information_ratio = information_ratio))
 }
 
-# Print the table of Sharpe Ratios
+# Print the table of Information Ratios
 print(information_ratios)
