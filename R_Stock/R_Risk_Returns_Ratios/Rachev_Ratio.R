@@ -39,7 +39,7 @@ for (ticker in tickers) {
   returns[[ticker]] <- dailyReturn(Cl(get(ticker)))
 }
 
-# Calculate the Omega Sharpe Ratio for each stock
+# Calculate the Rachev Ratio for each stock
 rachev_ratios <- data.frame()
 for (ticker in tickers) {
   rachev_ratio <- RachevRatio(returns[[ticker]])
