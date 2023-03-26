@@ -38,12 +38,12 @@ for (ticker in tickers) {
   returns[[ticker ]] <- dailyReturn(Cl(get(ticker )))
 }
 
-# Calculate the Sharpe Ratio for each stock
+# Calculate the Pain Ratio for each stock
 pain_ratios <- data.frame()
 for (ticker in tickers) {
   pain_ratio <- PainRatio(returns[[ticker]], Rf = 0.01)
   pain_ratios <- rbind(pain_ratios, data.frame(Symbol = ticker, Pain_ratio = pain_ratio))
 }
 
-# Print the table of Sharpe Ratios
+# Print the table of Pain Ratios
 print(pain_ratios)
