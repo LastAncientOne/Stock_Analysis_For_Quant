@@ -20,7 +20,7 @@ martin_ratio <- MartinRatio(returns, r=0)
 # Print the Martin Ratio
 print(symbol)
 print(martin_ratio)
-
+cat(symbol, ': ', martin_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
