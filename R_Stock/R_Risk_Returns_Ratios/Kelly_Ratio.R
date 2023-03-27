@@ -20,7 +20,7 @@ kelly_ratio <- KellyRatio(returns, Rf = 0, method = "half")
 # Print the Kelly Ratio
 print(symbol)
 print(kelly_ratio)
-
+cat(symbol, ': ', kelly_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
