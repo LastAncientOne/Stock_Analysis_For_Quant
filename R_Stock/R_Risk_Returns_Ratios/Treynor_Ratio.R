@@ -23,6 +23,8 @@ treynor_ratio <- TreynorRatio(returns, Rb, Rf = 0.01)
 # Print the Treynor Ratio
 print(symbol)
 print(treynor_ratio)
+cat(symbol, ': ', treynor_ratio)
+
 
 # Define a vector of stock tickers
 tickers <- c("BAC", "GS", "C", "WFC", "JPM")
