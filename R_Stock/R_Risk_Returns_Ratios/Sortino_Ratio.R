@@ -22,6 +22,7 @@ print(symbol)
 print(sortino_ratio)
 cat(symbol, ': ', sortino_ratio)
 
+
 # Multiple Stock symbols
 # Define the stock symbols of the library
 tickers <- c("BAC", "GS", "C", "WFC", "JPM")
