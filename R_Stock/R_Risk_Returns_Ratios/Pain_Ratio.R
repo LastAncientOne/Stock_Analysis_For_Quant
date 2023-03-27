@@ -21,6 +21,7 @@ print(symbol)
 print(pain_ratio)
 cat(symbol, ': ', pain_ratio)
 
+
 # Multiple Stocks
 # Define a vector of stock tickers
 tickers <- c("BAC", "GS", "C", "WFC", "JPM")
