@@ -20,7 +20,7 @@ calmar_ratio <- CalmarRatio(returns)
 # Print the Calmar Ratio
 print(symbol)
 print(calmar_ratio)
-
+cat(symbol, ': ', calmar_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
