@@ -20,7 +20,7 @@ rachev_ratio <- RachevRatio(returns, rf = 0)
 # Print the Rachev Ratio
 print(symbol)
 print(rachev_ratio)
-
+cat(symbol, ': ', rachev_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
