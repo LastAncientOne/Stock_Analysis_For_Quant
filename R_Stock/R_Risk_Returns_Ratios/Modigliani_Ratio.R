@@ -20,7 +20,7 @@ modigliani_ratio <- Modigliani(returns, Rb, Rf = 0.01)
 # Print the Modigliani-Modigliani Ratio
 print(symbol)
 print(modigliani_ratio)
-
+cat(symbol, ': ', modigliani_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
