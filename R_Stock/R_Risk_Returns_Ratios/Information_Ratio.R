@@ -25,6 +25,7 @@ print(symbol)
 print(information_ratio)
 cat(symbol, ': ', information_ratio)
 
+
 # Define a vector of stock tickers
 tickers <- c("BAC", "GS", "C", "WFC", "JPM")
 
