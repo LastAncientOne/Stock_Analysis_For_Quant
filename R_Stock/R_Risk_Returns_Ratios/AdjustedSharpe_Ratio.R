@@ -20,7 +20,7 @@ adjustedsharpe_ratio <- AdjustedSharpeRatio(returns, Rf = 0)
 # Print the Adjusted Sharpe Ratio
 print(symbol)
 print(adjustedsharpe_ratio)
-
+cat(symbol, ': ', adjustedsharpe_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
