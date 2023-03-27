@@ -20,7 +20,7 @@ burke_ratio <- BurkeRatio(returns, Rf = 0)
 # Print the Burke Ratio
 print(symbol)
 print(burke_ratio)
-
+cat(symbol, ': ', burke_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
