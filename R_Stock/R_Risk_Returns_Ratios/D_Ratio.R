@@ -19,7 +19,8 @@ d_ratio <- DRatio(returns)
 
 # Print the D Ratio
 print(symbol)
-print(burke_ratio)
+print(d_ratio)
+cat(symbol, ': ', d_ratio)
 
 
 # Multiple Stock symbols
