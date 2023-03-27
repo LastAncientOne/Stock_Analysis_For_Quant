@@ -20,7 +20,7 @@ sharpe_ratio <- SharpeRatio(returns, Rf = 0, FUN = "StdDev")
 # Print the Sharpe Ratio
 print(symbol)
 print(sharpe_ratio)
-
+cat(symbol, ': ', sharpe_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
