@@ -19,7 +19,7 @@ pain_ratio <- PainRatio(returns, Rf = 0)
 # Print the Pain Ratio
 print(symbol)
 print(pain_ratio)
-
+cat(symbol, ': ', pain_ratio)
 
 # Multiple Stocks
 # Define a vector of stock tickers
