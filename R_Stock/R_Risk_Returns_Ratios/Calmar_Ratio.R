@@ -22,6 +22,7 @@ print(symbol)
 print(calmar_ratio)
 cat(symbol, ': ', calmar_ratio)
 
+
 # Multiple Stock symbols
 # Define the stock symbols of the library
 tickers <- c("BAC", "GS", "C", "WFC", "JPM")
