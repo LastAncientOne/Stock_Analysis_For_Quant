@@ -22,6 +22,7 @@ print(symbol)
 print(martin_ratio)
 cat(symbol, ': ', martin_ratio)
 
+
 # Multiple Stock symbols
 # Define the stock symbols of the library
 tickers <- c("BAC", "GS", "C", "WFC", "JPM")
