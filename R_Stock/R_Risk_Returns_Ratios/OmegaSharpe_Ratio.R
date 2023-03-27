@@ -20,7 +20,7 @@ omegasharpe_ratio <- OmegaSharpeRatio(returns)
 # Print the Omega Sharpe Ratio
 print(symbol)
 print(omegasharpe_ratio)
-
+cat(symbol, ': ', omegasharpe_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
