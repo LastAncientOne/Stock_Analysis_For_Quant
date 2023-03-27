@@ -20,7 +20,7 @@ sortino_ratio <- SortinoRatio(returns, Rf = 0)
 # Print the Sortino Ratio
 print(symbol)
 print(sortino_ratio)
-
+cat(symbol, ': ', sortino_ratio)
 
 # Multiple Stock symbols
 # Define the stock symbols of the library
