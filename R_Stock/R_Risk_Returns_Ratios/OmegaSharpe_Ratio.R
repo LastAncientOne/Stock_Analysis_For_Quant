@@ -22,6 +22,7 @@ print(symbol)
 print(omegasharpe_ratio)
 cat(symbol, ': ', omegasharpe_ratio)
 
+
 # Multiple Stock symbols
 # Define the stock symbols of the library
 tickers <- c("BAC", "GS", "C", "WFC", "JPM")
