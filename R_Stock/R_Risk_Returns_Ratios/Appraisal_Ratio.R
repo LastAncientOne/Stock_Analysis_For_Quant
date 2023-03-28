@@ -23,6 +23,8 @@ appraisal_ratio <- AppraisalRatio(returns, Rb, scale = NA)
 # Print the Appraisal Ratio
 print(symbol)
 print(appraisal_ratio)
+cat(symbol, ': ', appraisal_ratio)
+
 
 # Define a vector of stock tickers
 tickers <- c("BAC", "GS", "C", "WFC", "JPM")
