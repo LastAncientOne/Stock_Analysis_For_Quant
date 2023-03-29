@@ -23,6 +23,8 @@ m2sortino_ratio <- M2Sortino(returns, Rb, MAR = 0)
 # Print the M2 Sortino Ratio
 print(symbol)
 print(m2sortino_ratio)
+cat(symbol, ': ', m2sortino_ratio)
+
 
 # Define a vector of stock tickers
 tickers <- c("BAC", "GS", "C", "WFC", "JPM")
