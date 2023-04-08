@@ -1,4 +1,4 @@
-# Performance Measurement Metrics
+# Risk-Adjusted Return Ratios
 
 ## Description:  
-### The risk-adjusted return measures the profit your investment has made relative to the amount of risk the investment has represented throughout a given period of time. If two or more investments delivered the same return over a given time period, the one that has the lowest risk will have a better risk-adjusted return.
+### Risk-adjusted return measures how much risk is associated with producing a certain return. The Risk-adjusted return is used in order to measure that how much return an investment portfolio is generating in comparison to the risk involved, which is expressed generally as a number, and the same can be applied to investment funds, individual securities, and the investment portfolios, etc.  
