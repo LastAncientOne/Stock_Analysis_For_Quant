@@ -3,7 +3,7 @@
 # Technical Analysis Indicators
 ### Description: Technical Analysis (TA) is a method to analyze securities prices and predict or forecast the price based on TA indicators. TA is used in investments and identify trading opportunities in price trends and patterns seen on charts.     
 
-# List of Technial Analysis Indicators  
+### List of Technical Analysis Indicators  
 
 Accumulation Distribution Line (ADL)  
 Average Directional Index (ADX)  
