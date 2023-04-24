@@ -1,4 +1,4 @@
-0<img src="RiskReturn.PNG">
+<img src="RiskReturn.PNG">  
 
 # Risk-Adjusted Return Ratios
 
