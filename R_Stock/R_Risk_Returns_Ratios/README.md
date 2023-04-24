@@ -1,3 +1,5 @@
+0<img src="RiskReturn.PNG">
+
 # Risk-Adjusted Return Ratios
 
 ## Description:  
