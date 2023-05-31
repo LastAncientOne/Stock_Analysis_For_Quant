@@ -36,7 +36,6 @@
 | Stock Analysis in R | [R](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/R_Stock)|
 | Stock Analysis in Tableau | [Tableau](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Tableau_Stock)|
 
-# Stock Analysis for Quants  
 ### Description:  
 #### This is Stock Analysis project in Excel, Tableau, Power BI, Matlab, Python, R, and tableau language with different types of analysis such as data analysis, technical analysis, fundamental analysis, quantitative analysis, candlestick patterns, and different types of trading strategies. Learn about stocks, options, bonds, mutual funds, and ETF (Exchange-traded funds). In addition, this is for quantitative researching and analyzing in trading and investment. Quantitative analysis (QA) is a technique that use mathematics and statistical modeling, measurement, and research for understanding financial behaviors. Many different types of technical indicators and stock strategies in Excel, tableau, Power BI, Matlab, Python, and R language. Using time series, forecasting, machine learning, and deep learning for this research project in different type of programming languages.  :chart_with_upwards_trend: :chart_with_downwards_trend:
 
