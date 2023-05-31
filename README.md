@@ -24,6 +24,8 @@
 [linkedin-url]: https://linkedin.com/in/tin-hang
 
 <img src="Quants.PNG">
+<h1 align="center">Stock Analysis For Quant</h1>
+
 
 | Programming Language and Software | Github Links |
 | :--- | :--- |
