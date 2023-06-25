@@ -200,7 +200,7 @@ Overnight Risk
 Volatility Risk  
 
 # List of Risk-Adjusted Returns Ratios Measurement   
-#### Description: Risk-Adjusted Returns Ratios is an investment's return by measuring how much risk is involved in producing that return.  The rate of return (ROR) is the percentage change in the value of an investment. The risk and the required rate of return are directly related by the simple fact that as risk increases, the required rate of return increases. When risk decreases, the required rate of return decreases.  
+#### Description: Risk-Adjusted Return Ratios measure an investment's return in relation to the level of risk associated with it. The rate of return (ROR) represents the percentage change in the value of an investment. It is important to note that risk and the required rate of return are directly correlated. As risk increases, the required rate of return also increases, and conversely, as risk decreases, the required rate of return decreases.
 :large_blue_diamond:  
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
@@ -222,7 +222,8 @@ Treynor Ratio
 Upside Potential Ratio  
 
 # List of Options Strategies     
-#### Description: Options are contracts that give the buyer the right to buy or sell an amount of some underlying asset at a predetermined price at or before the contract expires. Options Strategies are the simultaneous that is mixed with buying or selling of one or more options that differ in one or more of the options' variables.  
+#### Description: Options are contracts that give the buyer the right to buy or sell a specific amount of an underlying asset at a predetermined price before the contract expires. Options strategies involve the simultaneous buying or selling of one or more options, which may differ in various variables.  
+
 :large_blue_diamond:  
 Long Call  
 Long Put  
@@ -248,7 +249,7 @@ Long Butterfly with Put
 Protective Collar
 
 # List of Asset Classes for Protection Against Inflation    
-#### Description: Inflation is a rise in prices, which can be translated as the decline of purchasing power over time.  Inflation measures the average price level of a basket of goods and services in an economy, but increases in prices over a specified period of time. Therefore, it is important to find the right strategies and investments to hedge against inflation because a specific amount of currency will be able to buy less than before.  
+#### Description: Inflation is the increase in prices, resulting in a decline in purchasing power over time. It is measured by the average price level of a basket of goods and services in an economy, indicating price increases over a specified period. Therefore, it is crucial to identify suitable strategies and investments to hedge against inflation, as a given amount of currency will have reduced buying power compared to before.  
 #### List of investing against inflation:  
 :large_blue_diamond:   
 Gold  
@@ -278,10 +279,8 @@ http://www.performance-metrics.eu/performance_glossary.php (Performance Metrics)
 http://morningstardirect.morningstar.com/clientcomm/customcalculations.pdf (Financial Calculations)   
 https://www.optionstrading.org/strategies/a-z-list/ (Options Trading Strategies)  
 
-
 # :warning: Disclaimer & Warning
-#### None of my content is meant to be construed as investment advice; it's for educational purposes only. Do not use this code for investing or trading in the stock market or real trading. All of my contents are strictly personal opinions. Please make sure to do your own research. Never take one person's opinion for financial guidance. There are multiple strategies, and not all strategies fit all people. My contents ARE NOT financial advice. You should do your research when picking stocks, ETFs, options or cryptocurrencies to invest in. However, if you are interested in the stock market, you should read :books: books, research papers, and :computer: blog that relate to the stock market, investment, or finance. On the other hand, if you are into quant, read books about machine learning or deep learning. Books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. Do experiments on stock historical prices and test different strategies or methods to see if they works or not. Learn from it and take notes :notebook:.
-
+#### None of my content is meant to be construed as investment advice; it's for educational purposes only. Please do not use this code for investing or trading in the stock market or any real trading activities. All of my content consists strictly of personal opinions. It is important to conduct your own research and never solely rely on one person's opinion for financial guidance. Remember that there are multiple strategies available, and not all strategies may be suitable for everyone. Therefore, my content should NOT be considered as financial advice. When selecting stocks, ETFs, options, or cryptocurrencies to invest in, you should perform your own research. Additionally, if you are interested in the stock market, I recommend reading :books: books, research papers, and :computer: blogs related to the stock market, investment, or finance. On the other hand, if you are interested in quantitative analysis, I suggest reading books on machine learning or deep learning, as well as books on machine trading, algorithmic trading, and quantitative trading. It can be beneficial to experiment with historical stock prices and test different strategies or methods to determine their effectiveness. Learn from these experiments and make sure to take notes :notebook:.
 
 ## 🔴 This is not get rich quick.  
 ## 🔴 This is not financial advisor.   
