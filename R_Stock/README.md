@@ -2,7 +2,7 @@
 
 # R for Stock Trading and Investment  
 ### Description:
-#### Stock analysis in R is a method for investors use (short or long term) and traders to make buying and selling decisions. By studying and evaluating the past and current historical data, fundamental data, news, and social media. While investors and traders attempt to gain a winning edge in the markets by making the best decisions. :chart_with_upwards_trend: :chart_with_downwards_trend:  
+#### Stock analysis in R is a method used by investors (both short and long-term) and traders to make buying and selling decisions. It involves studying and evaluating past and current historical data, fundamental data, news, and social media. Investors and traders employ this approach in an attempt to gain a winning edge in the markets by making informed decisions. :chart_with_upwards_trend: :chart_with_downwards_trend:  
 
 ### Download Langauge and Software  
 https://www.r-project.org/    
@@ -20,4 +20,4 @@ https://www.spyder-ide.org/
 
 ## Author:  
 ### * Tin Hang  
-## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.   
+## 🔴 Warning: This is not a financial advisor. Do not use this for investing or trading. It is for educational purposes only.
