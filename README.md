@@ -121,7 +121,7 @@ https://www.tableau.com/products/desktop/download
 
 
 # List of Trading Strategies  
-#### Description: There are various methods used to accomplish different trading strategies, each suited to specific market environments and carrying inherent risks. A trading strategy is a technique for buying and selling in the markets, relying on predefined rules to guide trading decisions.  
+#### Description: There are various methods used to achieve different trading strategies, each suitable for specific market environments and carrying inherent risks. A trading strategy is a technique for buying and selling in the markets, relying on predefined rules to guide trading decisions.  
 :large_blue_diamond:  
 Trend-following Strategies  
 Algorithmic Trading Strategies  
