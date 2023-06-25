@@ -6,7 +6,7 @@
 <img src="Excel_RL.PNG">
 
 ## Description:
-This Excel project has technical analysis, fundamental analysis, quantitative analysis, time series analysis, and different types of trading strategies. Many different types of risk-returns metrics, technical indicators and portfolio strategies. In addition, it has data analysis and data science for single stock and multiple stocks. Using statistical analysis such as hypothesis testing, t-test, R-Squared, Significant F, p-value, coefficient, F test and Durbin-Watson statistic for investing and trading. Using time series forecasting metrics for modeling. Creating VBA, macros, and complex formulas for stock analysis.    
+This Excel project includes technical analysis, fundamental analysis, quantitative analysis, time series analysis, and various types of trading strategies. It also incorporates numerous risk-return metrics, technical indicators, and portfolio strategies. Additionally, it involves data analysis and data science for both single stocks and multiple stocks. Statistical analysis techniques, such as hypothesis testing, t-tests, R-Squared, Significant F, p-values, coefficients, F-tests, and Durbin-Watson statistics, are utilized for investing and trading purposes. Time series forecasting metrics are employed for modeling, while VBA, macros, and complex formulas are created for stock analysis.  
 
 ### Download Software  
 https://www.microsoft.com/en-us/microsoft-365/excel   
