@@ -20,4 +20,4 @@ https://www.spyder-ide.org/
 
 ## Author:  
 ### * Tin Hang  
-## 🔴 Warning: This is not a financial advisor. Do not use this for investing or trading. It is for educational purposes only.
+## 🔴 Warning: This is not a financial advisor. Do not use this for investing or trading. It is for educational purposes only.  
