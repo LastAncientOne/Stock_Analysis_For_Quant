@@ -20,8 +20,8 @@ https://www.tableau.com/products/desktop/download
 <p align="left">  </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h.jpg" alt="tableau" width="100" height="100"/> </a> </p>
 
 
-#### Trading strategies is a method for investors and traders to develop strategies that works for them to gain profits. On the other hand, traders need to find the right method or strategies that works for them. Trader needs to test their strategies by backtesting; however, strategies might not work on live trading compare to testing on past data :bar_chart:  
+#### Trading strategies are methods for investors and traders to develop strategies that work for them, enabling them to gain profits. Conversely, traders need to find the right methods or strategies that work for them. Traders need to test their strategies through backtesting; however, strategies may not work as effectively in live trading compared to testing on past data. :bar_chart:  
 ## Author:  
 ### * Tin Hang  
 
-## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
+## 🔴 Warning: This is not a financial advisor. Do not use this for investing or trading. It is for educational purposes only.  
