@@ -121,7 +121,7 @@ https://www.tableau.com/products/desktop/download
 
 
 # List of Trading Strategies  
-#### Description: There are many various methods used to accomplish different trading strategy; therefore, each with appropriate market environments and risks inherent in the strategy. Trading strategy is a technique of buying and selling in the markets that is based on predefined rules used to make trading decisions.  
+#### Description: There are various methods used to accomplish different trading strategies, each suited to specific market environments and carrying inherent risks. A trading strategy is a technique for buying and selling in the markets, relying on predefined rules to guide trading decisions.  
 :large_blue_diamond:  
 Trend-following Strategies  
 Algorithmic Trading Strategies  
@@ -144,7 +144,7 @@ Performance Analysis
 Quantitative Analysis  
 
 # List of Portfolio Strategies or Investment Strategies  
-#### Description: Portfolio strategies is an investment method for investors to use their assets to achieve their financial goals. It is a plan that helps you generate the best investment returns.     
+#### Description: Portfolio strategies are investment methods for investors to utilize their assets in order to achieve their financial goals. They represent a plan that assists in generating optimal investment returns.   
 :large_blue_diamond:  
 Arbitrage Pricing Theory (APT)  
 Long-term Investment  
@@ -183,7 +183,7 @@ Obama Stock Portfolio
 Trump Stock Portfolio  
 
 # List Type of Risks  
-#### Description: Risk measures are statistical method to defined the individual stock or together to perform a risk assessment. Risk is a measurement of possible portfolio loss and is a risk factors that determine risk exposure. The most common types of market risk include interest rate risk, equity risk, commodity risk, and currency risk.
+#### Description: Risk measures are statistical methods used to define the risk associated with individual stocks or portfolios. Risk is a measurement of potential portfolio loss and is influenced by various risk factors that determine the level of risk exposure. The most common types of market risk include interest rate risk, equity risk, commodity risk, and currency risk.  
 :large_blue_diamond:  
 Commodity Risk  
 Currency Risk  
