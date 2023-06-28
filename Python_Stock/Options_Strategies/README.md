@@ -49,10 +49,15 @@ Options analysis is a method for investors use for to buy call and put; therefor
 #### Out of the Money (OTM) 
 - is an option whose strike price is above the current stock and the option is made up of entirely extrinsic value.  
 
+### Understanding "rolling over options"
+Rolling options means you close your existing option position (either by selling it or letting it expire) and open a new option position with similar terms but based on the updated stock price. This way, you can continue to benefit from your market prediction without needing to wait for the current option to finish.  
+
+For example, let's say you have a call option to buy Company XYZ's stock at $50 per share, and the stock price has risen to $60 per share. You believe the stock will continue to increase, so instead of waiting for the current option to expire, you roll the option. You close your existing call option and open a new call option with a strike price of $60 (matching the current stock price).  
+
+By rolling the option, you can take advantage of the stock's upward movement without waiting for the expiration of the initial option. It gives you the flexibility to adjust your position based on changing market conditions.  
 
 <img src="Cheatsheet_Options.PNG">  
-   
-      
+ 
 ## Options Strategies    
 1. Long Call
 2. Long Put
