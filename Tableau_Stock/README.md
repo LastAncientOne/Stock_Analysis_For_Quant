@@ -2,7 +2,7 @@
 
 # Tableau for Stock Trading and Investment  
 ### Description:
-#### Stock analysis in tableau is a method for investors use (short or long term) and traders to make buying and selling decisions. By studying and evaluating the past and current historical data, fundamental data, news, and social media. While investors and traders attempt to gain a winning edge in the markets by making the best decisions. :chart_with_upwards_trend: :chart_with_downwards_trend:  
+#### Stock analysis in Tableau is a method that investors (both short-term and long-term) and traders use to make buying and selling decisions. It involves studying and evaluating past and current historical data, fundamental data, news, and social media. Investors and traders aim to gain a competitive advantage in the market by making informed decisions. :chart_with_upwards_trend: :chart_with_downwards_trend:  
 
 ### Tableau with Python
 #### TabPy  
