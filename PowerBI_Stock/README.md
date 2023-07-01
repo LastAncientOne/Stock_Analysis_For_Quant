@@ -3,7 +3,7 @@
 # Power BI for Stock Trading and Investment  
 
 ### Description:
-#### Collecting historical data or fundmental data. Analyzing stock data. Using techncial indicator in Power BI.   
+#### Collecting historical or fundamental data, analyzing stock data, and utilizing technical indicators in Power BI.  
 
 ### Download Software  
 https://powerbi.microsoft.com/en-us/downloads/   
