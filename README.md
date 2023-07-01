@@ -87,6 +87,9 @@
 ### What is risk?  
 #### All investments have some degree of risk. In finance, risk refers to the degree of uncertainty and/or potential financial loss inherent in an investment decision.  There are many different types of risk such as business risk, volatility risk, inflation risk, interest rate risk, and liquidity risk.  
 
+### What is trading strategies?
+####  Trading strategies are methods that investors and traders use to develop approaches tailored to their needs, allowing them to generate profits. Conversely, traders must find the appropriate methods or strategies that suit them. To ensure effectiveness, traders need to test their strategies through backtesting. However, it is important to note that strategies may not perform as effectively during live trading when compared to testing on historical data. :bar_chart:  
+
 ### What is Quantitative research?
 #### Quantitative research is the process of collecting and analyzing numerical data to find patterns and averages, make predictions, test causal relationships, and generalize results to wider populations. Also, quantitative research deals with numbers and statistics. Quantitative research can have expressed in numbers and graphs. It is used to test or confirm theories and assumptions.  
 
