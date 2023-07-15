@@ -36,7 +36,7 @@ Treynor Ratio
 Appraisal Ratio  
 Bernardo Ledoit Ratio  
 Burke Ratio  
-Modified Burket Ratio  
+Modified Burke Ratio  
 Calmar Ratio  
 Conditional Sharpe Ratio  
 Gain Loss Ratio  
