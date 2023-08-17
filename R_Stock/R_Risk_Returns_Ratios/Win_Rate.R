@@ -1,6 +1,5 @@
 # Load the required library
 library(quantmod)
-library(PerformanceAnalytics)
 
 # Individual symbol
 # Set the start and end date of the analysis
