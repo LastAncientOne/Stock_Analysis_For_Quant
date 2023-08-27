@@ -287,4 +287,4 @@ https://www.optionstrading.org/strategies/a-z-list/ (Options Trading Strategies)
 
 ## 🔴 This is not get rich quick.  
 ## 🔴 This is not financial advisor.   
-## 🔴 This is for researching and educational purposes.
+## 🔴 This is for research and educational purposes.
