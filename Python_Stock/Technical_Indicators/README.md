@@ -146,7 +146,7 @@ ZigZag
 
 ## Will Add more indicators
 
-## I hope you enjoy learning about stock indicators.
+## I hope you enjoy learning about technical indicators.
 
 ## Author:  
 ### * Tin Hang  
