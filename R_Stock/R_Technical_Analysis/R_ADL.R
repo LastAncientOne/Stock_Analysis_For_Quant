@@ -1,6 +1,7 @@
 # Load necessary libraries
 library(quantmod)
 library(ggplot2)
+library(gridExtra)
 
 # Get stock data
 getSymbols('AAPL', from='2016-01-01', to='2018-01-01', adjust = TRUE)
@@ -23,5 +24,4 @@ adl_chart <- ggplot(Stock, aes(x = index(Stock), y = ADL)) +
        y = "ADL")
 
 # Arrange charts using grid
-library(gridExtra)
 grid.arrange(closing_price_chart, adl_chart, ncol = 1)
