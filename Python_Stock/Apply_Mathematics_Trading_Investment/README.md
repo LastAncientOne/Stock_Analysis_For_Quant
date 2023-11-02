@@ -3,7 +3,8 @@
 # Apply Mathematics in Trading and Investment
 
 ### Description:
-Profitable trading is more about applying mathematics. Using mathematics for trading strategies.  
+Profitable trading is more about applying mathematics. Using mathematics for trading strategies. 
+Applied Quantitiative Finance  
 Statistics, Probability, Calculus, Linear Algebra, Optimization, Algorithms and Data Structures in trading and investment  
 Econometric Models (Forecasting and studying statistical significance)   
 Econophysics Models (Advance Research)  
@@ -30,7 +31,7 @@ Information theory is the mathematical system  that overlaps into communications
 
 Intergal is a mathematical object that can be interpreted as an area or a generalization of area. Finding an Integral is the reverse of finding a Derivative. Other words for integral include antiderivative and primitive.  
 
-LInear algebra is methametical about linear combination. It uses arithmetic on columns of numbers called vectors and arrays of numbers called matrices. Matrice creates new columns and arrays of numbers. Linear algebra is the study of lines and planes, vector spaces and mappings that are required for linear transforms.  
+Linear algebra is methametical about linear combination. It uses arithmetic on columns of numbers called vectors and arrays of numbers called matrices. Matrice creates new columns and arrays of numbers. Linear algebra is the study of lines and planes, vector spaces and mappings that are required for linear transforms.  
 
 Mahalanobis distance is a metric for an effective multivariate distance to measures the distance between a point and a distribution.
 
