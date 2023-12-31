@@ -1,7 +1,7 @@
 # sim.es() and simulate() - simulation functions for Exponential Smoothing.
 # Load the required libraries
 library(quantmod)
-library(forecast)
+library(smooth)
 
 # Define your stock symbol and date range
 symbol <- "NVDA"  # Change this to your desired stock symbol
@@ -22,7 +22,7 @@ gamma <- NULL  # Smoothing parameter (set to NULL for simple exponential smoothi
 method <- "AAN"  # Exponential Smoothing method (AAN for Additive Error, Additive Trend, Additive Seasonality)
 
 # Fit the exponential smoothing model
-es_model <- ets(stock_data, model = "AAN", alpha = alpha, beta = beta, gamma = gamma)
+es_model <- es(stock_data, model = method, alpha = alpha, beta = beta, gamma = gamma)
 
 # Plot the results
 plot(forecast(es_model))
