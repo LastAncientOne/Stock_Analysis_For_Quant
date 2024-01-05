@@ -1,3 +1,5 @@
+<img src="FORECAST.PNG">  
+
 # Forecast in R  
 
 ### Description:  
