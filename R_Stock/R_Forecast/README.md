@@ -8,6 +8,7 @@
 ### Forecast Libraries:  
 forecast https://github.com/robjhyndman/forecast/    
 smooth https://github.com/cran/smooth/  
+stats https://cran.r-project.org/web/packages/STAT/index.html   
 
 ## Author:  
 ### * Tin Hang  
