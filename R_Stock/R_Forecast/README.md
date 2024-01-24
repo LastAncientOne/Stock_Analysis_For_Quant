@@ -13,4 +13,5 @@ tsa https://cran.r-project.org/web/packages/TSA/index.html
 
 ## Author:  
 ### * Tin Hang  
+## 🔴 Warning: This is not a financial advisor. Do not use this for investing or trading. It is for educational purposes only.  
 
