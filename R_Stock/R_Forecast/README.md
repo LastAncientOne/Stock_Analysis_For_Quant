@@ -10,6 +10,7 @@ forecast https://github.com/robjhyndman/forecast/
 smooth https://github.com/cran/smooth/  
 stats https://cran.r-project.org/web/packages/STAT/index.html   
 tsa https://cran.r-project.org/web/packages/TSA/index.html  
+prophet https://github.com/facebook/prophet  
 
 ## Author:  
 ### * Tin Hang  
