@@ -22,4 +22,4 @@ https://www.tableau.com/products/desktop/download
 ## Author:  
 ### * Tin Hang  
 
-## 🔴 Warning: This is not a financial advisor. Do not use this for investing or trading. It is for educational purposes only.  
+## 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.   
