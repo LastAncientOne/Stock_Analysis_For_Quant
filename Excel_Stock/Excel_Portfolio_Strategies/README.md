@@ -7,5 +7,4 @@
 
 ## Author  
 ### * Tin Hang  
-
-## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
+## 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.  
