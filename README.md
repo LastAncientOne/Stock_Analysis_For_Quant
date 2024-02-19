@@ -26,7 +26,6 @@
 <img src="Quants.PNG">
 <h1 align="center">Stock Analysis For Quant</h1>
 
-
 | Programming Language and Software | Github Links |
 | :--- | :--- |
 | Stock Analysis in Excel | [Excel](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Excel_Stock)|
