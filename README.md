@@ -59,6 +59,9 @@
 ### What is fixed income?
 #### Fixed income is an investment approach focused on preservation of capital and income. Fixed income includes investments like government and corporate bonds, CDs and money market funds. Fixed income can offer a steady stream of income with less risk than stocks.   
 
+### What is Government-Sponsored Enterprise (GSE)?  
+#### Government-Sponsored Enterprise (GSE) is a financial services corporation created by the United States Congress. These entities are designed to enhance the flow of credit to specific sectors of the economy while operating under government oversight. GSEs typically have a public mandate to serve some public policy goal, such as increasing access to home ownership or facilitating agricultural lending.  
+
 ### What is global equity fund?
 #### A global equity fund is sub-category of funds on the stock funds side of the ledger. A global equity fund has the latitude to buy shares of companies from any country including the United States. Global equity fund will keep a certain portion of its assets invested in U.S. stocks and the balance invested in international stocks.  
 
