@@ -1,4 +1,1 @@
-<p align="center">
-  # Volatility in R  
-</p>
-
+<p align="center"><span style="font-size: 24px; color: blue;">Volatility in R</span></p>
