@@ -267,7 +267,7 @@ Bloomberg Aggregate Bond Index
 Leveraged Loans   
 Treasury inflation-protected securities (TIPS)  
 
-# 👋 Enjoyed diving into 'Stock Analysis for Quant' and finding value in it? If so, consider supporting me with a cup of coffee! Your contribution helps fuel further learning and development. Thank you for your support!   
+## Hey there! ☕️ Have you been finding value in learning about "Stock Analysis for Quant"? If you've been enjoying the journey and gaining insights from my content, I'd truly appreciate your support! By buying me a coffee, you're not only showing your appreciation but also fueling future content creation and learning opportunities for both of us. Your contribution goes a long way in helping me continue to provide quality insights and resources. Thank you for being a part of this community and for considering supporting my work! Let's keep learning and growing together." 🚀  
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
 
