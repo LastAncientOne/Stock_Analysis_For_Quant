@@ -1,4 +1,4 @@
-# Rridge Regression
+# Ridge Regression
 
 library(quantmod)
 library(modelr)
