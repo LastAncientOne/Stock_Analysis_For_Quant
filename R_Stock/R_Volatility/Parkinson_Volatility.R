@@ -8,13 +8,30 @@ symbol <- "AAPL"
 start_date <- as.Date("2020-01-01")
 end_date <- Sys.Date()
 
-# Get the historical data
-getSymbols(symbol, from = start_date, to = end_date)
-data <- get(symbol)
+# Calculate Parkinson Volatility
+parkinson_volatility <- function(high, low, T) {
+  # Calculate the logarithm of high/low ratio
+  log_ratio <- log(high / low)
+  
+  # Calculate the square of log ratio
+  log_ratio_sq <- log_ratio^2
+  
+  # Calculate the sum of squared log ratio
+  sum_log_ratio_sq <- sum(log_ratio_sq)
+  
+  # Calculate the Parkinson Volatility
+  parkinson_vol <- sqrt((1 / (4 * T)) * sum_log_ratio_sq)
+  
+  return(parkinson_vol)
+}
+
+# Assuming 'data' contains OHLC data
+T <- nrow(data)  # Number of data points (24 in your formula)
+high <- data$AAPL.High
+low <- data$AAPL.Low
 
 # Calculate Parkinson Volatility
-high_low <- log(data$AAPL.High / data$AAPL.Low)^2
-parkinson_volatility <- sqrt((1 / (4 * log(2))) * high_low)
+parkinson_vol <- parkinson_volatility(high, low, T)
 
-# View Parkinson Volatility
-head(parkinson_volatility)
+# Print the result
+print(parkinson_vol)
