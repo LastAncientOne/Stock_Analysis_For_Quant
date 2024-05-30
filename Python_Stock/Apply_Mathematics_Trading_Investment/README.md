@@ -3,9 +3,10 @@
 # Apply Mathematics in Trading and Investment
 
 ### Description:
-Profitable trading is more about applying mathematics. Using mathematics for trading strategies. 
-Applied Quantitiative Finance  
-Statistics, Probability, Calculus, Linear Algebra, Optimization, Algorithms and Data Structures in trading and investment  
+Experimental mathematical equation using stock data.   
+Profitable trading is more about applying mathematics. Using mathematics for trading strategies.  
+Applied Quantitiative Finance    
+Statistics, Probability, Calculus, Linear Algebra, Optimization, Algorithms and Data Structures in trading and investment   
 Econometric Models (Forecasting and studying statistical significance)   
 Econophysics Models (Advance Research)  
 Financial Engineering Models (Trading, Quantitative Analysis and Random Simulation)  
