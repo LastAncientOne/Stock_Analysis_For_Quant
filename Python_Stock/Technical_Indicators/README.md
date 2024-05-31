@@ -148,9 +148,6 @@ ZigZag
 
 ## I hope you enjoy learning about technical indicators.
 
-## Author:  
-### * Tin Hang  
-
 ## References
 https://www.investopedia.com/  
 https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators  
@@ -163,3 +160,7 @@ https://www.barchart.com/education/technical-indicators/mcginley_dynamic
 https://www.danielstrading.com/education/technical-analysis-learning-center  
 https://www.marketvolume.com/technicalanalysis/  
 
+## Author  
+### * Tin Hang  
+
+## 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.  
