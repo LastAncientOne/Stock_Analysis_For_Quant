@@ -1,7 +1,7 @@
 
 <img src="Candlestick.PNG">
 
-# Candlestick in Python
+<h1 align="center">Candlestick in Python</h1>   
 
 <img src="CandlestickPattern.PNG">
 <img src="Candlestick1.PNG">
