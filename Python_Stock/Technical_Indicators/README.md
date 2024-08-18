@@ -144,7 +144,7 @@ ZigZag
 
 <img src="StockIndicators.png">
 
-## Will Add more indicators
+## Will Add more indicators 📈 📉 
 
 ## I hope you enjoy learning about technical indicators.
 
