@@ -150,6 +150,7 @@ ZigZag
 
 ## References
 https://www.investopedia.com/  
+https://en.wikipedia.org/wiki/Category:Technical_indicators  
 https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators  
 https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/list-of-technical-indicators/  
 https://library.tradingtechnologies.com/trade/chrt-technical-indicators.html  
@@ -159,6 +160,8 @@ https://www.fmlabs.com/reference/default.htm
 https://www.barchart.com/education/technical-indicators/mcginley_dynamic  
 https://www.danielstrading.com/education/technical-analysis-learning-center  
 https://www.marketvolume.com/technicalanalysis/  
+https://www.incrediblecharts.com/indicators/technical-indicators.php  
+
 
 ## Author  
 ### * Tin Hang  
