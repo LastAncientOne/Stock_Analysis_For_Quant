@@ -1,7 +1,12 @@
 # Neural Network Regression
-
 library(quantmod)
 library(neuralnet)
+
+# Pull data from Yahoo finance 
+getSymbols('AAPL', from='2016-01-01', to='2018-01-01', adjust = TRUE)
+Stock <- AAPL
+Stock <- data.frame(AAPL)
+Stock$Date <- as.Date(rownames(Stock))
 
 # Assign independent and dependent variables
 x <- Stock$AAPL.Open
